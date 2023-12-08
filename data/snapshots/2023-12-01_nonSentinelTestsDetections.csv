@@ -7137,6 +7137,1233 @@ non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,34115
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,3188
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,14111
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,52343
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,36
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,241
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,294
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,591
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,188
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1164
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,134
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1308
+non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2826
+non-sentinel,Estonia,2023-W46,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W46,Influenza,Influenza,total,tests,total,145
+non-sentinel,Estonia,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2023-W46,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W46,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W46,RSV,RSV,RSV,detections,total,2
+non-sentinel,Estonia,2023-W46,RSV,RSV,RSV,tests,total,37
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,179
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,306
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,529
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,191
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1000
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,118
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1284
+non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2613
+non-sentinel,Estonia,2023-W45,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W45,Influenza,Influenza,total,tests,total,183
+non-sentinel,Estonia,2023-W45,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W45,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W45,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W45,RSV,RSV,RSV,tests,total,39
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,168
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,269
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,474
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,134
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,938
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,98
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1268
+non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2459
+non-sentinel,Estonia,2023-W44,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W44,Influenza,Influenza,total,tests,total,159
+non-sentinel,Estonia,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2023-W44,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W44,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W44,RSV,RSV,RSV,tests,total,48
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,152
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,248
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,427
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,140
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,891
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,100
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1166
+non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2319
+non-sentinel,Estonia,2023-W43,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W43,Influenza,Influenza,total,tests,total,127
+non-sentinel,Estonia,2023-W43,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W43,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W43,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W43,RSV,RSV,RSV,tests,total,31
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,103
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,143
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,273
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,125
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,705
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,79
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,813
+non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1741
+non-sentinel,Estonia,2023-W42,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W42,Influenza,Influenza,total,tests,total,98
+non-sentinel,Estonia,2023-W42,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W42,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W42,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W42,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,94
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,158
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,118
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,678
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,78
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,733
+non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1632
+non-sentinel,Estonia,2023-W41,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W41,Influenza,Influenza,total,tests,total,81
+non-sentinel,Estonia,2023-W41,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W41,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W41,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W41,RSV,RSV,RSV,tests,total,32
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,42
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,53
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,101
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,101
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,571
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,78
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,541
+non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1307
+non-sentinel,Estonia,2023-W40,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W40,Influenza,Influenza,total,tests,total,49
+non-sentinel,Estonia,2023-W40,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2023-W40,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W40,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W40,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W40,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,31
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,45
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,82
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,111
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,588
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,76
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,665
+non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1457
+non-sentinel,Estonia,2023-W39,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W39,Influenza,Influenza,total,tests,total,50
+non-sentinel,Estonia,2023-W39,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W39,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W39,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W39,RSV,RSV,RSV,tests,total,37
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,45
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,52
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,108
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,102
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,698
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,77
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,633
+non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1527
+non-sentinel,Estonia,2023-W38,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W38,Influenza,Influenza,total,tests,total,53
+non-sentinel,Estonia,2023-W38,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W38,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W38,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W38,RSV,RSV,RSV,tests,total,45
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,53
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,41
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,101
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,100
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,675
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,71
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,633
+non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1492
+non-sentinel,Estonia,2023-W37,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W37,Influenza,Influenza,total,tests,total,38
+non-sentinel,Estonia,2023-W37,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W37,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W37,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W37,RSV,RSV,RSV,tests,total,28
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,46
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,32
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,90
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,109
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,618
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,88
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,582
+non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1397
+non-sentinel,Estonia,2023-W36,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W36,Influenza,Influenza,total,tests,total,41
+non-sentinel,Estonia,2023-W36,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W36,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W36,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W36,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,36
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,37
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,85
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,83
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,494
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,71
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,490
+non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1154
+non-sentinel,Estonia,2023-W35,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W35,Influenza,Influenza,total,tests,total,35
+non-sentinel,Estonia,2023-W35,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W35,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W35,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W35,RSV,RSV,RSV,tests,total,31
+non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
+non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,25
+non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,32
+non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,60
+non-sentinel,Estonia,2023-W34,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W34,Influenza,Influenza,total,tests,total,19
+non-sentinel,Estonia,2023-W34,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W34,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W34,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W34,RSV,RSV,RSV,tests,total,17
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,14
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,23
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,38
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,67
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,413
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,47
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,391
+non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,931
+non-sentinel,Estonia,2023-W33,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W33,Influenza,Influenza,total,tests,total,22
+non-sentinel,Estonia,2023-W33,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W33,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W33,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W33,RSV,RSV,RSV,tests,total,18
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,17
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,23
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,58
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,409
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,28
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,392
+non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,899
+non-sentinel,Estonia,2023-W32,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W32,Influenza,Influenza,total,tests,total,30
+non-sentinel,Estonia,2023-W32,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W32,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W32,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W32,RSV,RSV,RSV,tests,total,24
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,8
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,7
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,17
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,50
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,454
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,36
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,472
+non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1029
+non-sentinel,Estonia,2023-W31,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W31,Influenza,Influenza,total,tests,total,22
+non-sentinel,Estonia,2023-W31,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W31,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W31,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W31,RSV,RSV,RSV,tests,total,17
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,10
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,15
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,56
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,389
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,52
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,454
+non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,975
+non-sentinel,Estonia,2023-W30,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W30,Influenza,Influenza,total,tests,total,18
+non-sentinel,Estonia,2023-W30,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W30,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W30,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W30,RSV,RSV,RSV,tests,total,13
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,21
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,21
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,47
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,66
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,449
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,38
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,458
+non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1033
+non-sentinel,Estonia,2023-W28,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W28,Influenza,Influenza,total,tests,total,27
+non-sentinel,Estonia,2023-W28,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W28,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W28,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W28,RSV,RSV,RSV,tests,total,22
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,19
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,24
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,44
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,74
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,440
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,37
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,457
+non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1030
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,15
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,11
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,31
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,71
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,484
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,58
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,529
+non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1169
+non-sentinel,Estonia,2023-W26,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W26,Influenza,Influenza,total,tests,total,26
+non-sentinel,Estonia,2023-W26,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W26,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W26,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W26,RSV,RSV,RSV,tests,total,20
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,10
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,23
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,36
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,88
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,567
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,68
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,597
+non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1338
+non-sentinel,Estonia,2023-W25,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2023-W25,Influenza,Influenza,total,tests,total,22
+non-sentinel,Estonia,2023-W25,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W25,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W25,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W25,RSV,RSV,RSV,tests,total,15
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,20
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,30
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,51
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,124
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,572
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,89
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,596
+non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1405
+non-sentinel,Estonia,2023-W24,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W24,Influenza,Influenza,total,tests,total,79
+non-sentinel,Estonia,2023-W24,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W24,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Estonia,2023-W24,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2023-W24,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W24,RSV,RSV,RSV,tests,total,23
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,21
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,40
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,63
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,123
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,687
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,76
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,749
+non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1651
+non-sentinel,Estonia,2023-W23,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W23,Influenza,Influenza,total,tests,total,91
+non-sentinel,Estonia,2023-W23,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W23,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Estonia,2023-W23,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2023-W23,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W23,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,33
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,60
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,96
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,117
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,732
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,64
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,773
+non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1704
+non-sentinel,Estonia,2023-W22,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W22,Influenza,Influenza,total,tests,total,84
+non-sentinel,Estonia,2023-W22,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2023-W22,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W22,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W22,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W22,RSV,RSV,RSV,tests,total,21
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,40
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,71
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,120
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,136
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,858
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,92
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,773
+non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1888
+non-sentinel,Estonia,2023-W21,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2023-W21,Influenza,Influenza,total,tests,total,99
+non-sentinel,Estonia,2023-W21,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W21,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Estonia,2023-W21,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2023-W21,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W21,RSV,RSV,RSV,tests,total,39
+non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
+non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
+non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
+non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,80
+non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,149
+non-sentinel,Estonia,2023-W20,Influenza,Influenza,total,detections,total,2
+non-sentinel,Estonia,2023-W20,Influenza,Influenza,total,tests,total,104
+non-sentinel,Estonia,2023-W20,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W20,Influenza,Influenza B,B (unknown),detections,total,2
+non-sentinel,Estonia,2023-W20,Influenza,Influenza B,total,detections,total,2
+non-sentinel,Estonia,2023-W20,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W20,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,84
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,81
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,181
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,178
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1094
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,123
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,950
+non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2382
+non-sentinel,Estonia,2023-W19,Influenza,Influenza,total,detections,total,4
+non-sentinel,Estonia,2023-W19,Influenza,Influenza,total,tests,total,150
+non-sentinel,Estonia,2023-W19,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W19,Influenza,Influenza B,B (unknown),detections,total,2
+non-sentinel,Estonia,2023-W19,Influenza,Influenza B,B/Vic,detections,total,2
+non-sentinel,Estonia,2023-W19,Influenza,Influenza B,total,detections,total,4
+non-sentinel,Estonia,2023-W19,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W19,RSV,RSV,RSV,tests,total,33
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,77
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,106
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,193
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,151
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1241
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,143
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1112
+non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2689
+non-sentinel,Estonia,2023-W18,Influenza,Influenza,total,detections,total,3
+non-sentinel,Estonia,2023-W18,Influenza,Influenza,total,tests,total,194
+non-sentinel,Estonia,2023-W18,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W18,Influenza,Influenza B,B/Vic,detections,total,3
+non-sentinel,Estonia,2023-W18,Influenza,Influenza B,total,detections,total,3
+non-sentinel,Estonia,2023-W18,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2023-W18,RSV,RSV,RSV,tests,total,36
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,79
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,113
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,208
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,180
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1232
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,125
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1080
+non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2659
+non-sentinel,Estonia,2023-W17,Influenza,Influenza,total,detections,total,21
+non-sentinel,Estonia,2023-W17,Influenza,Influenza,total,tests,total,219
+non-sentinel,Estonia,2023-W17,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W17,Influenza,Influenza B,B (unknown),detections,total,18
+non-sentinel,Estonia,2023-W17,Influenza,Influenza B,B/Vic,detections,total,3
+non-sentinel,Estonia,2023-W17,Influenza,Influenza B,total,detections,total,21
+non-sentinel,Estonia,2023-W17,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W17,RSV,RSV,RSV,tests,total,36
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,106
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,164
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,284
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,188
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1335
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,130
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1323
+non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3045
+non-sentinel,Estonia,2023-W16,Influenza,Influenza,total,detections,total,5
+non-sentinel,Estonia,2023-W16,Influenza,Influenza,total,tests,total,181
+non-sentinel,Estonia,2023-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2023-W16,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W16,Influenza,Influenza B,B/Vic,detections,total,4
+non-sentinel,Estonia,2023-W16,Influenza,Influenza B,total,detections,total,4
+non-sentinel,Estonia,2023-W16,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W16,RSV,RSV,RSV,tests,total,28
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,120
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,192
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,330
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,170
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1364
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,156
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1357
+non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3121
+non-sentinel,Estonia,2023-W15,Influenza,Influenza,total,detections,total,9
+non-sentinel,Estonia,2023-W15,Influenza,Influenza,total,tests,total,213
+non-sentinel,Estonia,2023-W15,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2023-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Estonia,2023-W15,Influenza,Influenza A,total,detections,total,4
+non-sentinel,Estonia,2023-W15,Influenza,Influenza B,B/Vic,detections,total,5
+non-sentinel,Estonia,2023-W15,Influenza,Influenza B,total,detections,total,5
+non-sentinel,Estonia,2023-W15,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W15,RSV,RSV,RSV,tests,total,71
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,143
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,196
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,365
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,159
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1556
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,143
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1402
+non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3328
+non-sentinel,Estonia,2023-W14,Influenza,Influenza,total,detections,total,8
+non-sentinel,Estonia,2023-W14,Influenza,Influenza,total,tests,total,213
+non-sentinel,Estonia,2023-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2023-W14,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2023-W14,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Estonia,2023-W14,Influenza,Influenza B,B/Vic,detections,total,6
+non-sentinel,Estonia,2023-W14,Influenza,Influenza B,total,detections,total,7
+non-sentinel,Estonia,2023-W14,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2023-W14,RSV,RSV,RSV,tests,total,29
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,17
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,170
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,7
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,192
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,392
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,167
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1605
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,201
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1278
+non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3300
+non-sentinel,Estonia,2023-W13,Influenza,Influenza,total,detections,total,17
+non-sentinel,Estonia,2023-W13,Influenza,Influenza,total,tests,total,500
+non-sentinel,Estonia,2023-W13,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2023-W13,Influenza,Influenza B,B/Vic,detections,total,17
+non-sentinel,Estonia,2023-W13,Influenza,Influenza B,total,detections,total,17
+non-sentinel,Estonia,2023-W13,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2023-W13,RSV,RSV,RSV,tests,total,31
+non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,12
+non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,151
+non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
+non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,209
+non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,382
+non-sentinel,Estonia,2023-W12,Influenza,Influenza,total,detections,total,20
+non-sentinel,Estonia,2023-W12,Influenza,Influenza,total,tests,total,245
+non-sentinel,Estonia,2023-W12,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Estonia,2023-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2023-W12,Influenza,Influenza A,total,detections,total,3
+non-sentinel,Estonia,2023-W12,Influenza,Influenza B,B (unknown),detections,total,11
+non-sentinel,Estonia,2023-W12,Influenza,Influenza B,B/Vic,detections,total,6
+non-sentinel,Estonia,2023-W12,Influenza,Influenza B,total,detections,total,17
+non-sentinel,Estonia,2023-W12,RSV,RSV,RSV,detections,total,3
+non-sentinel,Estonia,2023-W12,RSV,RSV,RSV,tests,total,39
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,151
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,6
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,173
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,349
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,197
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1675
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,170
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1400
+non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3492
+non-sentinel,Estonia,2023-W11,Influenza,Influenza,total,detections,total,20
+non-sentinel,Estonia,2023-W11,Influenza,Influenza,total,tests,total,400
+non-sentinel,Estonia,2023-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,7
+non-sentinel,Estonia,2023-W11,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Estonia,2023-W11,Influenza,Influenza A,total,detections,total,10
+non-sentinel,Estonia,2023-W11,Influenza,Influenza B,B (unknown),detections,total,3
+non-sentinel,Estonia,2023-W11,Influenza,Influenza B,B/Vic,detections,total,7
+non-sentinel,Estonia,2023-W11,Influenza,Influenza B,total,detections,total,10
+non-sentinel,Estonia,2023-W11,RSV,RSV,RSV,detections,total,3
+non-sentinel,Estonia,2023-W11,RSV,RSV,RSV,tests,total,46
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,164
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,167
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,364
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,178
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1811
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,197
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1514
+non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3752
+non-sentinel,Estonia,2023-W10,Influenza,Influenza,total,detections,total,12
+non-sentinel,Estonia,2023-W10,Influenza,Influenza,total,tests,total,80
+non-sentinel,Estonia,2023-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Estonia,2023-W10,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Estonia,2023-W10,Influenza,Influenza A,total,detections,total,10
+non-sentinel,Estonia,2023-W10,Influenza,Influenza B,B/Vic,detections,total,2
+non-sentinel,Estonia,2023-W10,Influenza,Influenza B,total,detections,total,2
+non-sentinel,Estonia,2023-W10,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W10,RSV,RSV,RSV,tests,total,39
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,149
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,142
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,312
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,177
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1767
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,188
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1326
+non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3502
+non-sentinel,Estonia,2023-W09,Influenza,Influenza,total,detections,total,32
+non-sentinel,Estonia,2023-W09,Influenza,Influenza,total,tests,total,690
+non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A (unknown),detections,total,8
+non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Estonia,2023-W09,Influenza,Influenza A,total,detections,total,13
+non-sentinel,Estonia,2023-W09,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Estonia,2023-W09,Influenza,Influenza B,B/Vic,detections,total,15
+non-sentinel,Estonia,2023-W09,Influenza,Influenza B,total,detections,total,19
+non-sentinel,Estonia,2023-W09,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2023-W09,RSV,RSV,RSV,tests,total,62
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,139
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,147
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,305
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,184
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1831
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,170
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1451
+non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3685
+non-sentinel,Estonia,2023-W08,Influenza,Influenza,total,detections,total,18
+non-sentinel,Estonia,2023-W08,Influenza,Influenza,total,tests,total,283
+non-sentinel,Estonia,2023-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,4
+non-sentinel,Estonia,2023-W08,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Estonia,2023-W08,Influenza,Influenza A,total,detections,total,8
+non-sentinel,Estonia,2023-W08,Influenza,Influenza B,B/Vic,detections,total,10
+non-sentinel,Estonia,2023-W08,Influenza,Influenza B,total,detections,total,10
+non-sentinel,Estonia,2023-W08,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2023-W08,RSV,RSV,RSV,tests,total,17
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,101
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,11
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,144
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,271
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,219
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1707
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,227
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1315
+non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3501
+non-sentinel,Estonia,2023-W07,Influenza,Influenza,total,detections,total,21
+non-sentinel,Estonia,2023-W07,Influenza,Influenza,total,tests,total,370
+non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A (unknown),detections,total,4
+non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Estonia,2023-W07,Influenza,Influenza A,total,detections,total,10
+non-sentinel,Estonia,2023-W07,Influenza,Influenza B,B/Vic,detections,total,11
+non-sentinel,Estonia,2023-W07,Influenza,Influenza B,total,detections,total,11
+non-sentinel,Estonia,2023-W07,RSV,RSV,RSV,detections,total,3
+non-sentinel,Estonia,2023-W07,RSV,RSV,RSV,tests,total,31
+non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,153
+non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
+non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,149
+non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,322
+non-sentinel,Estonia,2023-W06,Influenza,Influenza,total,detections,total,18
+non-sentinel,Estonia,2023-W06,Influenza,Influenza,total,tests,total,200
+non-sentinel,Estonia,2023-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Estonia,2023-W06,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Estonia,2023-W06,Influenza,Influenza A,total,detections,total,14
+non-sentinel,Estonia,2023-W06,Influenza,Influenza B,B/Vic,detections,total,4
+non-sentinel,Estonia,2023-W06,Influenza,Influenza B,total,detections,total,4
+non-sentinel,Estonia,2023-W06,RSV,RSV,RSV,detections,total,10
+non-sentinel,Estonia,2023-W06,RSV,RSV,RSV,tests,total,60
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,13
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,159
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,7
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,146
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,328
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,226
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2022
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,197
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1548
+non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4046
+non-sentinel,Estonia,2023-W05,Influenza,Influenza,total,detections,total,25
+non-sentinel,Estonia,2023-W05,Influenza,Influenza,total,tests,total,350
+non-sentinel,Estonia,2023-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Estonia,2023-W05,Influenza,Influenza A,A(H3),detections,total,9
+non-sentinel,Estonia,2023-W05,Influenza,Influenza A,total,detections,total,17
+non-sentinel,Estonia,2023-W05,Influenza,Influenza B,B/Vic,detections,total,8
+non-sentinel,Estonia,2023-W05,Influenza,Influenza B,total,detections,total,8
+non-sentinel,Estonia,2023-W05,RSV,RSV,RSV,detections,total,2
+non-sentinel,Estonia,2023-W05,RSV,RSV,RSV,tests,total,38
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,127
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,12
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,161
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,306
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,215
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2201
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,238
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1729
+non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4421
+non-sentinel,Estonia,2023-W04,Influenza,Influenza,total,detections,total,24
+non-sentinel,Estonia,2023-W04,Influenza,Influenza,total,tests,total,316
+non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A (unknown),detections,total,7
+non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A(H3),detections,total,9
+non-sentinel,Estonia,2023-W04,Influenza,Influenza A,total,detections,total,22
+non-sentinel,Estonia,2023-W04,Influenza,Influenza B,B/Vic,detections,total,2
+non-sentinel,Estonia,2023-W04,Influenza,Influenza B,total,detections,total,2
+non-sentinel,Estonia,2023-W04,RSV,RSV,RSV,detections,total,2
+non-sentinel,Estonia,2023-W04,RSV,RSV,RSV,tests,total,45
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,184
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,176
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,384
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,252
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3546
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,237
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2163
+non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6238
+non-sentinel,Estonia,2023-W03,Influenza,Influenza,total,detections,total,19
+non-sentinel,Estonia,2023-W03,Influenza,Influenza,total,tests,total,329
+non-sentinel,Estonia,2023-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Estonia,2023-W03,Influenza,Influenza A,A(H3),detections,total,13
+non-sentinel,Estonia,2023-W03,Influenza,Influenza A,total,detections,total,19
+non-sentinel,Estonia,2023-W03,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2023-W03,RSV,RSV,RSV,detections,total,8
+non-sentinel,Estonia,2023-W03,RSV,RSV,RSV,tests,total,38
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,12
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,124
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,152
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,301
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,215
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2323
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,225
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1746
+non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4552
+non-sentinel,Estonia,2023-W02,Influenza,Influenza,total,detections,total,25
+non-sentinel,Estonia,2023-W02,Influenza,Influenza,total,tests,total,346
+non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,10
+non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A(H3),detections,total,12
+non-sentinel,Estonia,2023-W02,Influenza,Influenza A,total,detections,total,24
+non-sentinel,Estonia,2023-W02,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Estonia,2023-W02,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2023-W02,RSV,RSV,RSV,detections,total,4
+non-sentinel,Estonia,2023-W02,RSV,RSV,RSV,tests,total,37
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,171
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,181
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,377
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,254
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2307
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,171
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1885
+non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4654
+non-sentinel,Estonia,2023-W01,Influenza,Influenza,total,detections,total,63
+non-sentinel,Estonia,2023-W01,Influenza,Influenza,total,tests,total,383
+non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A (unknown),detections,total,20
+non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,15
+non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A(H3),detections,total,27
+non-sentinel,Estonia,2023-W01,Influenza,Influenza A,total,detections,total,62
+non-sentinel,Estonia,2023-W01,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Estonia,2023-W01,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2023-W01,RSV,RSV,RSV,detections,total,10
+non-sentinel,Estonia,2023-W01,RSV,RSV,RSV,tests,total,52
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,169
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,215
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,397
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,268
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2444
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,192
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1919
+non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4887
+non-sentinel,Estonia,2022-W52,Influenza,Influenza,total,detections,total,97
+non-sentinel,Estonia,2022-W52,Influenza,Influenza,total,tests,total,447
+non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A (unknown),detections,total,67
+non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A(H3),detections,total,24
+non-sentinel,Estonia,2022-W52,Influenza,Influenza A,total,detections,total,97
+non-sentinel,Estonia,2022-W52,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W52,RSV,RSV,RSV,detections,total,11
+non-sentinel,Estonia,2022-W52,RSV,RSV,RSV,tests,total,67
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,22
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,227
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,276
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,541
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,531
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,9983
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,914
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2709
+non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,14639
+non-sentinel,Estonia,2022-W51,Influenza,Influenza,total,detections,total,78
+non-sentinel,Estonia,2022-W51,Influenza,Influenza,total,tests,total,400
+non-sentinel,Estonia,2022-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,11
+non-sentinel,Estonia,2022-W51,Influenza,Influenza A,A(H3),detections,total,67
+non-sentinel,Estonia,2022-W51,Influenza,Influenza A,total,detections,total,78
+non-sentinel,Estonia,2022-W51,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W51,RSV,RSV,RSV,detections,total,9
+non-sentinel,Estonia,2022-W51,RSV,RSV,RSV,tests,total,51
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,35
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,342
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,14
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,286
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,681
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,424
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2726
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,336
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1994
+non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5549
+non-sentinel,Estonia,2022-W50,Influenza,Influenza,total,detections,total,70
+non-sentinel,Estonia,2022-W50,Influenza,Influenza,total,tests,total,300
+non-sentinel,Estonia,2022-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Estonia,2022-W50,Influenza,Influenza A,A(H3),detections,total,64
+non-sentinel,Estonia,2022-W50,Influenza,Influenza A,total,detections,total,70
+non-sentinel,Estonia,2022-W50,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W50,RSV,RSV,RSV,detections,total,16
+non-sentinel,Estonia,2022-W50,RSV,RSV,RSV,tests,total,48
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,392
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,15
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,388
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,819
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,354
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4074
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,353
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2654
+non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7480
+non-sentinel,Estonia,2022-W49,Influenza,Influenza,total,detections,total,97
+non-sentinel,Estonia,2022-W49,Influenza,Influenza,total,tests,total,400
+non-sentinel,Estonia,2022-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Estonia,2022-W49,Influenza,Influenza A,A(H3),detections,total,95
+non-sentinel,Estonia,2022-W49,Influenza,Influenza A,total,detections,total,96
+non-sentinel,Estonia,2022-W49,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Estonia,2022-W49,Influenza,Influenza B,total,detections,total,1
+non-sentinel,Estonia,2022-W49,RSV,RSV,RSV,detections,total,11
+non-sentinel,Estonia,2022-W49,RSV,RSV,RSV,tests,total,44
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,297
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,14
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,295
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,624
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,327
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3234
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,345
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2521
+non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6479
+non-sentinel,Estonia,2022-W48,Influenza,Influenza,total,detections,total,73
+non-sentinel,Estonia,2022-W48,Influenza,Influenza,total,tests,total,300
+non-sentinel,Estonia,2022-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Estonia,2022-W48,Influenza,Influenza A,A(H3),detections,total,65
+non-sentinel,Estonia,2022-W48,Influenza,Influenza A,total,detections,total,73
+non-sentinel,Estonia,2022-W48,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W48,RSV,RSV,RSV,detections,total,19
+non-sentinel,Estonia,2022-W48,RSV,RSV,RSV,tests,total,139
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,255
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,15
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,236
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,536
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,335
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3106
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,249
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2748
+non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6493
+non-sentinel,Estonia,2022-W47,Influenza,Influenza,total,detections,total,10
+non-sentinel,Estonia,2022-W47,Influenza,Influenza,total,tests,total,127
+non-sentinel,Estonia,2022-W47,Influenza,Influenza A,A(H3),detections,total,10
+non-sentinel,Estonia,2022-W47,Influenza,Influenza A,total,detections,total,10
+non-sentinel,Estonia,2022-W47,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W47,RSV,RSV,RSV,detections,total,8
+non-sentinel,Estonia,2022-W47,RSV,RSV,RSV,tests,total,47
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,256
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,199
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,474
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,292
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3363
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,217
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2624
+non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6562
+non-sentinel,Estonia,2022-W46,Influenza,Influenza,total,detections,total,8
+non-sentinel,Estonia,2022-W46,Influenza,Influenza,total,tests,total,83
+non-sentinel,Estonia,2022-W46,Influenza,Influenza A,A (unknown),detections,total,4
+non-sentinel,Estonia,2022-W46,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Estonia,2022-W46,Influenza,Influenza A,total,detections,total,8
+non-sentinel,Estonia,2022-W46,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W46,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2022-W46,RSV,RSV,RSV,tests,total,30
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,269
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,198
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,491
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,217
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4349
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,213
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2929
+non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7790
+non-sentinel,Estonia,2022-W45,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2022-W45,Influenza,Influenza,total,tests,total,93
+non-sentinel,Estonia,2022-W45,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Estonia,2022-W45,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2022-W45,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W45,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2022-W45,RSV,RSV,RSV,tests,total,27
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,260
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,18
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,203
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,490
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,190
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3744
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,191
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2641
+non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6962
+non-sentinel,Estonia,2022-W44,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W44,Influenza,Influenza,total,tests,total,98
+non-sentinel,Estonia,2022-W44,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W44,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W44,RSV,RSV,RSV,tests,total,47
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,289
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,232
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,553
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,198
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3359
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,188
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2504
+non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6315
+non-sentinel,Estonia,2022-W43,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2022-W43,Influenza,Influenza,total,tests,total,102
+non-sentinel,Estonia,2022-W43,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2022-W43,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2022-W43,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W43,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2022-W43,RSV,RSV,RSV,tests,total,41
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,375
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,11
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,325
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,733
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,240
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3484
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,210
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2779
+non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6802
+non-sentinel,Estonia,2022-W42,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W42,Influenza,Influenza,total,tests,total,100
+non-sentinel,Estonia,2022-W42,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W42,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W42,RSV,RSV,RSV,detections,total,2
+non-sentinel,Estonia,2022-W42,RSV,RSV,RSV,tests,total,36
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,17
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,555
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,12
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,459
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1055
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,234
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5219
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,302
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3288
+non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9168
+non-sentinel,Estonia,2022-W41,Influenza,Influenza,total,detections,total,2
+non-sentinel,Estonia,2022-W41,Influenza,Influenza,total,tests,total,111
+non-sentinel,Estonia,2022-W41,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Estonia,2022-W41,Influenza,Influenza A,total,detections,total,2
+non-sentinel,Estonia,2022-W41,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W41,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2022-W41,RSV,RSV,RSV,tests,total,43
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,604
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,21
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,417
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1063
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,205
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5141
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,257
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3193
+non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8983
+non-sentinel,Estonia,2022-W40,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W40,Influenza,Influenza,total,tests,total,0
+non-sentinel,Estonia,2022-W40,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W40,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W40,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W40,RSV,RSV,RSV,tests,total,0
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,608
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,548
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1196
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,205
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4446
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,237
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3106
+non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8194
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,745
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,22
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,509
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1316
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,216
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4541
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,231
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3074
+non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8272
+non-sentinel,Estonia,2022-W38,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2022-W38,Influenza,Influenza,total,tests,total,72
+non-sentinel,Estonia,2022-W38,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Estonia,2022-W38,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2022-W38,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W38,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W38,RSV,RSV,RSV,tests,total,34
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,18
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,725
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,24
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,405
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1188
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,224
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5720
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,241
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3465
+non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9842
+non-sentinel,Estonia,2022-W37,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2022-W37,Influenza,Influenza,total,tests,total,71
+non-sentinel,Estonia,2022-W37,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2022-W37,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2022-W37,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W37,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W37,RSV,RSV,RSV,tests,total,27
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,746
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,47
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,370
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1189
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,226
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4839
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,285
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2778
+non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8332
+non-sentinel,Estonia,2022-W36,Influenza,Influenza,total,detections,total,1
+non-sentinel,Estonia,2022-W36,Influenza,Influenza,total,tests,total,60
+non-sentinel,Estonia,2022-W36,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Estonia,2022-W36,Influenza,Influenza A,total,detections,total,1
+non-sentinel,Estonia,2022-W36,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W36,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W36,RSV,RSV,RSV,tests,total,24
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,21
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,577
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,30
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,272
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,914
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,199
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4037
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,222
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2346
+non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7073
+non-sentinel,Estonia,2022-W35,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W35,Influenza,Influenza,total,tests,total,36
+non-sentinel,Estonia,2022-W35,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W35,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W35,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W35,RSV,RSV,RSV,tests,total,22
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,537
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,28
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,224
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,822
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,193
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3959
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,194
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2393
+non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7117
+non-sentinel,Estonia,2022-W34,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W34,Influenza,Influenza,total,tests,total,53
+non-sentinel,Estonia,2022-W34,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W34,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W34,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W34,RSV,RSV,RSV,tests,total,33
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,737
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,27
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,307
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1107
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,196
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5549
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,240
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3091
+non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9479
+non-sentinel,Estonia,2022-W33,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W33,Influenza,Influenza,total,tests,total,31
+non-sentinel,Estonia,2022-W33,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W33,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W33,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W33,RSV,RSV,RSV,tests,total,25
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,969
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,46
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,365
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1426
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,211
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4961
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,264
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2537
+non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8289
+non-sentinel,Estonia,2022-W32,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W32,Influenza,Influenza,total,tests,total,32
+non-sentinel,Estonia,2022-W32,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W32,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W32,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W32,RSV,RSV,RSV,tests,total,24
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,28
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1340
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,67
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,462
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1933
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,196
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5168
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,294
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2923
+non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8894
+non-sentinel,Estonia,2022-W31,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W31,Influenza,Influenza,total,tests,total,39
+non-sentinel,Estonia,2022-W31,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W31,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W31,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W31,RSV,RSV,RSV,tests,total,22
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,26
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1539
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,81
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,536
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2239
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,180
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5072
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,297
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2707
+non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8623
+non-sentinel,Estonia,2022-W30,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W30,Influenza,Influenza,total,tests,total,33
+non-sentinel,Estonia,2022-W30,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W30,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W30,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W30,RSV,RSV,RSV,tests,total,22
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,35
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1602
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,78
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,482
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2229
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,191
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5282
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,285
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2879
+non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8963
+non-sentinel,Estonia,2022-W29,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W29,Influenza,Influenza,total,tests,total,26
+non-sentinel,Estonia,2022-W29,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W29,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W29,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W29,RSV,RSV,RSV,tests,total,13
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,22
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1393
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,61
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,479
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2007
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,168
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5087
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,258
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2621
+non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8484
+non-sentinel,Estonia,2022-W28,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W28,Influenza,Influenza,total,tests,total,53
+non-sentinel,Estonia,2022-W28,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W28,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W28,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W28,RSV,RSV,RSV,tests,total,26
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,15
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1131
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,64
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,303
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1552
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,154
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4507
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,247
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2087
+non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7311
+non-sentinel,Estonia,2022-W27,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W27,Influenza,Influenza,total,tests,total,14
+non-sentinel,Estonia,2022-W27,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W27,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W27,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W27,RSV,RSV,RSV,tests,total,11
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,811
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,41
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,265
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1161
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,165
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3832
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,222
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1994
+non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6525
+non-sentinel,Estonia,2022-W26,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W26,Influenza,Influenza,total,tests,total,27
+non-sentinel,Estonia,2022-W26,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W26,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W26,RSV,RSV,RSV,detections,total,0
+non-sentinel,Estonia,2022-W26,RSV,RSV,RSV,tests,total,27
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,976
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,28
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,300
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1345
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,193
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4071
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,203
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2266
+non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7069
+non-sentinel,Estonia,2022-W25,Influenza,Influenza,total,detections,total,0
+non-sentinel,Estonia,2022-W25,Influenza,Influenza,total,tests,total,20
+non-sentinel,Estonia,2022-W25,Influenza,Influenza A,total,detections,total,0
+non-sentinel,Estonia,2022-W25,Influenza,Influenza B,total,detections,total,0
+non-sentinel,Estonia,2022-W25,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2022-W25,RSV,RSV,RSV,tests,total,20
+non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
+non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,577
+non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,25
+non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,164
+non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,798
 non-sentinel,EU/EEA,2023-W47,Influenza,Influenza,total,detections,total,1245
 non-sentinel,EU/EEA,2023-W47,Influenza,Influenza,total,tests,total,33299
 non-sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A (unknown),detections,total,949
@@ -8705,1233 +9932,6 @@ non-sentinel,EU/EEA,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,167884
 non-sentinel,EU/EEA,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,185051
 non-sentinel,EU/EEA,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,660616
 non-sentinel,EU/EEA,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7004692
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,36
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,241
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,294
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,591
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,188
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1164
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,134
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1308
-non-sentinel,Estonia,2023-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2826
-non-sentinel,Estonia,2023-W46,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W46,Influenza,Influenza,total,tests,total,145
-non-sentinel,Estonia,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2023-W46,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W46,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W46,RSV,RSV,RSV,detections,total,2
-non-sentinel,Estonia,2023-W46,RSV,RSV,RSV,tests,total,37
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,179
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,306
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,529
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,191
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1000
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,118
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1284
-non-sentinel,Estonia,2023-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2613
-non-sentinel,Estonia,2023-W45,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W45,Influenza,Influenza,total,tests,total,183
-non-sentinel,Estonia,2023-W45,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W45,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W45,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W45,RSV,RSV,RSV,tests,total,39
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,168
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,269
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,474
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,134
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,938
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,98
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1268
-non-sentinel,Estonia,2023-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2459
-non-sentinel,Estonia,2023-W44,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W44,Influenza,Influenza,total,tests,total,159
-non-sentinel,Estonia,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2023-W44,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W44,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W44,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W44,RSV,RSV,RSV,tests,total,48
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,152
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,248
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,427
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,140
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,891
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,100
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1166
-non-sentinel,Estonia,2023-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2319
-non-sentinel,Estonia,2023-W43,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W43,Influenza,Influenza,total,tests,total,127
-non-sentinel,Estonia,2023-W43,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W43,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W43,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W43,RSV,RSV,RSV,tests,total,31
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,103
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,143
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,273
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,125
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,705
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,79
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,813
-non-sentinel,Estonia,2023-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1741
-non-sentinel,Estonia,2023-W42,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W42,Influenza,Influenza,total,tests,total,98
-non-sentinel,Estonia,2023-W42,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W42,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W42,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W42,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,94
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,158
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,118
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,678
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,78
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,733
-non-sentinel,Estonia,2023-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1632
-non-sentinel,Estonia,2023-W41,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W41,Influenza,Influenza,total,tests,total,81
-non-sentinel,Estonia,2023-W41,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W41,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W41,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W41,RSV,RSV,RSV,tests,total,32
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,42
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,53
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,101
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,101
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,571
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,78
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,541
-non-sentinel,Estonia,2023-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1307
-non-sentinel,Estonia,2023-W40,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W40,Influenza,Influenza,total,tests,total,49
-non-sentinel,Estonia,2023-W40,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2023-W40,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W40,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W40,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W40,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,31
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,45
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,82
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,111
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,588
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,76
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,665
-non-sentinel,Estonia,2023-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1457
-non-sentinel,Estonia,2023-W39,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W39,Influenza,Influenza,total,tests,total,50
-non-sentinel,Estonia,2023-W39,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W39,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W39,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W39,RSV,RSV,RSV,tests,total,37
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,45
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,52
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,108
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,102
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,698
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,77
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,633
-non-sentinel,Estonia,2023-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1527
-non-sentinel,Estonia,2023-W38,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W38,Influenza,Influenza,total,tests,total,53
-non-sentinel,Estonia,2023-W38,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W38,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W38,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W38,RSV,RSV,RSV,tests,total,45
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,53
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,41
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,101
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,100
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,675
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,71
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,633
-non-sentinel,Estonia,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1492
-non-sentinel,Estonia,2023-W37,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W37,Influenza,Influenza,total,tests,total,38
-non-sentinel,Estonia,2023-W37,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W37,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W37,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W37,RSV,RSV,RSV,tests,total,28
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,46
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,32
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,90
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,109
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,618
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,88
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,582
-non-sentinel,Estonia,2023-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1397
-non-sentinel,Estonia,2023-W36,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W36,Influenza,Influenza,total,tests,total,41
-non-sentinel,Estonia,2023-W36,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W36,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W36,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W36,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,36
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,37
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,85
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,83
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,494
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,71
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,490
-non-sentinel,Estonia,2023-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1154
-non-sentinel,Estonia,2023-W35,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W35,Influenza,Influenza,total,tests,total,35
-non-sentinel,Estonia,2023-W35,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W35,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W35,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W35,RSV,RSV,RSV,tests,total,31
-non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
-non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,25
-non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,32
-non-sentinel,Estonia,2023-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,60
-non-sentinel,Estonia,2023-W34,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W34,Influenza,Influenza,total,tests,total,19
-non-sentinel,Estonia,2023-W34,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W34,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W34,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W34,RSV,RSV,RSV,tests,total,17
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,14
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,23
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,38
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,67
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,413
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,47
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,391
-non-sentinel,Estonia,2023-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,931
-non-sentinel,Estonia,2023-W33,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W33,Influenza,Influenza,total,tests,total,22
-non-sentinel,Estonia,2023-W33,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W33,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W33,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W33,RSV,RSV,RSV,tests,total,18
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,17
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,23
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,58
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,409
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,28
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,392
-non-sentinel,Estonia,2023-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,899
-non-sentinel,Estonia,2023-W32,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W32,Influenza,Influenza,total,tests,total,30
-non-sentinel,Estonia,2023-W32,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W32,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W32,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W32,RSV,RSV,RSV,tests,total,24
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,8
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,7
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,17
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,50
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,454
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,36
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,472
-non-sentinel,Estonia,2023-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1029
-non-sentinel,Estonia,2023-W31,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W31,Influenza,Influenza,total,tests,total,22
-non-sentinel,Estonia,2023-W31,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W31,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W31,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W31,RSV,RSV,RSV,tests,total,17
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,10
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,15
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,56
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,389
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,52
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,454
-non-sentinel,Estonia,2023-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,975
-non-sentinel,Estonia,2023-W30,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W30,Influenza,Influenza,total,tests,total,18
-non-sentinel,Estonia,2023-W30,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W30,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W30,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W30,RSV,RSV,RSV,tests,total,13
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,21
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,21
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,47
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,66
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,449
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,38
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,458
-non-sentinel,Estonia,2023-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1033
-non-sentinel,Estonia,2023-W28,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W28,Influenza,Influenza,total,tests,total,27
-non-sentinel,Estonia,2023-W28,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W28,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W28,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W28,RSV,RSV,RSV,tests,total,22
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,19
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,24
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,44
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,74
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,440
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,37
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,457
-non-sentinel,Estonia,2023-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1030
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,15
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,11
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,31
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,71
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,484
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,58
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,529
-non-sentinel,Estonia,2023-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1169
-non-sentinel,Estonia,2023-W26,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W26,Influenza,Influenza,total,tests,total,26
-non-sentinel,Estonia,2023-W26,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W26,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W26,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W26,RSV,RSV,RSV,tests,total,20
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,10
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,23
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,36
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,88
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,567
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,68
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,597
-non-sentinel,Estonia,2023-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1338
-non-sentinel,Estonia,2023-W25,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2023-W25,Influenza,Influenza,total,tests,total,22
-non-sentinel,Estonia,2023-W25,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W25,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W25,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W25,RSV,RSV,RSV,tests,total,15
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,20
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,30
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,51
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,124
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,572
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,89
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,596
-non-sentinel,Estonia,2023-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1405
-non-sentinel,Estonia,2023-W24,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W24,Influenza,Influenza,total,tests,total,79
-non-sentinel,Estonia,2023-W24,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W24,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Estonia,2023-W24,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2023-W24,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W24,RSV,RSV,RSV,tests,total,23
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,21
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,40
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,63
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,123
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,687
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,76
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,749
-non-sentinel,Estonia,2023-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1651
-non-sentinel,Estonia,2023-W23,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W23,Influenza,Influenza,total,tests,total,91
-non-sentinel,Estonia,2023-W23,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W23,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Estonia,2023-W23,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2023-W23,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W23,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,33
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,60
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,96
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,117
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,732
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,64
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,773
-non-sentinel,Estonia,2023-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1704
-non-sentinel,Estonia,2023-W22,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W22,Influenza,Influenza,total,tests,total,84
-non-sentinel,Estonia,2023-W22,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2023-W22,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W22,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W22,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W22,RSV,RSV,RSV,tests,total,21
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,40
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,71
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,120
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,136
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,858
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,92
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,773
-non-sentinel,Estonia,2023-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1888
-non-sentinel,Estonia,2023-W21,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2023-W21,Influenza,Influenza,total,tests,total,99
-non-sentinel,Estonia,2023-W21,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W21,Influenza,Influenza B,B/Vic,detections,total,1
-non-sentinel,Estonia,2023-W21,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2023-W21,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W21,RSV,RSV,RSV,tests,total,39
-non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
-non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,80
-non-sentinel,Estonia,2023-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,149
-non-sentinel,Estonia,2023-W20,Influenza,Influenza,total,detections,total,2
-non-sentinel,Estonia,2023-W20,Influenza,Influenza,total,tests,total,104
-non-sentinel,Estonia,2023-W20,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W20,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Estonia,2023-W20,Influenza,Influenza B,total,detections,total,2
-non-sentinel,Estonia,2023-W20,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W20,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,84
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,81
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,181
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,178
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1094
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,123
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,950
-non-sentinel,Estonia,2023-W20,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2382
-non-sentinel,Estonia,2023-W19,Influenza,Influenza,total,detections,total,4
-non-sentinel,Estonia,2023-W19,Influenza,Influenza,total,tests,total,150
-non-sentinel,Estonia,2023-W19,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W19,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Estonia,2023-W19,Influenza,Influenza B,B/Vic,detections,total,2
-non-sentinel,Estonia,2023-W19,Influenza,Influenza B,total,detections,total,4
-non-sentinel,Estonia,2023-W19,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W19,RSV,RSV,RSV,tests,total,33
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,77
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,106
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,193
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,151
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1241
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,143
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1112
-non-sentinel,Estonia,2023-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2689
-non-sentinel,Estonia,2023-W18,Influenza,Influenza,total,detections,total,3
-non-sentinel,Estonia,2023-W18,Influenza,Influenza,total,tests,total,194
-non-sentinel,Estonia,2023-W18,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W18,Influenza,Influenza B,B/Vic,detections,total,3
-non-sentinel,Estonia,2023-W18,Influenza,Influenza B,total,detections,total,3
-non-sentinel,Estonia,2023-W18,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2023-W18,RSV,RSV,RSV,tests,total,36
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,79
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,113
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,208
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,180
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1232
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,125
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1080
-non-sentinel,Estonia,2023-W18,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2659
-non-sentinel,Estonia,2023-W17,Influenza,Influenza,total,detections,total,21
-non-sentinel,Estonia,2023-W17,Influenza,Influenza,total,tests,total,219
-non-sentinel,Estonia,2023-W17,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W17,Influenza,Influenza B,B (unknown),detections,total,18
-non-sentinel,Estonia,2023-W17,Influenza,Influenza B,B/Vic,detections,total,3
-non-sentinel,Estonia,2023-W17,Influenza,Influenza B,total,detections,total,21
-non-sentinel,Estonia,2023-W17,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W17,RSV,RSV,RSV,tests,total,36
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,106
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,164
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,284
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,188
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1335
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,130
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1323
-non-sentinel,Estonia,2023-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3045
-non-sentinel,Estonia,2023-W16,Influenza,Influenza,total,detections,total,5
-non-sentinel,Estonia,2023-W16,Influenza,Influenza,total,tests,total,181
-non-sentinel,Estonia,2023-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2023-W16,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W16,Influenza,Influenza B,B/Vic,detections,total,4
-non-sentinel,Estonia,2023-W16,Influenza,Influenza B,total,detections,total,4
-non-sentinel,Estonia,2023-W16,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W16,RSV,RSV,RSV,tests,total,28
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,120
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,192
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,330
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,170
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1364
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,156
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1357
-non-sentinel,Estonia,2023-W16,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3121
-non-sentinel,Estonia,2023-W15,Influenza,Influenza,total,detections,total,9
-non-sentinel,Estonia,2023-W15,Influenza,Influenza,total,tests,total,213
-non-sentinel,Estonia,2023-W15,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2023-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,3
-non-sentinel,Estonia,2023-W15,Influenza,Influenza A,total,detections,total,4
-non-sentinel,Estonia,2023-W15,Influenza,Influenza B,B/Vic,detections,total,5
-non-sentinel,Estonia,2023-W15,Influenza,Influenza B,total,detections,total,5
-non-sentinel,Estonia,2023-W15,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W15,RSV,RSV,RSV,tests,total,71
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,143
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,196
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,365
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,159
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1556
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,143
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1402
-non-sentinel,Estonia,2023-W15,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3328
-non-sentinel,Estonia,2023-W14,Influenza,Influenza,total,detections,total,8
-non-sentinel,Estonia,2023-W14,Influenza,Influenza,total,tests,total,213
-non-sentinel,Estonia,2023-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2023-W14,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2023-W14,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Estonia,2023-W14,Influenza,Influenza B,B/Vic,detections,total,6
-non-sentinel,Estonia,2023-W14,Influenza,Influenza B,total,detections,total,7
-non-sentinel,Estonia,2023-W14,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2023-W14,RSV,RSV,RSV,tests,total,29
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,17
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,170
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,7
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,192
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,392
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,167
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1605
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,201
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1278
-non-sentinel,Estonia,2023-W14,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3300
-non-sentinel,Estonia,2023-W13,Influenza,Influenza,total,detections,total,17
-non-sentinel,Estonia,2023-W13,Influenza,Influenza,total,tests,total,500
-non-sentinel,Estonia,2023-W13,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2023-W13,Influenza,Influenza B,B/Vic,detections,total,17
-non-sentinel,Estonia,2023-W13,Influenza,Influenza B,total,detections,total,17
-non-sentinel,Estonia,2023-W13,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2023-W13,RSV,RSV,RSV,tests,total,31
-non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,12
-non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,151
-non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
-non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,209
-non-sentinel,Estonia,2023-W13,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,382
-non-sentinel,Estonia,2023-W12,Influenza,Influenza,total,detections,total,20
-non-sentinel,Estonia,2023-W12,Influenza,Influenza,total,tests,total,245
-non-sentinel,Estonia,2023-W12,Influenza,Influenza A,A (unknown),detections,total,2
-non-sentinel,Estonia,2023-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2023-W12,Influenza,Influenza A,total,detections,total,3
-non-sentinel,Estonia,2023-W12,Influenza,Influenza B,B (unknown),detections,total,11
-non-sentinel,Estonia,2023-W12,Influenza,Influenza B,B/Vic,detections,total,6
-non-sentinel,Estonia,2023-W12,Influenza,Influenza B,total,detections,total,17
-non-sentinel,Estonia,2023-W12,RSV,RSV,RSV,detections,total,3
-non-sentinel,Estonia,2023-W12,RSV,RSV,RSV,tests,total,39
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,151
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,6
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,173
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,349
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,197
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1675
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,170
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1400
-non-sentinel,Estonia,2023-W12,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3492
-non-sentinel,Estonia,2023-W11,Influenza,Influenza,total,detections,total,20
-non-sentinel,Estonia,2023-W11,Influenza,Influenza,total,tests,total,400
-non-sentinel,Estonia,2023-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,7
-non-sentinel,Estonia,2023-W11,Influenza,Influenza A,A(H3),detections,total,3
-non-sentinel,Estonia,2023-W11,Influenza,Influenza A,total,detections,total,10
-non-sentinel,Estonia,2023-W11,Influenza,Influenza B,B (unknown),detections,total,3
-non-sentinel,Estonia,2023-W11,Influenza,Influenza B,B/Vic,detections,total,7
-non-sentinel,Estonia,2023-W11,Influenza,Influenza B,total,detections,total,10
-non-sentinel,Estonia,2023-W11,RSV,RSV,RSV,detections,total,3
-non-sentinel,Estonia,2023-W11,RSV,RSV,RSV,tests,total,46
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,164
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,167
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,364
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,178
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1811
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,197
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1514
-non-sentinel,Estonia,2023-W11,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3752
-non-sentinel,Estonia,2023-W10,Influenza,Influenza,total,detections,total,12
-non-sentinel,Estonia,2023-W10,Influenza,Influenza,total,tests,total,80
-non-sentinel,Estonia,2023-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,8
-non-sentinel,Estonia,2023-W10,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Estonia,2023-W10,Influenza,Influenza A,total,detections,total,10
-non-sentinel,Estonia,2023-W10,Influenza,Influenza B,B/Vic,detections,total,2
-non-sentinel,Estonia,2023-W10,Influenza,Influenza B,total,detections,total,2
-non-sentinel,Estonia,2023-W10,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W10,RSV,RSV,RSV,tests,total,39
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,149
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,142
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,312
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,177
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1767
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,188
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1326
-non-sentinel,Estonia,2023-W10,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3502
-non-sentinel,Estonia,2023-W09,Influenza,Influenza,total,detections,total,32
-non-sentinel,Estonia,2023-W09,Influenza,Influenza,total,tests,total,690
-non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A (unknown),detections,total,8
-non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,3
-non-sentinel,Estonia,2023-W09,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Estonia,2023-W09,Influenza,Influenza A,total,detections,total,13
-non-sentinel,Estonia,2023-W09,Influenza,Influenza B,B (unknown),detections,total,4
-non-sentinel,Estonia,2023-W09,Influenza,Influenza B,B/Vic,detections,total,15
-non-sentinel,Estonia,2023-W09,Influenza,Influenza B,total,detections,total,19
-non-sentinel,Estonia,2023-W09,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2023-W09,RSV,RSV,RSV,tests,total,62
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,139
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,147
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,305
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,184
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1831
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,170
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1451
-non-sentinel,Estonia,2023-W09,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3685
-non-sentinel,Estonia,2023-W08,Influenza,Influenza,total,detections,total,18
-non-sentinel,Estonia,2023-W08,Influenza,Influenza,total,tests,total,283
-non-sentinel,Estonia,2023-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,4
-non-sentinel,Estonia,2023-W08,Influenza,Influenza A,A(H3),detections,total,4
-non-sentinel,Estonia,2023-W08,Influenza,Influenza A,total,detections,total,8
-non-sentinel,Estonia,2023-W08,Influenza,Influenza B,B/Vic,detections,total,10
-non-sentinel,Estonia,2023-W08,Influenza,Influenza B,total,detections,total,10
-non-sentinel,Estonia,2023-W08,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2023-W08,RSV,RSV,RSV,tests,total,17
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,101
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,11
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,144
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,271
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,219
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1707
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,227
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1315
-non-sentinel,Estonia,2023-W08,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3501
-non-sentinel,Estonia,2023-W07,Influenza,Influenza,total,detections,total,21
-non-sentinel,Estonia,2023-W07,Influenza,Influenza,total,tests,total,370
-non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A (unknown),detections,total,4
-non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A(H1)pdm09,detections,total,3
-non-sentinel,Estonia,2023-W07,Influenza,Influenza A,A(H3),detections,total,3
-non-sentinel,Estonia,2023-W07,Influenza,Influenza A,total,detections,total,10
-non-sentinel,Estonia,2023-W07,Influenza,Influenza B,B/Vic,detections,total,11
-non-sentinel,Estonia,2023-W07,Influenza,Influenza B,total,detections,total,11
-non-sentinel,Estonia,2023-W07,RSV,RSV,RSV,detections,total,3
-non-sentinel,Estonia,2023-W07,RSV,RSV,RSV,tests,total,31
-non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
-non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,153
-non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
-non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,149
-non-sentinel,Estonia,2023-W07,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,322
-non-sentinel,Estonia,2023-W06,Influenza,Influenza,total,detections,total,18
-non-sentinel,Estonia,2023-W06,Influenza,Influenza,total,tests,total,200
-non-sentinel,Estonia,2023-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,12
-non-sentinel,Estonia,2023-W06,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Estonia,2023-W06,Influenza,Influenza A,total,detections,total,14
-non-sentinel,Estonia,2023-W06,Influenza,Influenza B,B/Vic,detections,total,4
-non-sentinel,Estonia,2023-W06,Influenza,Influenza B,total,detections,total,4
-non-sentinel,Estonia,2023-W06,RSV,RSV,RSV,detections,total,10
-non-sentinel,Estonia,2023-W06,RSV,RSV,RSV,tests,total,60
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,13
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,159
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,7
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,146
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,328
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,226
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2022
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,197
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1548
-non-sentinel,Estonia,2023-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4046
-non-sentinel,Estonia,2023-W05,Influenza,Influenza,total,detections,total,25
-non-sentinel,Estonia,2023-W05,Influenza,Influenza,total,tests,total,350
-non-sentinel,Estonia,2023-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,8
-non-sentinel,Estonia,2023-W05,Influenza,Influenza A,A(H3),detections,total,9
-non-sentinel,Estonia,2023-W05,Influenza,Influenza A,total,detections,total,17
-non-sentinel,Estonia,2023-W05,Influenza,Influenza B,B/Vic,detections,total,8
-non-sentinel,Estonia,2023-W05,Influenza,Influenza B,total,detections,total,8
-non-sentinel,Estonia,2023-W05,RSV,RSV,RSV,detections,total,2
-non-sentinel,Estonia,2023-W05,RSV,RSV,RSV,tests,total,38
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,127
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,12
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,161
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,306
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,215
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2201
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,238
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1729
-non-sentinel,Estonia,2023-W05,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4421
-non-sentinel,Estonia,2023-W04,Influenza,Influenza,total,detections,total,24
-non-sentinel,Estonia,2023-W04,Influenza,Influenza,total,tests,total,316
-non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A (unknown),detections,total,7
-non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Estonia,2023-W04,Influenza,Influenza A,A(H3),detections,total,9
-non-sentinel,Estonia,2023-W04,Influenza,Influenza A,total,detections,total,22
-non-sentinel,Estonia,2023-W04,Influenza,Influenza B,B/Vic,detections,total,2
-non-sentinel,Estonia,2023-W04,Influenza,Influenza B,total,detections,total,2
-non-sentinel,Estonia,2023-W04,RSV,RSV,RSV,detections,total,2
-non-sentinel,Estonia,2023-W04,RSV,RSV,RSV,tests,total,45
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,184
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,176
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,384
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,252
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3546
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,237
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2163
-non-sentinel,Estonia,2023-W04,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6238
-non-sentinel,Estonia,2023-W03,Influenza,Influenza,total,detections,total,19
-non-sentinel,Estonia,2023-W03,Influenza,Influenza,total,tests,total,329
-non-sentinel,Estonia,2023-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Estonia,2023-W03,Influenza,Influenza A,A(H3),detections,total,13
-non-sentinel,Estonia,2023-W03,Influenza,Influenza A,total,detections,total,19
-non-sentinel,Estonia,2023-W03,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2023-W03,RSV,RSV,RSV,detections,total,8
-non-sentinel,Estonia,2023-W03,RSV,RSV,RSV,tests,total,38
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,12
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,124
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,152
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,301
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,215
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2323
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,225
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1746
-non-sentinel,Estonia,2023-W03,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4552
-non-sentinel,Estonia,2023-W02,Influenza,Influenza,total,detections,total,25
-non-sentinel,Estonia,2023-W02,Influenza,Influenza,total,tests,total,346
-non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A (unknown),detections,total,2
-non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,10
-non-sentinel,Estonia,2023-W02,Influenza,Influenza A,A(H3),detections,total,12
-non-sentinel,Estonia,2023-W02,Influenza,Influenza A,total,detections,total,24
-non-sentinel,Estonia,2023-W02,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Estonia,2023-W02,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2023-W02,RSV,RSV,RSV,detections,total,4
-non-sentinel,Estonia,2023-W02,RSV,RSV,RSV,tests,total,37
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,171
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,181
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,377
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,254
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2307
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,171
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1885
-non-sentinel,Estonia,2023-W02,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4654
-non-sentinel,Estonia,2023-W01,Influenza,Influenza,total,detections,total,63
-non-sentinel,Estonia,2023-W01,Influenza,Influenza,total,tests,total,383
-non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A (unknown),detections,total,20
-non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,15
-non-sentinel,Estonia,2023-W01,Influenza,Influenza A,A(H3),detections,total,27
-non-sentinel,Estonia,2023-W01,Influenza,Influenza A,total,detections,total,62
-non-sentinel,Estonia,2023-W01,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Estonia,2023-W01,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2023-W01,RSV,RSV,RSV,detections,total,10
-non-sentinel,Estonia,2023-W01,RSV,RSV,RSV,tests,total,52
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,169
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,215
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,397
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,268
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2444
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,192
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1919
-non-sentinel,Estonia,2023-W01,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4887
-non-sentinel,Estonia,2022-W52,Influenza,Influenza,total,detections,total,97
-non-sentinel,Estonia,2022-W52,Influenza,Influenza,total,tests,total,447
-non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A (unknown),detections,total,67
-non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Estonia,2022-W52,Influenza,Influenza A,A(H3),detections,total,24
-non-sentinel,Estonia,2022-W52,Influenza,Influenza A,total,detections,total,97
-non-sentinel,Estonia,2022-W52,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W52,RSV,RSV,RSV,detections,total,11
-non-sentinel,Estonia,2022-W52,RSV,RSV,RSV,tests,total,67
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,22
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,227
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,276
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,541
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,531
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,9983
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,914
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2709
-non-sentinel,Estonia,2022-W52,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,14639
-non-sentinel,Estonia,2022-W51,Influenza,Influenza,total,detections,total,78
-non-sentinel,Estonia,2022-W51,Influenza,Influenza,total,tests,total,400
-non-sentinel,Estonia,2022-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,11
-non-sentinel,Estonia,2022-W51,Influenza,Influenza A,A(H3),detections,total,67
-non-sentinel,Estonia,2022-W51,Influenza,Influenza A,total,detections,total,78
-non-sentinel,Estonia,2022-W51,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W51,RSV,RSV,RSV,detections,total,9
-non-sentinel,Estonia,2022-W51,RSV,RSV,RSV,tests,total,51
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,35
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,342
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,14
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,286
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,681
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,424
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2726
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,336
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1994
-non-sentinel,Estonia,2022-W51,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5549
-non-sentinel,Estonia,2022-W50,Influenza,Influenza,total,detections,total,70
-non-sentinel,Estonia,2022-W50,Influenza,Influenza,total,tests,total,300
-non-sentinel,Estonia,2022-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Estonia,2022-W50,Influenza,Influenza A,A(H3),detections,total,64
-non-sentinel,Estonia,2022-W50,Influenza,Influenza A,total,detections,total,70
-non-sentinel,Estonia,2022-W50,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W50,RSV,RSV,RSV,detections,total,16
-non-sentinel,Estonia,2022-W50,RSV,RSV,RSV,tests,total,48
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,392
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,15
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,388
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,819
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,354
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4074
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,353
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2654
-non-sentinel,Estonia,2022-W50,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7480
-non-sentinel,Estonia,2022-W49,Influenza,Influenza,total,detections,total,97
-non-sentinel,Estonia,2022-W49,Influenza,Influenza,total,tests,total,400
-non-sentinel,Estonia,2022-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Estonia,2022-W49,Influenza,Influenza A,A(H3),detections,total,95
-non-sentinel,Estonia,2022-W49,Influenza,Influenza A,total,detections,total,96
-non-sentinel,Estonia,2022-W49,Influenza,Influenza B,B/Vic,detections,total,1
-non-sentinel,Estonia,2022-W49,Influenza,Influenza B,total,detections,total,1
-non-sentinel,Estonia,2022-W49,RSV,RSV,RSV,detections,total,11
-non-sentinel,Estonia,2022-W49,RSV,RSV,RSV,tests,total,44
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,297
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,14
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,295
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,624
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,327
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3234
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,345
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2521
-non-sentinel,Estonia,2022-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6479
-non-sentinel,Estonia,2022-W48,Influenza,Influenza,total,detections,total,73
-non-sentinel,Estonia,2022-W48,Influenza,Influenza,total,tests,total,300
-non-sentinel,Estonia,2022-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,8
-non-sentinel,Estonia,2022-W48,Influenza,Influenza A,A(H3),detections,total,65
-non-sentinel,Estonia,2022-W48,Influenza,Influenza A,total,detections,total,73
-non-sentinel,Estonia,2022-W48,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W48,RSV,RSV,RSV,detections,total,19
-non-sentinel,Estonia,2022-W48,RSV,RSV,RSV,tests,total,139
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,255
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,15
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,236
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,536
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,335
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3106
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,249
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2748
-non-sentinel,Estonia,2022-W48,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6493
-non-sentinel,Estonia,2022-W47,Influenza,Influenza,total,detections,total,10
-non-sentinel,Estonia,2022-W47,Influenza,Influenza,total,tests,total,127
-non-sentinel,Estonia,2022-W47,Influenza,Influenza A,A(H3),detections,total,10
-non-sentinel,Estonia,2022-W47,Influenza,Influenza A,total,detections,total,10
-non-sentinel,Estonia,2022-W47,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W47,RSV,RSV,RSV,detections,total,8
-non-sentinel,Estonia,2022-W47,RSV,RSV,RSV,tests,total,47
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,256
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,199
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,474
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,292
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3363
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,217
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2624
-non-sentinel,Estonia,2022-W47,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6562
-non-sentinel,Estonia,2022-W46,Influenza,Influenza,total,detections,total,8
-non-sentinel,Estonia,2022-W46,Influenza,Influenza,total,tests,total,83
-non-sentinel,Estonia,2022-W46,Influenza,Influenza A,A (unknown),detections,total,4
-non-sentinel,Estonia,2022-W46,Influenza,Influenza A,A(H3),detections,total,4
-non-sentinel,Estonia,2022-W46,Influenza,Influenza A,total,detections,total,8
-non-sentinel,Estonia,2022-W46,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W46,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2022-W46,RSV,RSV,RSV,tests,total,30
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,269
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,10
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,198
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,491
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,217
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4349
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,213
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2929
-non-sentinel,Estonia,2022-W46,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7790
-non-sentinel,Estonia,2022-W45,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2022-W45,Influenza,Influenza,total,tests,total,93
-non-sentinel,Estonia,2022-W45,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Estonia,2022-W45,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2022-W45,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W45,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2022-W45,RSV,RSV,RSV,tests,total,27
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,260
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,18
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,203
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,490
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,190
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3744
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,191
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2641
-non-sentinel,Estonia,2022-W45,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6962
-non-sentinel,Estonia,2022-W44,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W44,Influenza,Influenza,total,tests,total,98
-non-sentinel,Estonia,2022-W44,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W44,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W44,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W44,RSV,RSV,RSV,tests,total,47
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,289
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,232
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,553
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,198
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3359
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,188
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2504
-non-sentinel,Estonia,2022-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6315
-non-sentinel,Estonia,2022-W43,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2022-W43,Influenza,Influenza,total,tests,total,102
-non-sentinel,Estonia,2022-W43,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2022-W43,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2022-W43,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W43,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2022-W43,RSV,RSV,RSV,tests,total,41
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,375
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,11
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,325
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,733
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,240
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3484
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,210
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2779
-non-sentinel,Estonia,2022-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6802
-non-sentinel,Estonia,2022-W42,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W42,Influenza,Influenza,total,tests,total,100
-non-sentinel,Estonia,2022-W42,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W42,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W42,RSV,RSV,RSV,detections,total,2
-non-sentinel,Estonia,2022-W42,RSV,RSV,RSV,tests,total,36
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,17
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,555
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,12
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,459
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1055
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,234
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5219
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,302
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3288
-non-sentinel,Estonia,2022-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9168
-non-sentinel,Estonia,2022-W41,Influenza,Influenza,total,detections,total,2
-non-sentinel,Estonia,2022-W41,Influenza,Influenza,total,tests,total,111
-non-sentinel,Estonia,2022-W41,Influenza,Influenza A,A (unknown),detections,total,2
-non-sentinel,Estonia,2022-W41,Influenza,Influenza A,total,detections,total,2
-non-sentinel,Estonia,2022-W41,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W41,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2022-W41,RSV,RSV,RSV,tests,total,43
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,604
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,21
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,417
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1063
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,205
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5141
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,257
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3193
-non-sentinel,Estonia,2022-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8983
-non-sentinel,Estonia,2022-W40,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W40,Influenza,Influenza,total,tests,total,0
-non-sentinel,Estonia,2022-W40,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W40,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W40,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W40,RSV,RSV,RSV,tests,total,0
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,608
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,13
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,548
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1196
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,205
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4446
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,237
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3106
-non-sentinel,Estonia,2022-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8194
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,745
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,22
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,509
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1316
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,216
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4541
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,231
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3074
-non-sentinel,Estonia,2022-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8272
-non-sentinel,Estonia,2022-W38,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2022-W38,Influenza,Influenza,total,tests,total,72
-non-sentinel,Estonia,2022-W38,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Estonia,2022-W38,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2022-W38,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W38,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W38,RSV,RSV,RSV,tests,total,34
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,18
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,725
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,24
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,405
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1188
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,224
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5720
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,241
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3465
-non-sentinel,Estonia,2022-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9842
-non-sentinel,Estonia,2022-W37,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2022-W37,Influenza,Influenza,total,tests,total,71
-non-sentinel,Estonia,2022-W37,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2022-W37,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2022-W37,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W37,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W37,RSV,RSV,RSV,tests,total,27
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,746
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,47
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,370
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1189
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,226
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4839
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,285
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2778
-non-sentinel,Estonia,2022-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8332
-non-sentinel,Estonia,2022-W36,Influenza,Influenza,total,detections,total,1
-non-sentinel,Estonia,2022-W36,Influenza,Influenza,total,tests,total,60
-non-sentinel,Estonia,2022-W36,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Estonia,2022-W36,Influenza,Influenza A,total,detections,total,1
-non-sentinel,Estonia,2022-W36,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W36,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W36,RSV,RSV,RSV,tests,total,24
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,21
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,577
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,30
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,272
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,914
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,199
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4037
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,222
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2346
-non-sentinel,Estonia,2022-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7073
-non-sentinel,Estonia,2022-W35,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W35,Influenza,Influenza,total,tests,total,36
-non-sentinel,Estonia,2022-W35,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W35,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W35,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W35,RSV,RSV,RSV,tests,total,22
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,537
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,28
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,224
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,822
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,193
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3959
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,194
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2393
-non-sentinel,Estonia,2022-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7117
-non-sentinel,Estonia,2022-W34,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W34,Influenza,Influenza,total,tests,total,53
-non-sentinel,Estonia,2022-W34,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W34,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W34,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W34,RSV,RSV,RSV,tests,total,33
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,737
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,27
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,307
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1107
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,196
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5549
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,240
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,3091
-non-sentinel,Estonia,2022-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,9479
-non-sentinel,Estonia,2022-W33,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W33,Influenza,Influenza,total,tests,total,31
-non-sentinel,Estonia,2022-W33,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W33,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W33,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W33,RSV,RSV,RSV,tests,total,25
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,969
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,46
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,365
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1426
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,211
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4961
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,264
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2537
-non-sentinel,Estonia,2022-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8289
-non-sentinel,Estonia,2022-W32,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W32,Influenza,Influenza,total,tests,total,32
-non-sentinel,Estonia,2022-W32,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W32,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W32,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W32,RSV,RSV,RSV,tests,total,24
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,28
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1340
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,67
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,462
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1933
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,196
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5168
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,294
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2923
-non-sentinel,Estonia,2022-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8894
-non-sentinel,Estonia,2022-W31,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W31,Influenza,Influenza,total,tests,total,39
-non-sentinel,Estonia,2022-W31,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W31,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W31,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W31,RSV,RSV,RSV,tests,total,22
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,26
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1539
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,81
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,536
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2239
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,180
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5072
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,297
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2707
-non-sentinel,Estonia,2022-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8623
-non-sentinel,Estonia,2022-W30,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W30,Influenza,Influenza,total,tests,total,33
-non-sentinel,Estonia,2022-W30,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W30,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W30,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W30,RSV,RSV,RSV,tests,total,22
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,35
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1602
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,78
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,482
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2229
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,191
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5282
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,285
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2879
-non-sentinel,Estonia,2022-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8963
-non-sentinel,Estonia,2022-W29,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W29,Influenza,Influenza,total,tests,total,26
-non-sentinel,Estonia,2022-W29,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W29,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W29,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W29,RSV,RSV,RSV,tests,total,13
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,22
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1393
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,61
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,479
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2007
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,168
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,5087
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,258
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2621
-non-sentinel,Estonia,2022-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,8484
-non-sentinel,Estonia,2022-W28,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W28,Influenza,Influenza,total,tests,total,53
-non-sentinel,Estonia,2022-W28,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W28,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W28,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W28,RSV,RSV,RSV,tests,total,26
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,15
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1131
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,64
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,303
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1552
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,154
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4507
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,247
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2087
-non-sentinel,Estonia,2022-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7311
-non-sentinel,Estonia,2022-W27,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W27,Influenza,Influenza,total,tests,total,14
-non-sentinel,Estonia,2022-W27,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W27,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W27,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W27,RSV,RSV,RSV,tests,total,11
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,811
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,41
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,265
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1161
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,165
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3832
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,222
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1994
-non-sentinel,Estonia,2022-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6525
-non-sentinel,Estonia,2022-W26,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W26,Influenza,Influenza,total,tests,total,27
-non-sentinel,Estonia,2022-W26,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W26,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W26,RSV,RSV,RSV,detections,total,0
-non-sentinel,Estonia,2022-W26,RSV,RSV,RSV,tests,total,27
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,20
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,976
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,28
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,300
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1345
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,193
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,4071
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,203
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2266
-non-sentinel,Estonia,2022-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7069
-non-sentinel,Estonia,2022-W25,Influenza,Influenza,total,detections,total,0
-non-sentinel,Estonia,2022-W25,Influenza,Influenza,total,tests,total,20
-non-sentinel,Estonia,2022-W25,Influenza,Influenza A,total,detections,total,0
-non-sentinel,Estonia,2022-W25,Influenza,Influenza B,total,detections,total,0
-non-sentinel,Estonia,2022-W25,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2022-W25,RSV,RSV,RSV,tests,total,20
-non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,14
-non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,577
-non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,25
-non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,164
-non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,798
 non-sentinel,Finland,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,13
 non-sentinel,Finland,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,119
 non-sentinel,Finland,2023-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
