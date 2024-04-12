@@ -11337,8 +11337,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.1,detections,total,861
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.2,detections,total,44158
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.4,detections,total,96
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.5,detections,total,141
-SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,detections,total,2315
+SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,UNK,detections,total,2178
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,XBB.1.5-like,detections,total,3
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,B.1.1.529,proportion,total,0.2
@@ -11347,8 +11347,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.1,proportion,total,1.8
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.2,proportion,total,92.6
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.4,proportion,total,0.2
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,BA.5,proportion,total,0.3
-SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,proportion,total,4.9
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,proportion,total,0
+SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,Other,proportion,total,4.9
 SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,XBB.1.5-like,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W15,SARS-CoV-2,B.1.1.529,detections,total,109
 SARS-CoV-2 variant,NA,EU/EEA,2022-W15,SARS-CoV-2,B.1.617.2,detections,total,7
@@ -11403,8 +11403,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,BA.1,proportion,total,5.7
 SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,BA.2,proportion,total,91.4
 SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,BA.4,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,BA.5,proportion,total,0
-SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,Other,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,Other,proportion,total,2.4
+SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,Other,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W12,SARS-CoV-2,B.1.1.529,detections,total,254
 SARS-CoV-2 variant,NA,EU/EEA,2022-W12,SARS-CoV-2,B.1.1.7,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W12,SARS-CoV-2,B.1.351,detections,total,1
@@ -11448,8 +11448,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.2.75,detections,total,2
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.4,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.5,detections,total,5
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BQ.1,detections,total,2
-SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,detections,total,1733
+SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,UNK,detections,total,1643
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,B.1.1.529,proportion,total,0.1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,B.1.1.7,proportion,total,0
@@ -11460,8 +11460,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.2.75,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.4,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BA.5,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,BQ.1,proportion,total,0
-SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,proportion,total,2.4
 SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,proportion,total,0
+SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,Other,proportion,total,2.4
 SARS-CoV-2 variant,NA,EU/EEA,2022-W09,SARS-CoV-2,B.1.1.529,detections,total,453
 SARS-CoV-2 variant,NA,EU/EEA,2022-W09,SARS-CoV-2,B.1.1.7,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W09,SARS-CoV-2,B.1.525,detections,total,1
@@ -11521,8 +11521,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,BA.1,detections,total,35530
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,BA.2,detections,total,35928
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,BA.4,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,BA.5,detections,total,17
-SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,Other,detections,total,1583
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,Other,detections,total,6
+SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,Other,detections,total,1583
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,UNK,detections,total,1514
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,XBB.1.5-like,detections,total,2
 SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,B.1.1.529,proportion,total,0.2
@@ -11600,8 +11600,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,BA.1,detections,total,60280
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,BA.2,detections,total,16362
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,BA.5,detections,total,3
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,BQ.1,detections,total,3
-SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,Other,detections,total,1301
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,Other,detections,total,1
+SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,Other,detections,total,1301
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,UNK,detections,total,1270
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,XBB.1.5-like,detections,total,1
 SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,B.1.1.529,proportion,total,1.4
@@ -11656,8 +11656,8 @@ SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,BA.2.75,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,BA.4,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,BA.5,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,BQ.1,proportion,total,0
-SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,Other,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,Other,proportion,total,3.2
+SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,Other,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,XBB,proportion,total,0
 SARS-CoV-2 variant,NA,EU/EEA,2021-W52,SARS-CoV-2,B.1.1.529,detections,total,511
 SARS-CoV-2 variant,NA,EU/EEA,2021-W52,SARS-CoV-2,B.1.1.7,detections,total,6
