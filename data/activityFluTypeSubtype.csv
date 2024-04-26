@@ -650,6 +650,7 @@ non-sentinel,Belgium,2015-W07,Influenza,Influenza A,A(H3),detections,total,11
 non-sentinel,Belgium,2015-W06,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,Belgium,2015-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 non-sentinel,Belgium,2015-W02,Influenza,Influenza A,A(H3),detections,total,14
+non-sentinel,Bulgaria,2024-W16,Influenza,Influenza B,B/Vic,detections,total,1
 non-sentinel,Bulgaria,2024-W15,Influenza,Influenza B,B/Vic,detections,total,5
 non-sentinel,Bulgaria,2024-W14,Influenza,Influenza B,B/Vic,detections,total,1
 non-sentinel,Bulgaria,2024-W13,Influenza,Influenza B,B/Vic,detections,total,2
@@ -953,6 +954,7 @@ non-sentinel,Bulgaria,2015-W03,Influenza,Influenza A,A(H1)pdm09,detections,total
 non-sentinel,Bulgaria,2015-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Bulgaria,2014-W44,Influenza,Influenza B,B (unknown),detections,total,3
 non-sentinel,Bulgaria,2014-W43,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Croatia,2024-W16,Influenza,Influenza B,B/Vic,detections,total,7
 non-sentinel,Croatia,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Croatia,2024-W15,Influenza,Influenza B,B/Vic,detections,total,6
 non-sentinel,Croatia,2024-W14,Influenza,Influenza A,A (unknown),detections,total,1
@@ -2366,30 +2368,36 @@ non-sentinel,Czechia,2014-W50,Influenza,Influenza A,A (unknown),detections,total
 non-sentinel,Czechia,2014-W50,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Czechia,2014-W48,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Czechia,2014-W43,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Denmark,2024-W15,Influenza,Influenza A,A (unknown),detections,total,43
-non-sentinel,Denmark,2024-W15,Influenza,Influenza B,B (unknown),detections,total,21
-non-sentinel,Denmark,2024-W14,Influenza,Influenza A,A (unknown),detections,total,88
+non-sentinel,Denmark,2024-W16,Influenza,Influenza A,A (unknown),detections,total,20
+non-sentinel,Denmark,2024-W16,Influenza,Influenza B,B (unknown),detections,total,19
+non-sentinel,Denmark,2024-W15,Influenza,Influenza A,A (unknown),detections,total,46
+non-sentinel,Denmark,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Denmark,2024-W15,Influenza,Influenza A,A(H3),detections,total,6
+non-sentinel,Denmark,2024-W15,Influenza,Influenza B,B (unknown),detections,total,19
+non-sentinel,Denmark,2024-W14,Influenza,Influenza A,A (unknown),detections,total,90
+non-sentinel,Denmark,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Denmark,2024-W14,Influenza,Influenza A,A(H3),detections,total,5
 non-sentinel,Denmark,2024-W14,Influenza,Influenza B,B (unknown),detections,total,26
-non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A (unknown),detections,total,120
-non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,4
-non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A(H3),detections,total,9
-non-sentinel,Denmark,2024-W13,Influenza,Influenza B,B (unknown),detections,total,12
-non-sentinel,Denmark,2024-W12,Influenza,Influenza A,A (unknown),detections,total,197
+non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A (unknown),detections,total,127
+non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,11
+non-sentinel,Denmark,2024-W13,Influenza,Influenza A,A(H3),detections,total,10
+non-sentinel,Denmark,2024-W13,Influenza,Influenza B,B (unknown),detections,total,13
+non-sentinel,Denmark,2024-W12,Influenza,Influenza A,A (unknown),detections,total,201
 non-sentinel,Denmark,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,31
-non-sentinel,Denmark,2024-W12,Influenza,Influenza A,A(H3),detections,total,24
-non-sentinel,Denmark,2024-W12,Influenza,Influenza B,B (unknown),detections,total,14
-non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A (unknown),detections,total,266
-non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,23
-non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A(H3),detections,total,8
-non-sentinel,Denmark,2024-W11,Influenza,Influenza B,B (unknown),detections,total,26
-non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A (unknown),detections,total,321
-non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,39
-non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A(H3),detections,total,22
+non-sentinel,Denmark,2024-W12,Influenza,Influenza A,A(H3),detections,total,25
+non-sentinel,Denmark,2024-W12,Influenza,Influenza B,B (unknown),detections,total,19
+non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A (unknown),detections,total,277
+non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,44
+non-sentinel,Denmark,2024-W11,Influenza,Influenza A,A(H3),detections,total,21
+non-sentinel,Denmark,2024-W11,Influenza,Influenza B,B (unknown),detections,total,27
+non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A (unknown),detections,total,335
+non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,49
+non-sentinel,Denmark,2024-W10,Influenza,Influenza A,A(H3),detections,total,25
 non-sentinel,Denmark,2024-W10,Influenza,Influenza B,B (unknown),detections,total,21
-non-sentinel,Denmark,2024-W09,Influenza,Influenza A,A (unknown),detections,total,492
-non-sentinel,Denmark,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,55
+non-sentinel,Denmark,2024-W09,Influenza,Influenza A,A (unknown),detections,total,503
+non-sentinel,Denmark,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,59
 non-sentinel,Denmark,2024-W09,Influenza,Influenza A,A(H3),detections,total,33
-non-sentinel,Denmark,2024-W09,Influenza,Influenza B,B (unknown),detections,total,16
+non-sentinel,Denmark,2024-W09,Influenza,Influenza B,B (unknown),detections,total,17
 non-sentinel,Denmark,2024-W08,Influenza,Influenza A,A (unknown),detections,total,753
 non-sentinel,Denmark,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,50
 non-sentinel,Denmark,2024-W08,Influenza,Influenza A,A(H3),detections,total,17
@@ -3815,6 +3823,10 @@ non-sentinel,Denmark,2014-W43,Influenza,Influenza B,B (unknown),detections,total
 non-sentinel,Denmark,2014-W42,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Denmark,2014-W42,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Denmark,2014-W40,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Estonia,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Estonia,2024-W15,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Estonia,2024-W15,Influenza,Influenza B,B/Vic,detections,total,7
+non-sentinel,Estonia,2024-W14,Influenza,Influenza B,B/Vic,detections,total,2
 non-sentinel,Estonia,2024-W13,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Estonia,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 non-sentinel,Estonia,2024-W13,Influenza,Influenza B,B (unknown),detections,total,6
@@ -4339,49 +4351,55 @@ non-sentinel,Estonia,2015-W04,Influenza,Influenza B,B (unknown),detections,total
 non-sentinel,Estonia,2015-W02,Influenza,Influenza A,A (unknown),detections,total,4
 non-sentinel,Estonia,2015-W01,Influenza,Influenza A,A (unknown),detections,total,5
 non-sentinel,Estonia,2014-W51,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A (unknown),detections,total,376
-non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,62
-non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H3),detections,total,29
-non-sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B (unknown),detections,total,275
-non-sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B/Vic,detections,total,21
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A (unknown),detections,total,227
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,43
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A(H3),detections,total,23
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza B,B (unknown),detections,total,219
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza B,B/Vic,detections,total,22
+non-sentinel,EU/EEA,2024-W16,Influenza,Influenza untyped,Influenza untyped,detections,total,17
+non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A (unknown),detections,total,383
+non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,87
+non-sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H3),detections,total,53
+non-sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B (unknown),detections,total,278
+non-sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B/Vic,detections,total,58
 non-sentinel,EU/EEA,2024-W15,Influenza,Influenza untyped,Influenza untyped,detections,total,50
-non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A (unknown),detections,total,542
-non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,84
-non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H3),detections,total,69
-non-sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B (unknown),detections,total,346
-non-sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B/Vic,detections,total,50
+non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A (unknown),detections,total,524
+non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,112
+non-sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H3),detections,total,90
+non-sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B (unknown),detections,total,329
+non-sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B/Vic,detections,total,66
 non-sentinel,EU/EEA,2024-W14,Influenza,Influenza untyped,Influenza untyped,detections,total,20
-non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A (unknown),detections,total,666
-non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,114
-non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H3),detections,total,108
-non-sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B (unknown),detections,total,316
-non-sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B/Vic,detections,total,48
+non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A (unknown),detections,total,670
+non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,125
+non-sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H3),detections,total,113
+non-sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B (unknown),detections,total,300
+non-sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B/Vic,detections,total,49
 non-sentinel,EU/EEA,2024-W13,Influenza,Influenza untyped,Influenza untyped,detections,total,39
-non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A (unknown),detections,total,1164
-non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,280
-non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H3),detections,total,177
-non-sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B (unknown),detections,total,385
-non-sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B/Vic,detections,total,67
+non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A (unknown),detections,total,1178
+non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,285
+non-sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H3),detections,total,179
+non-sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B (unknown),detections,total,393
+non-sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B/Vic,detections,total,68
 non-sentinel,EU/EEA,2024-W12,Influenza,Influenza untyped,Influenza untyped,detections,total,133
-non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A (unknown),detections,total,1704
-non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,265
-non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H3),detections,total,209
-non-sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B (unknown),detections,total,347
-non-sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B/Vic,detections,total,96
+non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A (unknown),detections,total,1725
+non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,292
+non-sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H3),detections,total,222
+non-sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B (unknown),detections,total,348
+non-sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B/Vic,detections,total,97
 non-sentinel,EU/EEA,2024-W11,Influenza,Influenza untyped,Influenza untyped,detections,total,119
-non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A (unknown),detections,total,2061
-non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,486
-non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H3),detections,total,264
-non-sentinel,EU/EEA,2024-W10,Influenza,Influenza B,B (unknown),detections,total,264
+non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A (unknown),detections,total,2076
+non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,499
+non-sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H3),detections,total,267
+non-sentinel,EU/EEA,2024-W10,Influenza,Influenza B,B (unknown),detections,total,266
 non-sentinel,EU/EEA,2024-W10,Influenza,Influenza B,B/Vic,detections,total,90
 non-sentinel,EU/EEA,2024-W10,Influenza,Influenza untyped,Influenza untyped,detections,total,157
-non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A (unknown),detections,total,3479
-non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,739
-non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H3),detections,total,363
-non-sentinel,EU/EEA,2024-W09,Influenza,Influenza B,B (unknown),detections,total,318
+non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A (unknown),detections,total,3489
+non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,744
+non-sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H3),detections,total,365
+non-sentinel,EU/EEA,2024-W09,Influenza,Influenza B,B (unknown),detections,total,319
 non-sentinel,EU/EEA,2024-W09,Influenza,Influenza B,B/Vic,detections,total,87
 non-sentinel,EU/EEA,2024-W09,Influenza,Influenza untyped,Influenza untyped,detections,total,206
-non-sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A (unknown),detections,total,5655
+non-sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A (unknown),detections,total,5656
 non-sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,826
 non-sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A(H3),detections,total,434
 non-sentinel,EU/EEA,2024-W08,Influenza,Influenza B,B (unknown),detections,total,297
@@ -4399,7 +4417,7 @@ non-sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A(H3),detections,total,689
 non-sentinel,EU/EEA,2024-W06,Influenza,Influenza B,B (unknown),detections,total,224
 non-sentinel,EU/EEA,2024-W06,Influenza,Influenza B,B/Vic,detections,total,77
 non-sentinel,EU/EEA,2024-W06,Influenza,Influenza untyped,Influenza untyped,detections,total,861
-non-sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A (unknown),detections,total,10775
+non-sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A (unknown),detections,total,10774
 non-sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,1621
 non-sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H3),detections,total,788
 non-sentinel,EU/EEA,2024-W05,Influenza,Influenza B,B (unknown),detections,total,199
@@ -4429,7 +4447,7 @@ non-sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A(H3),detections,total,756
 non-sentinel,EU/EEA,2024-W01,Influenza,Influenza B,B (unknown),detections,total,179
 non-sentinel,EU/EEA,2024-W01,Influenza,Influenza B,B/Vic,detections,total,30
 non-sentinel,EU/EEA,2024-W01,Influenza,Influenza untyped,Influenza untyped,detections,total,360
-non-sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A (unknown),detections,total,10996
+non-sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A (unknown),detections,total,10998
 non-sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,2394
 non-sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H3),detections,total,681
 non-sentinel,EU/EEA,2023-W52,Influenza,Influenza B,B (unknown),detections,total,125
@@ -4441,7 +4459,7 @@ non-sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A(H3),detections,total,491
 non-sentinel,EU/EEA,2023-W51,Influenza,Influenza B,B (unknown),detections,total,104
 non-sentinel,EU/EEA,2023-W51,Influenza,Influenza B,B/Vic,detections,total,32
 non-sentinel,EU/EEA,2023-W51,Influenza,Influenza untyped,Influenza untyped,detections,total,397
-non-sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A (unknown),detections,total,5722
+non-sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A (unknown),detections,total,5723
 non-sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,1518
 non-sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H3),detections,total,449
 non-sentinel,EU/EEA,2023-W50,Influenza,Influenza B,B (unknown),detections,total,177
@@ -8951,6 +8969,7 @@ non-sentinel,Greece,2014-W49,Influenza,Influenza B,B (unknown),detections,total,
 non-sentinel,Greece,2014-W46,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Greece,2014-W45,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Greece,2014-W44,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Hungary,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Hungary,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Hungary,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Hungary,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,1
@@ -9352,6 +9371,8 @@ non-sentinel,Hungary,2015-W04,Influenza,Influenza B,B/Yam,detections,total,3
 non-sentinel,Hungary,2015-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 non-sentinel,Hungary,2015-W03,Influenza,Influenza A,A(H3),detections,total,12
 non-sentinel,Hungary,2015-W03,Influenza,Influenza B,B/Yam,detections,total,1
+non-sentinel,Iceland,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,35
+non-sentinel,Iceland,2024-W16,Influenza,Influenza A,A(H3),detections,total,6
 non-sentinel,Iceland,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,34
 non-sentinel,Iceland,2024-W15,Influenza,Influenza A,A(H3),detections,total,7
 non-sentinel,Iceland,2024-W15,Influenza,Influenza B,B/Vic,detections,total,2
@@ -9885,22 +9906,26 @@ non-sentinel,Iceland,2015-W02,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,Iceland,2015-W01,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,Iceland,2014-W52,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Iceland,2014-W52,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Ireland,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Ireland,2024-W15,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Ireland,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Ireland,2024-W16,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Ireland,2024-W16,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Ireland,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Ireland,2024-W15,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,Ireland,2024-W15,Influenza,Influenza B,B (unknown),detections,total,6
 non-sentinel,Ireland,2024-W14,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Ireland,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Ireland,2024-W14,Influenza,Influenza A,A(H3),detections,total,5
 non-sentinel,Ireland,2024-W14,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Ireland,2024-W13,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Ireland,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,3
-non-sentinel,Ireland,2024-W13,Influenza,Influenza A,A(H3),detections,total,16
+non-sentinel,Ireland,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,4
+non-sentinel,Ireland,2024-W13,Influenza,Influenza A,A(H3),detections,total,17
 non-sentinel,Ireland,2024-W13,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Ireland,2024-W12,Influenza,Influenza A,A (unknown),detections,total,3
 non-sentinel,Ireland,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,7
 non-sentinel,Ireland,2024-W12,Influenza,Influenza A,A(H3),detections,total,9
 non-sentinel,Ireland,2024-W12,Influenza,Influenza B,B (unknown),detections,total,2
 non-sentinel,Ireland,2024-W11,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Ireland,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,9
+non-sentinel,Ireland,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,10
 non-sentinel,Ireland,2024-W11,Influenza,Influenza A,A(H3),detections,total,12
 non-sentinel,Ireland,2024-W11,Influenza,Influenza B,B (unknown),detections,total,3
 non-sentinel,Ireland,2024-W10,Influenza,Influenza A,A (unknown),detections,total,2
@@ -9908,8 +9933,8 @@ non-sentinel,Ireland,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,
 non-sentinel,Ireland,2024-W10,Influenza,Influenza A,A(H3),detections,total,29
 non-sentinel,Ireland,2024-W10,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Ireland,2024-W09,Influenza,Influenza A,A (unknown),detections,total,6
-non-sentinel,Ireland,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,11
-non-sentinel,Ireland,2024-W09,Influenza,Influenza A,A(H3),detections,total,32
+non-sentinel,Ireland,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Ireland,2024-W09,Influenza,Influenza A,A(H3),detections,total,34
 non-sentinel,Ireland,2024-W09,Influenza,Influenza B,B (unknown),detections,total,7
 non-sentinel,Ireland,2024-W08,Influenza,Influenza A,A (unknown),detections,total,3
 non-sentinel,Ireland,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,18
@@ -10724,30 +10749,34 @@ non-sentinel,Ireland,2014-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,
 non-sentinel,Ireland,2014-W46,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Ireland,2014-W42,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Ireland,2014-W42,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Italy,2024-W16,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Italy,2024-W16,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Italy,2024-W16,Influenza,Influenza B,B (unknown),detections,total,7
+non-sentinel,Italy,2024-W16,Influenza,Influenza B,B/Vic,detections,total,14
 non-sentinel,Italy,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 non-sentinel,Italy,2024-W15,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Italy,2024-W15,Influenza,Influenza B,B (unknown),detections,total,15
-non-sentinel,Italy,2024-W15,Influenza,Influenza B,B/Vic,detections,total,4
+non-sentinel,Italy,2024-W15,Influenza,Influenza B,B (unknown),detections,total,14
+non-sentinel,Italy,2024-W15,Influenza,Influenza B,B/Vic,detections,total,7
 non-sentinel,Italy,2024-W14,Influenza,Influenza A,A (unknown),detections,total,3
 non-sentinel,Italy,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,6
 non-sentinel,Italy,2024-W14,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Italy,2024-W14,Influenza,Influenza B,B (unknown),detections,total,20
-non-sentinel,Italy,2024-W14,Influenza,Influenza B,B/Vic,detections,total,5
+non-sentinel,Italy,2024-W14,Influenza,Influenza B,B (unknown),detections,total,18
+non-sentinel,Italy,2024-W14,Influenza,Influenza B,B/Vic,detections,total,7
 non-sentinel,Italy,2024-W13,Influenza,Influenza A,A (unknown),detections,total,4
 non-sentinel,Italy,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 non-sentinel,Italy,2024-W13,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Italy,2024-W13,Influenza,Influenza B,B (unknown),detections,total,23
-non-sentinel,Italy,2024-W13,Influenza,Influenza B,B/Vic,detections,total,12
+non-sentinel,Italy,2024-W13,Influenza,Influenza B,B (unknown),detections,total,22
+non-sentinel,Italy,2024-W13,Influenza,Influenza B,B/Vic,detections,total,13
 non-sentinel,Italy,2024-W12,Influenza,Influenza A,A (unknown),detections,total,5
-non-sentinel,Italy,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,14
+non-sentinel,Italy,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,15
 non-sentinel,Italy,2024-W12,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,Italy,2024-W12,Influenza,Influenza B,B (unknown),detections,total,33
-non-sentinel,Italy,2024-W12,Influenza,Influenza B,B/Vic,detections,total,15
+non-sentinel,Italy,2024-W12,Influenza,Influenza B,B/Vic,detections,total,16
 non-sentinel,Italy,2024-W11,Influenza,Influenza A,A (unknown),detections,total,4
 non-sentinel,Italy,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,12
 non-sentinel,Italy,2024-W11,Influenza,Influenza A,A(H3),detections,total,8
-non-sentinel,Italy,2024-W11,Influenza,Influenza B,B (unknown),detections,total,24
-non-sentinel,Italy,2024-W11,Influenza,Influenza B,B/Vic,detections,total,20
+non-sentinel,Italy,2024-W11,Influenza,Influenza B,B (unknown),detections,total,23
+non-sentinel,Italy,2024-W11,Influenza,Influenza B,B/Vic,detections,total,21
 non-sentinel,Italy,2024-W10,Influenza,Influenza A,A (unknown),detections,total,6
 non-sentinel,Italy,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,19
 non-sentinel,Italy,2024-W10,Influenza,Influenza A,A(H3),detections,total,25
@@ -11533,6 +11562,10 @@ non-sentinel,Italy,2014-W46,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Italy,2014-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Italy,2014-W42,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Italy,2014-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Latvia,2024-W15,Influenza,Influenza A,A (unknown),detections,total,3
+non-sentinel,Latvia,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Latvia,2024-W15,Influenza,Influenza B,B (unknown),detections,total,3
+non-sentinel,Latvia,2024-W15,Influenza,Influenza B,B/Vic,detections,total,1
 non-sentinel,Latvia,2024-W14,Influenza,Influenza A,A (unknown),detections,total,5
 non-sentinel,Latvia,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Latvia,2024-W14,Influenza,Influenza A,A(H3),detections,total,1
@@ -12114,6 +12147,7 @@ non-sentinel,Latvia,2014-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,7
 non-sentinel,Latvia,2014-W47,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Latvia,2014-W46,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Latvia,2014-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Liechtenstein,2024-W16,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Liechtenstein,2024-W10,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Liechtenstein,2024-W09,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Liechtenstein,2024-W08,Influenza,Influenza A,A (unknown),detections,total,3
@@ -12596,6 +12630,7 @@ non-sentinel,Lithuania,2015-W04,Influenza,Influenza B,B/Vic,detections,total,6
 non-sentinel,Lithuania,2015-W03,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Lithuania,2014-W52,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Lithuania,2014-W51,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Luxembourg,2024-W16,Influenza,Influenza untyped,Influenza untyped,detections,total,17
 non-sentinel,Luxembourg,2024-W15,Influenza,Influenza untyped,Influenza untyped,detections,total,50
 non-sentinel,Luxembourg,2024-W14,Influenza,Influenza untyped,Influenza untyped,detections,total,20
 non-sentinel,Luxembourg,2024-W13,Influenza,Influenza untyped,Influenza untyped,detections,total,39
@@ -13303,28 +13338,32 @@ non-sentinel,Malta,2014-W51,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Malta,2014-W50,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Malta,2014-W43,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Malta,2014-W42,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Netherlands,2024-W15,Influenza,Influenza A,A (unknown),detections,total,31
+non-sentinel,Netherlands,2024-W16,Influenza,Influenza A,A (unknown),detections,total,19
+non-sentinel,Netherlands,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Netherlands,2024-W16,Influenza,Influenza B,B (unknown),detections,total,3
+non-sentinel,Netherlands,2024-W15,Influenza,Influenza A,A (unknown),detections,total,48
+non-sentinel,Netherlands,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Netherlands,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Netherlands,2024-W15,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A (unknown),detections,total,70
-non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,2
-non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Netherlands,2024-W15,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A (unknown),detections,total,63
+non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,4
+non-sentinel,Netherlands,2024-W14,Influenza,Influenza A,A(H3),detections,total,9
 non-sentinel,Netherlands,2024-W14,Influenza,Influenza B,B (unknown),detections,total,6
-non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A (unknown),detections,total,101
-non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A (unknown),detections,total,91
+non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Netherlands,2024-W13,Influenza,Influenza A,A(H3),detections,total,8
 non-sentinel,Netherlands,2024-W13,Influenza,Influenza B,B (unknown),detections,total,6
 non-sentinel,Netherlands,2024-W12,Influenza,Influenza A,A (unknown),detections,total,145
-non-sentinel,Netherlands,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Netherlands,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,14
 non-sentinel,Netherlands,2024-W12,Influenza,Influenza A,A(H3),detections,total,12
 non-sentinel,Netherlands,2024-W12,Influenza,Influenza B,B (unknown),detections,total,8
-non-sentinel,Netherlands,2024-W11,Influenza,Influenza A,A (unknown),detections,total,225
-non-sentinel,Netherlands,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,13
+non-sentinel,Netherlands,2024-W11,Influenza,Influenza A,A (unknown),detections,total,230
+non-sentinel,Netherlands,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,17
 non-sentinel,Netherlands,2024-W11,Influenza,Influenza A,A(H3),detections,total,15
 non-sentinel,Netherlands,2024-W11,Influenza,Influenza B,B (unknown),detections,total,14
 non-sentinel,Netherlands,2024-W11,Influenza,Influenza B,B/Vic,detections,total,1
-non-sentinel,Netherlands,2024-W10,Influenza,Influenza A,A (unknown),detections,total,296
-non-sentinel,Netherlands,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,23
+non-sentinel,Netherlands,2024-W10,Influenza,Influenza A,A (unknown),detections,total,297
+non-sentinel,Netherlands,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,26
 non-sentinel,Netherlands,2024-W10,Influenza,Influenza A,A(H3),detections,total,20
 non-sentinel,Netherlands,2024-W10,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Netherlands,2024-W09,Influenza,Influenza A,A (unknown),detections,total,552
@@ -14454,24 +14493,26 @@ non-sentinel,Netherlands,2014-W41,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,Netherlands,2014-W41,Influenza,Influenza B,B/Yam,detections,total,1
 non-sentinel,Netherlands,2014-W40,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Netherlands,2014-W40,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Norway,2024-W15,Influenza,Influenza A,A (unknown),detections,total,146
-non-sentinel,Norway,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Norway,2024-W15,Influenza,Influenza A,A(H3),detections,total,3
-non-sentinel,Norway,2024-W15,Influenza,Influenza B,B (unknown),detections,total,74
-non-sentinel,Norway,2024-W15,Influenza,Influenza B,B/Vic,detections,total,4
-non-sentinel,Norway,2024-W14,Influenza,Influenza A,A (unknown),detections,total,132
-non-sentinel,Norway,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,16
-non-sentinel,Norway,2024-W14,Influenza,Influenza A,A(H3),detections,total,15
-non-sentinel,Norway,2024-W14,Influenza,Influenza B,B (unknown),detections,total,78
-non-sentinel,Norway,2024-W14,Influenza,Influenza B,B/Vic,detections,total,36
+non-sentinel,Norway,2024-W16,Influenza,Influenza A,A (unknown),detections,total,110
+non-sentinel,Norway,2024-W16,Influenza,Influenza B,B (unknown),detections,total,87
+non-sentinel,Norway,2024-W15,Influenza,Influenza A,A (unknown),detections,total,120
+non-sentinel,Norway,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,14
+non-sentinel,Norway,2024-W15,Influenza,Influenza A,A(H3),detections,total,16
+non-sentinel,Norway,2024-W15,Influenza,Influenza B,B (unknown),detections,total,51
+non-sentinel,Norway,2024-W15,Influenza,Influenza B,B/Vic,detections,total,28
+non-sentinel,Norway,2024-W14,Influenza,Influenza A,A (unknown),detections,total,111
+non-sentinel,Norway,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,29
+non-sentinel,Norway,2024-W14,Influenza,Influenza A,A(H3),detections,total,23
+non-sentinel,Norway,2024-W14,Influenza,Influenza B,B (unknown),detections,total,68
+non-sentinel,Norway,2024-W14,Influenza,Influenza B,B/Vic,detections,total,46
 non-sentinel,Norway,2024-W13,Influenza,Influenza A,A (unknown),detections,total,133
 non-sentinel,Norway,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,25
 non-sentinel,Norway,2024-W13,Influenza,Influenza A,A(H3),detections,total,24
 non-sentinel,Norway,2024-W13,Influenza,Influenza B,B (unknown),detections,total,31
 non-sentinel,Norway,2024-W13,Influenza,Influenza B,B/Vic,detections,total,25
-non-sentinel,Norway,2024-W12,Influenza,Influenza A,A (unknown),detections,total,363
-non-sentinel,Norway,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,52
-non-sentinel,Norway,2024-W12,Influenza,Influenza A,A(H3),detections,total,41
+non-sentinel,Norway,2024-W12,Influenza,Influenza A,A (unknown),detections,total,360
+non-sentinel,Norway,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,54
+non-sentinel,Norway,2024-W12,Influenza,Influenza A,A(H3),detections,total,42
 non-sentinel,Norway,2024-W12,Influenza,Influenza B,B (unknown),detections,total,81
 non-sentinel,Norway,2024-W12,Influenza,Influenza B,B/Vic,detections,total,40
 non-sentinel,Norway,2024-W11,Influenza,Influenza A,A (unknown),detections,total,372
@@ -14489,7 +14530,7 @@ non-sentinel,Norway,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,5
 non-sentinel,Norway,2024-W09,Influenza,Influenza A,A(H3),detections,total,48
 non-sentinel,Norway,2024-W09,Influenza,Influenza B,B (unknown),detections,total,61
 non-sentinel,Norway,2024-W09,Influenza,Influenza B,B/Vic,detections,total,41
-non-sentinel,Norway,2024-W08,Influenza,Influenza A,A (unknown),detections,total,854
+non-sentinel,Norway,2024-W08,Influenza,Influenza A,A (unknown),detections,total,855
 non-sentinel,Norway,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,55
 non-sentinel,Norway,2024-W08,Influenza,Influenza A,A(H3),detections,total,45
 non-sentinel,Norway,2024-W08,Influenza,Influenza B,B (unknown),detections,total,61
@@ -14504,7 +14545,7 @@ non-sentinel,Norway,2024-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,5
 non-sentinel,Norway,2024-W06,Influenza,Influenza A,A(H3),detections,total,50
 non-sentinel,Norway,2024-W06,Influenza,Influenza B,B (unknown),detections,total,47
 non-sentinel,Norway,2024-W06,Influenza,Influenza B,B/Vic,detections,total,45
-non-sentinel,Norway,2024-W05,Influenza,Influenza A,A (unknown),detections,total,901
+non-sentinel,Norway,2024-W05,Influenza,Influenza A,A (unknown),detections,total,900
 non-sentinel,Norway,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,54
 non-sentinel,Norway,2024-W05,Influenza,Influenza A,A(H3),detections,total,46
 non-sentinel,Norway,2024-W05,Influenza,Influenza B,B (unknown),detections,total,58
@@ -14539,7 +14580,7 @@ non-sentinel,Norway,2023-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 non-sentinel,Norway,2023-W51,Influenza,Influenza A,A(H3),detections,total,44
 non-sentinel,Norway,2023-W51,Influenza,Influenza B,B (unknown),detections,total,33
 non-sentinel,Norway,2023-W51,Influenza,Influenza B,B/Vic,detections,total,25
-non-sentinel,Norway,2023-W50,Influenza,Influenza A,A (unknown),detections,total,948
+non-sentinel,Norway,2023-W50,Influenza,Influenza A,A (unknown),detections,total,949
 non-sentinel,Norway,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,75
 non-sentinel,Norway,2023-W50,Influenza,Influenza A,A(H3),detections,total,56
 non-sentinel,Norway,2023-W50,Influenza,Influenza B,B (unknown),detections,total,27
@@ -16389,6 +16430,8 @@ non-sentinel,Norway,2014-W41,Influenza,Influenza B,B (unknown),detections,total,
 non-sentinel,Norway,2014-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Norway,2014-W40,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Norway,2014-W40,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Poland,2024-W16,Influenza,Influenza A,A (unknown),detections,total,23
+non-sentinel,Poland,2024-W16,Influenza,Influenza B,B (unknown),detections,total,9
 non-sentinel,Poland,2024-W15,Influenza,Influenza A,A (unknown),detections,total,25
 non-sentinel,Poland,2024-W15,Influenza,Influenza B,B (unknown),detections,total,16
 non-sentinel,Poland,2024-W14,Influenza,Influenza A,A (unknown),detections,total,69
@@ -16904,25 +16947,30 @@ non-sentinel,Poland,2014-W50,Influenza,Influenza A,A (unknown),detections,total,
 non-sentinel,Poland,2014-W46,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Poland,2014-W46,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Poland,2014-W40,Influenza,Influenza A,A (unknown),detections,total,1
-non-sentinel,Portugal,2024-W15,Influenza,Influenza A,A (unknown),detections,total,11
+non-sentinel,Portugal,2024-W16,Influenza,Influenza A,A (unknown),detections,total,3
+non-sentinel,Portugal,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Portugal,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Portugal,2024-W16,Influenza,Influenza B,B (unknown),detections,total,25
+non-sentinel,Portugal,2024-W15,Influenza,Influenza A,A (unknown),detections,total,13
 non-sentinel,Portugal,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Portugal,2024-W15,Influenza,Influenza B,B (unknown),detections,total,29
+non-sentinel,Portugal,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Portugal,2024-W15,Influenza,Influenza B,B (unknown),detections,total,31
 non-sentinel,Portugal,2024-W14,Influenza,Influenza A,A (unknown),detections,total,9
 non-sentinel,Portugal,2024-W14,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Portugal,2024-W14,Influenza,Influenza B,B (unknown),detections,total,36
 non-sentinel,Portugal,2024-W13,Influenza,Influenza A,A (unknown),detections,total,12
-non-sentinel,Portugal,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Portugal,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 non-sentinel,Portugal,2024-W13,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Portugal,2024-W13,Influenza,Influenza B,B (unknown),detections,total,44
+non-sentinel,Portugal,2024-W13,Influenza,Influenza B,B (unknown),detections,total,47
 non-sentinel,Portugal,2024-W12,Influenza,Influenza A,A (unknown),detections,total,19
 non-sentinel,Portugal,2024-W12,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,Portugal,2024-W12,Influenza,Influenza B,B (unknown),detections,total,38
-non-sentinel,Portugal,2024-W11,Influenza,Influenza A,A (unknown),detections,total,20
-non-sentinel,Portugal,2024-W11,Influenza,Influenza B,B (unknown),detections,total,30
-non-sentinel,Portugal,2024-W10,Influenza,Influenza A,A (unknown),detections,total,27
+non-sentinel,Portugal,2024-W11,Influenza,Influenza A,A (unknown),detections,total,21
+non-sentinel,Portugal,2024-W11,Influenza,Influenza B,B (unknown),detections,total,31
+non-sentinel,Portugal,2024-W10,Influenza,Influenza A,A (unknown),detections,total,28
 non-sentinel,Portugal,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 non-sentinel,Portugal,2024-W10,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Portugal,2024-W10,Influenza,Influenza B,B (unknown),detections,total,34
+non-sentinel,Portugal,2024-W10,Influenza,Influenza B,B (unknown),detections,total,36
 non-sentinel,Portugal,2024-W09,Influenza,Influenza A,A (unknown),detections,total,25
 non-sentinel,Portugal,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,10
 non-sentinel,Portugal,2024-W09,Influenza,Influenza A,A(H3),detections,total,4
@@ -18737,6 +18785,8 @@ non-sentinel,Slovakia,2015-W02,Influenza,Influenza A,A(H1)pdm09,detections,total
 non-sentinel,Slovakia,2015-W02,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Slovakia,2014-W50,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Slovakia,2014-W42,Influenza,Influenza B,B/Yam,detections,total,1
+non-sentinel,Slovenia,2024-W16,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Slovenia,2024-W16,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Slovenia,2024-W15,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Slovenia,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Slovenia,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
@@ -19551,27 +19601,35 @@ non-sentinel,Slovenia,2014-W49,Influenza,Influenza B,B (unknown),detections,tota
 non-sentinel,Slovenia,2014-W48,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Slovenia,2014-W47,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Slovenia,2014-W41,Influenza,Influenza A,A(H3),detections,total,1
-non-sentinel,Spain,2024-W14,Influenza,Influenza A,A (unknown),detections,total,5
+non-sentinel,Spain,2024-W16,Influenza,Influenza A,A (unknown),detections,total,8
+non-sentinel,Spain,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Spain,2024-W16,Influenza,Influenza A,A(H3),detections,total,8
+non-sentinel,Spain,2024-W16,Influenza,Influenza B,B (unknown),detections,total,19
+non-sentinel,Spain,2024-W15,Influenza,Influenza A,A (unknown),detections,total,5
+non-sentinel,Spain,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Spain,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Spain,2024-W15,Influenza,Influenza B,B (unknown),detections,total,20
+non-sentinel,Spain,2024-W14,Influenza,Influenza A,A (unknown),detections,total,13
 non-sentinel,Spain,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,6
-non-sentinel,Spain,2024-W14,Influenza,Influenza A,A(H3),detections,total,5
-non-sentinel,Spain,2024-W14,Influenza,Influenza B,B (unknown),detections,total,18
-non-sentinel,Spain,2024-W13,Influenza,Influenza A,A (unknown),detections,total,12
-non-sentinel,Spain,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,7
-non-sentinel,Spain,2024-W13,Influenza,Influenza A,A(H3),detections,total,4
-non-sentinel,Spain,2024-W13,Influenza,Influenza B,B (unknown),detections,total,29
-non-sentinel,Spain,2024-W12,Influenza,Influenza A,A (unknown),detections,total,14
+non-sentinel,Spain,2024-W14,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Spain,2024-W14,Influenza,Influenza B,B (unknown),detections,total,9
+non-sentinel,Spain,2024-W13,Influenza,Influenza A,A (unknown),detections,total,15
+non-sentinel,Spain,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Spain,2024-W13,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Spain,2024-W13,Influenza,Influenza B,B (unknown),detections,total,7
+non-sentinel,Spain,2024-W12,Influenza,Influenza A,A (unknown),detections,total,25
 non-sentinel,Spain,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,7
 non-sentinel,Spain,2024-W12,Influenza,Influenza A,A(H3),detections,total,8
 non-sentinel,Spain,2024-W12,Influenza,Influenza B,B (unknown),detections,total,32
-non-sentinel,Spain,2024-W11,Influenza,Influenza A,A (unknown),detections,total,19
+non-sentinel,Spain,2024-W11,Influenza,Influenza A,A (unknown),detections,total,24
 non-sentinel,Spain,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,8
 non-sentinel,Spain,2024-W11,Influenza,Influenza A,A(H3),detections,total,12
 non-sentinel,Spain,2024-W11,Influenza,Influenza B,B (unknown),detections,total,35
-non-sentinel,Spain,2024-W10,Influenza,Influenza A,A (unknown),detections,total,28
+non-sentinel,Spain,2024-W10,Influenza,Influenza A,A (unknown),detections,total,27
 non-sentinel,Spain,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,11
 non-sentinel,Spain,2024-W10,Influenza,Influenza A,A(H3),detections,total,12
 non-sentinel,Spain,2024-W10,Influenza,Influenza B,B (unknown),detections,total,21
-non-sentinel,Spain,2024-W09,Influenza,Influenza A,A (unknown),detections,total,51
+non-sentinel,Spain,2024-W09,Influenza,Influenza A,A (unknown),detections,total,50
 non-sentinel,Spain,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,14
 non-sentinel,Spain,2024-W09,Influenza,Influenza A,A(H3),detections,total,21
 non-sentinel,Spain,2024-W09,Influenza,Influenza B,B (unknown),detections,total,17
@@ -19607,7 +19665,7 @@ non-sentinel,Spain,2024-W01,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Spain,2024-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,540
 non-sentinel,Spain,2024-W01,Influenza,Influenza A,A(H3),detections,total,229
 non-sentinel,Spain,2024-W01,Influenza,Influenza B,B (unknown),detections,total,4
-non-sentinel,Spain,2023-W52,Influenza,Influenza A,A (unknown),detections,total,2536
+non-sentinel,Spain,2023-W52,Influenza,Influenza A,A (unknown),detections,total,2538
 non-sentinel,Spain,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,637
 non-sentinel,Spain,2023-W52,Influenza,Influenza A,A(H3),detections,total,187
 non-sentinel,Spain,2023-W52,Influenza,Influenza B,B (unknown),detections,total,13
@@ -20555,27 +20613,32 @@ non-sentinel,Spain,2014-W42,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Spain,2014-W41,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Spain,2014-W40,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Spain,2014-W40,Influenza,Influenza A,A(H3),detections,total,2
-non-sentinel,Sweden,2024-W15,Influenza,Influenza A,A (unknown),detections,total,60
+non-sentinel,Sweden,2024-W16,Influenza,Influenza A,A (unknown),detections,total,41
+non-sentinel,Sweden,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Sweden,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Sweden,2024-W16,Influenza,Influenza B,B (unknown),detections,total,48
+non-sentinel,Sweden,2024-W15,Influenza,Influenza A,A (unknown),detections,total,63
 non-sentinel,Sweden,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 non-sentinel,Sweden,2024-W15,Influenza,Influenza A,A(H3),detections,total,3
-non-sentinel,Sweden,2024-W15,Influenza,Influenza B,B (unknown),detections,total,78
+non-sentinel,Sweden,2024-W15,Influenza,Influenza B,B (unknown),detections,total,80
+non-sentinel,Sweden,2024-W15,Influenza,Influenza B,B/Vic,detections,total,2
 non-sentinel,Sweden,2024-W14,Influenza,Influenza A,A (unknown),detections,total,85
-non-sentinel,Sweden,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,8
-non-sentinel,Sweden,2024-W14,Influenza,Influenza A,A(H3),detections,total,15
-non-sentinel,Sweden,2024-W14,Influenza,Influenza B,B (unknown),detections,total,60
-non-sentinel,Sweden,2024-W14,Influenza,Influenza B,B/Vic,detections,total,6
-non-sentinel,Sweden,2024-W13,Influenza,Influenza A,A (unknown),detections,total,115
-non-sentinel,Sweden,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,11
+non-sentinel,Sweden,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Sweden,2024-W14,Influenza,Influenza A,A(H3),detections,total,18
+non-sentinel,Sweden,2024-W14,Influenza,Influenza B,B (unknown),detections,total,64
+non-sentinel,Sweden,2024-W14,Influenza,Influenza B,B/Vic,detections,total,8
+non-sentinel,Sweden,2024-W13,Influenza,Influenza A,A (unknown),detections,total,119
+non-sentinel,Sweden,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,12
 non-sentinel,Sweden,2024-W13,Influenza,Influenza A,A(H3),detections,total,11
-non-sentinel,Sweden,2024-W13,Influenza,Influenza B,B (unknown),detections,total,77
+non-sentinel,Sweden,2024-W13,Influenza,Influenza B,B (unknown),detections,total,80
 non-sentinel,Sweden,2024-W13,Influenza,Influenza B,B/Vic,detections,total,5
-non-sentinel,Sweden,2024-W12,Influenza,Influenza A,A (unknown),detections,total,126
+non-sentinel,Sweden,2024-W12,Influenza,Influenza A,A (unknown),detections,total,128
 non-sentinel,Sweden,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,26
 non-sentinel,Sweden,2024-W12,Influenza,Influenza A,A(H3),detections,total,20
-non-sentinel,Sweden,2024-W12,Influenza,Influenza B,B (unknown),detections,total,73
+non-sentinel,Sweden,2024-W12,Influenza,Influenza B,B (unknown),detections,total,76
 non-sentinel,Sweden,2024-W12,Influenza,Influenza B,B/Vic,detections,total,6
-non-sentinel,Sweden,2024-W11,Influenza,Influenza A,A (unknown),detections,total,237
-non-sentinel,Sweden,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,40
+non-sentinel,Sweden,2024-W11,Influenza,Influenza A,A (unknown),detections,total,236
+non-sentinel,Sweden,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,41
 non-sentinel,Sweden,2024-W11,Influenza,Influenza A,A(H3),detections,total,41
 non-sentinel,Sweden,2024-W11,Influenza,Influenza B,B (unknown),detections,total,69
 non-sentinel,Sweden,2024-W11,Influenza,Influenza B,B/Vic,detections,total,12
@@ -22184,6 +22247,10 @@ primary care sentinel,Austria,2015-W01,Influenza,Influenza A,A(H3),detections,to
 primary care sentinel,Austria,2014-W52,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Austria,2014-W50,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Austria,2014-W50,Influenza,Influenza B,B (unknown),detections,total,1
+primary care sentinel,Belgium,2024-W13,Influenza,Influenza A,A (unknown),detections,total,4
+primary care sentinel,Belgium,2024-W12,Influenza,Influenza A,A (unknown),detections,total,1
+primary care sentinel,Belgium,2024-W11,Influenza,Influenza A,A (unknown),detections,total,3
+primary care sentinel,Belgium,2024-W11,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Belgium,2024-W10,Influenza,Influenza A,A (unknown),detections,total,3
 primary care sentinel,Belgium,2024-W09,Influenza,Influenza A,A (unknown),detections,total,4
 primary care sentinel,Belgium,2024-W08,Influenza,Influenza A,A (unknown),detections,total,13
@@ -23132,7 +23199,9 @@ primary care sentinel,Czechia,2015-W02,Influenza,Influenza B,B (unknown),detecti
 primary care sentinel,Czechia,2015-W01,Influenza,Influenza A,A(H3),detections,total,3
 primary care sentinel,Czechia,2014-W50,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Czechia,2014-W48,Influenza,Influenza B,B (unknown),detections,total,6
-primary care sentinel,Denmark,2024-W15,Influenza,Influenza B,B (unknown),detections,total,1
+primary care sentinel,Denmark,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+primary care sentinel,Denmark,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Denmark,2024-W15,Influenza,Influenza B,B (unknown),detections,total,3
 primary care sentinel,Denmark,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 primary care sentinel,Denmark,2024-W14,Influenza,Influenza B,B (unknown),detections,total,3
 primary care sentinel,Denmark,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,2
@@ -23572,6 +23641,8 @@ primary care sentinel,Denmark,2015-W05,Influenza,Influenza A,A(H1)pdm09,detectio
 primary care sentinel,Denmark,2015-W05,Influenza,Influenza A,A(H3),detections,total,3
 primary care sentinel,Denmark,2015-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 primary care sentinel,Denmark,2015-W03,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Estonia,2024-W15,Influenza,Influenza B,B/Vic,detections,total,5
+primary care sentinel,Estonia,2024-W14,Influenza,Influenza B,B/Vic,detections,total,2
 primary care sentinel,Estonia,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 primary care sentinel,Estonia,2024-W13,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Estonia,2024-W13,Influenza,Influenza B,B/Vic,detections,total,5
@@ -23896,36 +23967,44 @@ primary care sentinel,Estonia,2015-W04,Influenza,Influenza A,A(H3),detections,to
 primary care sentinel,Estonia,2015-W04,Influenza,Influenza B,B/Yam,detections,total,1
 primary care sentinel,Estonia,2015-W03,Influenza,Influenza A,A(H3),detections,total,6
 primary care sentinel,Estonia,2015-W02,Influenza,Influenza A,A(H3),detections,total,1
-primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A (unknown),detections,total,2
+primary care sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A (unknown),detections,total,5
+primary care sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+primary care sentinel,EU/EEA,2024-W16,Influenza,Influenza A,A(H3),detections,total,4
+primary care sentinel,EU/EEA,2024-W16,Influenza,Influenza B,B (unknown),detections,total,30
+primary care sentinel,EU/EEA,2024-W16,Influenza,Influenza B,B/Vic,detections,total,25
+primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A (unknown),detections,total,3
 primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,5
-primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H3),detections,total,7
-primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B (unknown),detections,total,38
-primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B/Vic,detections,total,36
+primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza A,A(H3),detections,total,8
+primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B (unknown),detections,total,46
+primary care sentinel,EU/EEA,2024-W15,Influenza,Influenza B,B/Vic,detections,total,41
 primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A (unknown),detections,total,10
 primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,22
 primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza A,A(H3),detections,total,7
 primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B (unknown),detections,total,41
-primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B/Vic,detections,total,49
-primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A (unknown),detections,total,15
+primary care sentinel,EU/EEA,2024-W14,Influenza,Influenza B,B/Vic,detections,total,52
+primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A (unknown),detections,total,20
 primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,35
 primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza A,A(H3),detections,total,7
 primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B (unknown),detections,total,53
 primary care sentinel,EU/EEA,2024-W13,Influenza,Influenza B,B/Vic,detections,total,50
-primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A (unknown),detections,total,8
+primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A (unknown),detections,total,9
 primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,58
 primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza A,A(H3),detections,total,17
-primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B (unknown),detections,total,41
-primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B/Vic,detections,total,54
-primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A (unknown),detections,total,37
+primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B (unknown),detections,total,40
+primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza B,B/Vic,detections,total,55
+primary care sentinel,EU/EEA,2024-W12,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A (unknown),detections,total,40
 primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,105
-primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H3),detections,total,49
-primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B (unknown),detections,total,42
+primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza A,A(H3),detections,total,48
+primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B (unknown),detections,total,43
 primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza B,B/Vic,detections,total,50
-primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A (unknown),detections,total,43
+primary care sentinel,EU/EEA,2024-W11,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A (unknown),detections,total,42
 primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,131
 primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza A,A(H3),detections,total,52
 primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza B,B (unknown),detections,total,43
 primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza B,B/Vic,detections,total,50
+primary care sentinel,EU/EEA,2024-W10,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 primary care sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A (unknown),detections,total,79
 primary care sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,232
 primary care sentinel,EU/EEA,2024-W09,Influenza,Influenza A,A(H3),detections,total,75
@@ -23933,9 +24012,10 @@ primary care sentinel,EU/EEA,2024-W09,Influenza,Influenza B,B (unknown),detectio
 primary care sentinel,EU/EEA,2024-W09,Influenza,Influenza B,B/Vic,detections,total,49
 primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A (unknown),detections,total,158
 primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,422
-primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A(H3),detections,total,98
+primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza A,A(H3),detections,total,95
 primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza B,B (unknown),detections,total,50
 primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza B,B/Vic,detections,total,65
+primary care sentinel,EU/EEA,2024-W08,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza A,A (unknown),detections,total,156
 primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza A,A(H1)pdm09,detections,total,553
 primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza A,A(H3),detections,total,176
@@ -23943,96 +24023,99 @@ primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza B,B (unknown),detectio
 primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza B,B/Vic,detections,total,38
 primary care sentinel,EU/EEA,2024-W07,Influenza,Influenza untyped,Influenza untyped,detections,total,2
 primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A (unknown),detections,total,210
-primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,846
-primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A(H3),detections,total,204
+primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,844
+primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza A,A(H3),detections,total,201
 primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza B,B (unknown),detections,total,23
 primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza B,B/Vic,detections,total,37
+primary care sentinel,EU/EEA,2024-W06,Influenza,Influenza untyped,Influenza untyped,detections,total,5
 primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A (unknown),detections,total,189
-primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,969
-primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H3),detections,total,240
+primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,966
+primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza A,A(H3),detections,total,239
 primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza B,B (unknown),detections,total,16
 primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza B,B/Vic,detections,total,34
-primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza untyped,Influenza untyped,detections,total,1
-primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A (unknown),detections,total,187
-primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,1045
-primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A(H3),detections,total,257
+primary care sentinel,EU/EEA,2024-W05,Influenza,Influenza untyped,Influenza untyped,detections,total,5
+primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A (unknown),detections,total,185
+primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,1039
+primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza A,A(H3),detections,total,251
 primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza B,B (unknown),detections,total,15
 primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza B,B/Vic,detections,total,22
-primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza untyped,Influenza untyped,detections,total,2
-primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A (unknown),detections,total,143
-primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,922
-primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A(H3),detections,total,299
+primary care sentinel,EU/EEA,2024-W04,Influenza,Influenza untyped,Influenza untyped,detections,total,16
+primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A (unknown),detections,total,140
+primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,912
+primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza A,A(H3),detections,total,287
 primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza B,B (unknown),detections,total,11
 primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza B,B/Vic,detections,total,19
-primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza untyped,Influenza untyped,detections,total,10
-primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A (unknown),detections,total,181
-primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,747
-primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A(H3),detections,total,191
+primary care sentinel,EU/EEA,2024-W03,Influenza,Influenza untyped,Influenza untyped,detections,total,34
+primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A (unknown),detections,total,177
+primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,728
+primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza A,A(H3),detections,total,177
 primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza B,B (unknown),detections,total,14
 primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza B,B/Vic,detections,total,11
-primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza untyped,Influenza untyped,detections,total,7
-primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A (unknown),detections,total,111
-primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,601
-primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A(H3),detections,total,151
+primary care sentinel,EU/EEA,2024-W02,Influenza,Influenza untyped,Influenza untyped,detections,total,43
+primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A (unknown),detections,total,109
+primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,585
+primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza A,A(H3),detections,total,124
 primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza B,B (unknown),detections,total,8
 primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza B,B/Vic,detections,total,8
-primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza untyped,Influenza untyped,detections,total,15
-primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A (unknown),detections,total,116
-primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,438
-primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H3),detections,total,98
+primary care sentinel,EU/EEA,2024-W01,Influenza,Influenza untyped,Influenza untyped,detections,total,60
+primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A (unknown),detections,total,110
+primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,405
+primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza A,A(H3),detections,total,68
 primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza B,B (unknown),detections,total,5
 primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza B,B/Vic,detections,total,3
-primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza untyped,Influenza untyped,detections,total,9
-primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A (unknown),detections,total,165
-primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,672
-primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A(H3),detections,total,166
+primary care sentinel,EU/EEA,2023-W52,Influenza,Influenza untyped,Influenza untyped,detections,total,75
+primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A (unknown),detections,total,164
+primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,646
+primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza A,A(H3),detections,total,144
 primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza B,B (unknown),detections,total,12
 primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza B,B/Vic,detections,total,11
-primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza untyped,Influenza untyped,detections,total,8
-primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A (unknown),detections,total,108
-primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,502
-primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H3),detections,total,138
+primary care sentinel,EU/EEA,2023-W51,Influenza,Influenza untyped,Influenza untyped,detections,total,57
+primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A (unknown),detections,total,107
+primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,480
+primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza A,A(H3),detections,total,120
 primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza B,B (unknown),detections,total,13
 primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza B,B/Vic,detections,total,8
-primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza untyped,Influenza untyped,detections,total,3
-primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A (unknown),detections,total,42
-primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,217
-primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A(H3),detections,total,78
+primary care sentinel,EU/EEA,2023-W50,Influenza,Influenza untyped,Influenza untyped,detections,total,44
+primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A (unknown),detections,total,41
+primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,211
+primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza A,A(H3),detections,total,64
 primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza B,B (unknown),detections,total,9
 primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza B,B/Vic,detections,total,3
-primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza untyped,Influenza untyped,detections,total,2
+primary care sentinel,EU/EEA,2023-W49,Influenza,Influenza untyped,Influenza untyped,detections,total,23
 primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza A,A (unknown),detections,total,32
-primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,150
-primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza A,A(H3),detections,total,56
+primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,144
+primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza A,A(H3),detections,total,46
 primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza B,B (unknown),detections,total,5
 primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza B,B/Vic,detections,total,2
+primary care sentinel,EU/EEA,2023-W48,Influenza,Influenza untyped,Influenza untyped,detections,total,16
 primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A (unknown),detections,total,29
-primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A(H1)pdm09,detections,total,84
-primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A(H3),detections,total,27
+primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A(H1)pdm09,detections,total,81
+primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza A,A(H3),detections,total,23
 primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza B,B (unknown),detections,total,4
 primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza B,B/Vic,detections,total,2
-primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza untyped,Influenza untyped,detections,total,2
+primary care sentinel,EU/EEA,2023-W47,Influenza,Influenza untyped,Influenza untyped,detections,total,9
 primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza A,A (unknown),detections,total,16
-primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,71
-primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza A,A(H3),detections,total,26
+primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,68
+primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza A,A(H3),detections,total,19
 primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza B,B (unknown),detections,total,3
 primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza B,B/Vic,detections,total,2
+primary care sentinel,EU/EEA,2023-W46,Influenza,Influenza untyped,Influenza untyped,detections,total,10
 primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza A,A (unknown),detections,total,6
-primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza A,A(H1)pdm09,detections,total,38
-primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza A,A(H3),detections,total,19
+primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza A,A(H1)pdm09,detections,total,36
+primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza A,A(H3),detections,total,18
 primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza B,B (unknown),detections,total,3
-primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+primary care sentinel,EU/EEA,2023-W45,Influenza,Influenza untyped,Influenza untyped,detections,total,4
 primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza A,A (unknown),detections,total,8
-primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,23
-primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza A,A(H3),detections,total,15
+primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,22
+primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza A,A(H3),detections,total,11
 primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza B,B (unknown),detections,total,1
-primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,2
+primary care sentinel,EU/EEA,2023-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,7
 primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza A,A (unknown),detections,total,6
 primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,21
-primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza A,A(H3),detections,total,12
+primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza A,A(H3),detections,total,11
 primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza B,B/Vic,detections,total,2
-primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+primary care sentinel,EU/EEA,2023-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,2
 primary care sentinel,EU/EEA,2023-W42,Influenza,Influenza A,A (unknown),detections,total,4
 primary care sentinel,EU/EEA,2023-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,17
 primary care sentinel,EU/EEA,2023-W42,Influenza,Influenza A,A(H3),detections,total,9
@@ -26926,6 +27009,10 @@ primary care sentinel,Germany,2014-W44,Influenza,Influenza A,A(H3),detections,to
 primary care sentinel,Germany,2014-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 primary care sentinel,Germany,2014-W43,Influenza,Influenza B,B/Vic,detections,total,1
 primary care sentinel,Germany,2014-W41,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Greece,2024-W16,Influenza,Influenza A,A (unknown),detections,total,1
+primary care sentinel,Greece,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Greece,2024-W16,Influenza,Influenza B,B (unknown),detections,total,21
+primary care sentinel,Greece,2024-W16,Influenza,Influenza B,B/Vic,detections,total,20
 primary care sentinel,Greece,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 primary care sentinel,Greece,2024-W15,Influenza,Influenza B,B (unknown),detections,total,25
 primary care sentinel,Greece,2024-W15,Influenza,Influenza B,B/Vic,detections,total,21
@@ -27137,6 +27224,7 @@ primary care sentinel,Greece,2015-W02,Influenza,Influenza A,A(H3),detections,tot
 primary care sentinel,Greece,2015-W02,Influenza,Influenza B,B (unknown),detections,total,2
 primary care sentinel,Greece,2015-W01,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Greece,2015-W01,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Hungary,2024-W16,Influenza,Influenza B,B/Vic,detections,total,2
 primary care sentinel,Hungary,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 primary care sentinel,Hungary,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Hungary,2024-W15,Influenza,Influenza B,B/Vic,detections,total,5
@@ -27549,8 +27637,10 @@ primary care sentinel,Hungary,2015-W03,Influenza,Influenza B,B/Yam,detections,to
 primary care sentinel,Hungary,2015-W02,Influenza,Influenza A,A(H3),detections,total,4
 primary care sentinel,Hungary,2015-W02,Influenza,Influenza B,B/Yam,detections,total,1
 primary care sentinel,Hungary,2014-W51,Influenza,Influenza B,B/Yam,detections,total,1
+primary care sentinel,Ireland,2024-W16,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+primary care sentinel,Ireland,2024-W16,Influenza,Influenza B,B (unknown),detections,total,2
 primary care sentinel,Ireland,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
-primary care sentinel,Ireland,2024-W15,Influenza,Influenza B,B (unknown),detections,total,3
+primary care sentinel,Ireland,2024-W15,Influenza,Influenza B,B (unknown),detections,total,4
 primary care sentinel,Ireland,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 primary care sentinel,Ireland,2024-W14,Influenza,Influenza A,A(H3),detections,total,3
 primary care sentinel,Ireland,2024-W14,Influenza,Influenza B,B (unknown),detections,total,2
@@ -28067,7 +28157,11 @@ primary care sentinel,Ireland,2014-W50,Influenza,Influenza A,A(H3),detections,to
 primary care sentinel,Ireland,2014-W50,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Ireland,2014-W48,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Ireland,2014-W45,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Italy,2024-W16,Influenza,Influenza A,A (unknown),detections,total,2
+primary care sentinel,Italy,2024-W16,Influenza,Influenza B,B (unknown),detections,total,2
+primary care sentinel,Italy,2024-W16,Influenza,Influenza B,B/Vic,detections,total,1
 primary care sentinel,Italy,2024-W15,Influenza,Influenza B,B (unknown),detections,total,3
+primary care sentinel,Italy,2024-W14,Influenza,Influenza B,B/Vic,detections,total,1
 primary care sentinel,Italy,2024-W13,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Italy,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 primary care sentinel,Italy,2024-W13,Influenza,Influenza B,B (unknown),detections,total,1
@@ -29967,6 +30061,7 @@ primary care sentinel,Netherlands,2014-W50,Influenza,Influenza B,B/Yam,detection
 primary care sentinel,Netherlands,2014-W49,Influenza,Influenza A,A(H3),detections,total,2
 primary care sentinel,Netherlands,2014-W49,Influenza,Influenza B,B/Yam,detections,total,1
 primary care sentinel,Netherlands,2014-W44,Influenza,Influenza B,B/Yam,detections,total,1
+primary care sentinel,Norway,2024-W16,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Norway,2024-W15,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Norway,2024-W14,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Norway,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,3
@@ -30435,6 +30530,7 @@ primary care sentinel,Norway,2015-W01,Influenza,Influenza A,A(H3),detections,tot
 primary care sentinel,Norway,2015-W01,Influenza,Influenza B,B/Yam,detections,total,3
 primary care sentinel,Norway,2014-W51,Influenza,Influenza B,B/Yam,detections,total,1
 primary care sentinel,Norway,2014-W46,Influenza,Influenza A,A(H3),detections,total,2
+primary care sentinel,Poland,2024-W16,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Poland,2024-W15,Influenza,Influenza A,A (unknown),detections,total,2
 primary care sentinel,Poland,2024-W15,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Poland,2024-W14,Influenza,Influenza A,A (unknown),detections,total,8
@@ -30807,6 +30903,7 @@ primary care sentinel,Poland,2015-W05,Influenza,Influenza A,A(H3),detections,tot
 primary care sentinel,Poland,2015-W05,Influenza,Influenza B,B (unknown),detections,total,2
 primary care sentinel,Poland,2015-W03,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Poland,2015-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+primary care sentinel,Portugal,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 primary care sentinel,Portugal,2024-W09,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Portugal,2024-W09,Influenza,Influenza B,B/Vic,detections,total,1
 primary care sentinel,Portugal,2024-W07,Influenza,Influenza A,A(H1)pdm09,detections,total,1
@@ -31641,6 +31738,7 @@ primary care sentinel,Slovakia,2015-W09,Influenza,Influenza A,A(H3),detections,t
 primary care sentinel,Slovakia,2015-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 primary care sentinel,Slovakia,2015-W08,Influenza,Influenza A,A(H3),detections,total,14
 primary care sentinel,Slovakia,2015-W06,Influenza,Influenza A,A(H3),detections,total,4
+primary care sentinel,Slovenia,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Slovenia,2024-W15,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Slovenia,2024-W14,Influenza,Influenza A,A(H1)pdm09,detections,total,2
 primary care sentinel,Slovenia,2024-W14,Influenza,Influenza A,A(H3),detections,total,1
@@ -32043,30 +32141,41 @@ primary care sentinel,Slovenia,2014-W52,Influenza,Influenza A,A(H1)pdm09,detecti
 primary care sentinel,Slovenia,2014-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 primary care sentinel,Slovenia,2014-W49,Influenza,Influenza B,B/Yam,detections,total,1
 primary care sentinel,Slovenia,2014-W42,Influenza,Influenza B,B/Yam,detections,total,1
+primary care sentinel,Spain,2024-W16,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Spain,2024-W16,Influenza,Influenza B,B (unknown),detections,total,3
+primary care sentinel,Spain,2024-W15,Influenza,Influenza A,A (unknown),detections,total,1
+primary care sentinel,Spain,2024-W15,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Spain,2024-W15,Influenza,Influenza B,B (unknown),detections,total,5
 primary care sentinel,Spain,2024-W14,Influenza,Influenza B,B (unknown),detections,total,7
+primary care sentinel,Spain,2024-W13,Influenza,Influenza A,A (unknown),detections,total,1
 primary care sentinel,Spain,2024-W13,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 primary care sentinel,Spain,2024-W13,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Spain,2024-W13,Influenza,Influenza B,B (unknown),detections,total,3
 primary care sentinel,Spain,2024-W12,Influenza,Influenza A,A (unknown),detections,total,1
-primary care sentinel,Spain,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,4
+primary care sentinel,Spain,2024-W12,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 primary care sentinel,Spain,2024-W12,Influenza,Influenza A,A(H3),detections,total,1
-primary care sentinel,Spain,2024-W12,Influenza,Influenza B,B (unknown),detections,total,10
+primary care sentinel,Spain,2024-W12,Influenza,Influenza B,B (unknown),detections,total,9
+primary care sentinel,Spain,2024-W12,Influenza,Influenza B,B/Vic,detections,total,1
+primary care sentinel,Spain,2024-W12,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 primary care sentinel,Spain,2024-W11,Influenza,Influenza A,A (unknown),detections,total,2
 primary care sentinel,Spain,2024-W11,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-primary care sentinel,Spain,2024-W11,Influenza,Influenza A,A(H3),detections,total,4
+primary care sentinel,Spain,2024-W11,Influenza,Influenza A,A(H3),detections,total,3
 primary care sentinel,Spain,2024-W11,Influenza,Influenza B,B (unknown),detections,total,10
-primary care sentinel,Spain,2024-W10,Influenza,Influenza A,A (unknown),detections,total,3
+primary care sentinel,Spain,2024-W11,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+primary care sentinel,Spain,2024-W10,Influenza,Influenza A,A (unknown),detections,total,2
 primary care sentinel,Spain,2024-W10,Influenza,Influenza A,A(H1)pdm09,detections,total,8
 primary care sentinel,Spain,2024-W10,Influenza,Influenza A,A(H3),detections,total,7
 primary care sentinel,Spain,2024-W10,Influenza,Influenza B,B (unknown),detections,total,5
+primary care sentinel,Spain,2024-W10,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 primary care sentinel,Spain,2024-W09,Influenza,Influenza A,A (unknown),detections,total,5
 primary care sentinel,Spain,2024-W09,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 primary care sentinel,Spain,2024-W09,Influenza,Influenza A,A(H3),detections,total,7
 primary care sentinel,Spain,2024-W09,Influenza,Influenza B,B (unknown),detections,total,3
 primary care sentinel,Spain,2024-W08,Influenza,Influenza A,A (unknown),detections,total,4
 primary care sentinel,Spain,2024-W08,Influenza,Influenza A,A(H1)pdm09,detections,total,11
-primary care sentinel,Spain,2024-W08,Influenza,Influenza A,A(H3),detections,total,9
+primary care sentinel,Spain,2024-W08,Influenza,Influenza A,A(H3),detections,total,6
 primary care sentinel,Spain,2024-W08,Influenza,Influenza B,B (unknown),detections,total,7
+primary care sentinel,Spain,2024-W08,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 primary care sentinel,Spain,2024-W07,Influenza,Influenza A,A (unknown),detections,total,13
 primary care sentinel,Spain,2024-W07,Influenza,Influenza A,A(H1)pdm09,detections,total,17
 primary care sentinel,Spain,2024-W07,Influenza,Influenza A,A(H3),detections,total,12
@@ -32074,73 +32183,80 @@ primary care sentinel,Spain,2024-W07,Influenza,Influenza B,B (unknown),detection
 primary care sentinel,Spain,2024-W07,Influenza,Influenza B,B/Vic,detections,total,2
 primary care sentinel,Spain,2024-W07,Influenza,Influenza untyped,Influenza untyped,detections,total,2
 primary care sentinel,Spain,2024-W06,Influenza,Influenza A,A (unknown),detections,total,20
-primary care sentinel,Spain,2024-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,31
-primary care sentinel,Spain,2024-W06,Influenza,Influenza A,A(H3),detections,total,27
+primary care sentinel,Spain,2024-W06,Influenza,Influenza A,A(H1)pdm09,detections,total,29
+primary care sentinel,Spain,2024-W06,Influenza,Influenza A,A(H3),detections,total,24
 primary care sentinel,Spain,2024-W06,Influenza,Influenza B,B (unknown),detections,total,6
+primary care sentinel,Spain,2024-W06,Influenza,Influenza untyped,Influenza untyped,detections,total,5
 primary care sentinel,Spain,2024-W05,Influenza,Influenza A,A (unknown),detections,total,23
-primary care sentinel,Spain,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,65
-primary care sentinel,Spain,2024-W05,Influenza,Influenza A,A(H3),detections,total,34
+primary care sentinel,Spain,2024-W05,Influenza,Influenza A,A(H1)pdm09,detections,total,62
+primary care sentinel,Spain,2024-W05,Influenza,Influenza A,A(H3),detections,total,33
 primary care sentinel,Spain,2024-W05,Influenza,Influenza B,B (unknown),detections,total,2
-primary care sentinel,Spain,2024-W05,Influenza,Influenza untyped,Influenza untyped,detections,total,1
-primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A (unknown),detections,total,36
-primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,102
-primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A(H3),detections,total,51
+primary care sentinel,Spain,2024-W05,Influenza,Influenza untyped,Influenza untyped,detections,total,5
+primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A (unknown),detections,total,34
+primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A(H1)pdm09,detections,total,96
+primary care sentinel,Spain,2024-W04,Influenza,Influenza A,A(H3),detections,total,45
 primary care sentinel,Spain,2024-W04,Influenza,Influenza B,B (unknown),detections,total,3
-primary care sentinel,Spain,2024-W04,Influenza,Influenza untyped,Influenza untyped,detections,total,2
-primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A (unknown),detections,total,50
-primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,161
-primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A(H3),detections,total,85
+primary care sentinel,Spain,2024-W04,Influenza,Influenza untyped,Influenza untyped,detections,total,16
+primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A (unknown),detections,total,47
+primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A(H1)pdm09,detections,total,151
+primary care sentinel,Spain,2024-W03,Influenza,Influenza A,A(H3),detections,total,73
 primary care sentinel,Spain,2024-W03,Influenza,Influenza B,B (unknown),detections,total,2
-primary care sentinel,Spain,2024-W03,Influenza,Influenza untyped,Influenza untyped,detections,total,10
-primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A (unknown),detections,total,101
-primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,228
-primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A(H3),detections,total,76
+primary care sentinel,Spain,2024-W03,Influenza,Influenza untyped,Influenza untyped,detections,total,34
+primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A (unknown),detections,total,97
+primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A(H1)pdm09,detections,total,209
+primary care sentinel,Spain,2024-W02,Influenza,Influenza A,A(H3),detections,total,62
 primary care sentinel,Spain,2024-W02,Influenza,Influenza B,B (unknown),detections,total,2
-primary care sentinel,Spain,2024-W02,Influenza,Influenza untyped,Influenza untyped,detections,total,7
-primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A (unknown),detections,total,75
-primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,189
-primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A(H3),detections,total,75
-primary care sentinel,Spain,2024-W01,Influenza,Influenza untyped,Influenza untyped,detections,total,15
-primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A (unknown),detections,total,69
-primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,129
-primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A(H3),detections,total,50
+primary care sentinel,Spain,2024-W02,Influenza,Influenza untyped,Influenza untyped,detections,total,43
+primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A (unknown),detections,total,73
+primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A(H1)pdm09,detections,total,173
+primary care sentinel,Spain,2024-W01,Influenza,Influenza A,A(H3),detections,total,48
+primary care sentinel,Spain,2024-W01,Influenza,Influenza untyped,Influenza untyped,detections,total,60
+primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A (unknown),detections,total,63
+primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A(H1)pdm09,detections,total,96
+primary care sentinel,Spain,2023-W52,Influenza,Influenza A,A(H3),detections,total,20
 primary care sentinel,Spain,2023-W52,Influenza,Influenza B,B (unknown),detections,total,1
-primary care sentinel,Spain,2023-W52,Influenza,Influenza untyped,Influenza untyped,detections,total,9
-primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A (unknown),detections,total,71
-primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,166
-primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A(H3),detections,total,50
-primary care sentinel,Spain,2023-W51,Influenza,Influenza untyped,Influenza untyped,detections,total,8
-primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A (unknown),detections,total,55
-primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,105
-primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A(H3),detections,total,48
+primary care sentinel,Spain,2023-W52,Influenza,Influenza untyped,Influenza untyped,detections,total,75
+primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A (unknown),detections,total,70
+primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A(H1)pdm09,detections,total,140
+primary care sentinel,Spain,2023-W51,Influenza,Influenza A,A(H3),detections,total,28
+primary care sentinel,Spain,2023-W51,Influenza,Influenza untyped,Influenza untyped,detections,total,57
+primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A (unknown),detections,total,54
+primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A(H1)pdm09,detections,total,83
+primary care sentinel,Spain,2023-W50,Influenza,Influenza A,A(H3),detections,total,30
 primary care sentinel,Spain,2023-W50,Influenza,Influenza B,B (unknown),detections,total,2
-primary care sentinel,Spain,2023-W50,Influenza,Influenza untyped,Influenza untyped,detections,total,3
-primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A (unknown),detections,total,14
-primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,50
-primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A(H3),detections,total,26
+primary care sentinel,Spain,2023-W50,Influenza,Influenza untyped,Influenza untyped,detections,total,44
+primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A (unknown),detections,total,13
+primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A(H1)pdm09,detections,total,44
+primary care sentinel,Spain,2023-W49,Influenza,Influenza A,A(H3),detections,total,12
 primary care sentinel,Spain,2023-W49,Influenza,Influenza B,B (unknown),detections,total,5
-primary care sentinel,Spain,2023-W49,Influenza,Influenza untyped,Influenza untyped,detections,total,2
+primary care sentinel,Spain,2023-W49,Influenza,Influenza untyped,Influenza untyped,detections,total,23
 primary care sentinel,Spain,2023-W48,Influenza,Influenza A,A (unknown),detections,total,27
-primary care sentinel,Spain,2023-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,59
-primary care sentinel,Spain,2023-W48,Influenza,Influenza A,A(H3),detections,total,23
+primary care sentinel,Spain,2023-W48,Influenza,Influenza A,A(H1)pdm09,detections,total,53
+primary care sentinel,Spain,2023-W48,Influenza,Influenza A,A(H3),detections,total,13
 primary care sentinel,Spain,2023-W48,Influenza,Influenza B,B (unknown),detections,total,1
+primary care sentinel,Spain,2023-W48,Influenza,Influenza untyped,Influenza untyped,detections,total,16
 primary care sentinel,Spain,2023-W47,Influenza,Influenza A,A (unknown),detections,total,22
-primary care sentinel,Spain,2023-W47,Influenza,Influenza A,A(H1)pdm09,detections,total,30
-primary care sentinel,Spain,2023-W47,Influenza,Influenza A,A(H3),detections,total,9
+primary care sentinel,Spain,2023-W47,Influenza,Influenza A,A(H1)pdm09,detections,total,27
+primary care sentinel,Spain,2023-W47,Influenza,Influenza A,A(H3),detections,total,5
+primary care sentinel,Spain,2023-W47,Influenza,Influenza untyped,Influenza untyped,detections,total,7
 primary care sentinel,Spain,2023-W46,Influenza,Influenza A,A (unknown),detections,total,11
-primary care sentinel,Spain,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,36
-primary care sentinel,Spain,2023-W46,Influenza,Influenza A,A(H3),detections,total,17
+primary care sentinel,Spain,2023-W46,Influenza,Influenza A,A(H1)pdm09,detections,total,33
+primary care sentinel,Spain,2023-W46,Influenza,Influenza A,A(H3),detections,total,10
 primary care sentinel,Spain,2023-W46,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Spain,2023-W46,Influenza,Influenza B,B/Vic,detections,total,1
+primary care sentinel,Spain,2023-W46,Influenza,Influenza untyped,Influenza untyped,detections,total,10
 primary care sentinel,Spain,2023-W45,Influenza,Influenza A,A (unknown),detections,total,5
-primary care sentinel,Spain,2023-W45,Influenza,Influenza A,A(H1)pdm09,detections,total,13
-primary care sentinel,Spain,2023-W45,Influenza,Influenza A,A(H3),detections,total,8
+primary care sentinel,Spain,2023-W45,Influenza,Influenza A,A(H1)pdm09,detections,total,11
+primary care sentinel,Spain,2023-W45,Influenza,Influenza A,A(H3),detections,total,7
+primary care sentinel,Spain,2023-W45,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 primary care sentinel,Spain,2023-W44,Influenza,Influenza A,A (unknown),detections,total,2
-primary care sentinel,Spain,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,8
-primary care sentinel,Spain,2023-W44,Influenza,Influenza A,A(H3),detections,total,6
+primary care sentinel,Spain,2023-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,7
+primary care sentinel,Spain,2023-W44,Influenza,Influenza A,A(H3),detections,total,2
+primary care sentinel,Spain,2023-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,5
 primary care sentinel,Spain,2023-W43,Influenza,Influenza A,A (unknown),detections,total,4
 primary care sentinel,Spain,2023-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,13
-primary care sentinel,Spain,2023-W43,Influenza,Influenza A,A(H3),detections,total,6
+primary care sentinel,Spain,2023-W43,Influenza,Influenza A,A(H3),detections,total,5
+primary care sentinel,Spain,2023-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 primary care sentinel,Spain,2023-W42,Influenza,Influenza A,A (unknown),detections,total,3
 primary care sentinel,Spain,2023-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,4
 primary care sentinel,Spain,2023-W42,Influenza,Influenza A,A(H3),detections,total,5
@@ -32785,6 +32901,8 @@ primary care sentinel,Spain,2014-W42,Influenza,Influenza A,A(H3),detections,tota
 primary care sentinel,Spain,2014-W41,Influenza,Influenza A,A(H3),detections,total,1
 primary care sentinel,Spain,2014-W41,Influenza,Influenza B,B (unknown),detections,total,1
 primary care sentinel,Spain,2014-W40,Influenza,Influenza A,A(H3),detections,total,1
+primary care sentinel,Sweden,2024-W16,Influenza,Influenza B,B (unknown),detections,total,2
+primary care sentinel,Sweden,2024-W16,Influenza,Influenza B,B/Vic,detections,total,2
 primary care sentinel,Sweden,2024-W15,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 primary care sentinel,Sweden,2024-W14,Influenza,Influenza B,B (unknown),detections,total,2
 primary care sentinel,Sweden,2024-W14,Influenza,Influenza B,B/Vic,detections,total,2
