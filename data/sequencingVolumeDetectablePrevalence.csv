@@ -1,4 +1,5 @@
 survtype,datasource,countryname,yearweek,pathogen,indicator,age,value,detectableprevalence
+SARS-CoV-2 variant,GISAID,Austria,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Austria,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Austria,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Austria,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -230,6 +231,7 @@ SARS-CoV-2 variant,GISAID,Austria,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Austria,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Austria,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Austria,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Belgium,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Belgium,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Belgium,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Belgium,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -461,6 +463,7 @@ SARS-CoV-2 variant,GISAID,Belgium,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Belgium,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Belgium,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Belgium,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Bulgaria,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Bulgaria,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Bulgaria,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Bulgaria,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -493,8 +496,8 @@ SARS-CoV-2 variant,GISAID,Bulgaria,2023-W47,SARS-CoV-2,2-week count of sequences
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W46,SARS-CoV-2,2-week count of sequences,total,50,>10% to 15%
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W45,SARS-CoV-2,2-week count of sequences,total,54,>10% to 15%
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W44,SARS-CoV-2,2-week count of sequences,total,52,>10% to 15%
-SARS-CoV-2 variant,GISAID,Bulgaria,2023-W43,SARS-CoV-2,2-week count of sequences,total,87,>5% to 10%
-SARS-CoV-2 variant,GISAID,Bulgaria,2023-W42,SARS-CoV-2,2-week count of sequences,total,74,>5% to 10%
+SARS-CoV-2 variant,GISAID,Bulgaria,2023-W43,SARS-CoV-2,2-week count of sequences,total,88,>5% to 10%
+SARS-CoV-2 variant,GISAID,Bulgaria,2023-W42,SARS-CoV-2,2-week count of sequences,total,75,>5% to 10%
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W41,SARS-CoV-2,2-week count of sequences,total,47,>10% to 15%
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W40,SARS-CoV-2,2-week count of sequences,total,67,>5% to 10%
 SARS-CoV-2 variant,GISAID,Bulgaria,2023-W39,SARS-CoV-2,2-week count of sequences,total,70,>5% to 10%
@@ -692,6 +695,7 @@ SARS-CoV-2 variant,GISAID,Bulgaria,2020-W05,SARS-CoV-2,2-week count of sequences
 SARS-CoV-2 variant,GISAID,Bulgaria,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Bulgaria,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Bulgaria,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Croatia,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Croatia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Croatia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Croatia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -923,6 +927,7 @@ SARS-CoV-2 variant,GISAID,Croatia,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Croatia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Croatia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Croatia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Cyprus,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Cyprus,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Cyprus,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Cyprus,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -1154,8 +1159,9 @@ SARS-CoV-2 variant,GISAID,Cyprus,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,Cyprus,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Cyprus,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Cyprus,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Czechia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Czechia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Czechia,2024-W24,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,GISAID,Czechia,2024-W23,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,GISAID,Czechia,2024-W22,SARS-CoV-2,2-week count of sequences,total,4,>15%
 SARS-CoV-2 variant,GISAID,Czechia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2024-W20,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2024-W19,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -1165,8 +1171,8 @@ SARS-CoV-2 variant,GISAID,Czechia,2024-W16,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Czechia,2024-W15,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2024-W14,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2024-W13,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,GISAID,Czechia,2024-W12,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,GISAID,Czechia,2024-W11,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,GISAID,Czechia,2024-W12,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,GISAID,Czechia,2024-W11,SARS-CoV-2,2-week count of sequences,total,5,>15%
 SARS-CoV-2 variant,GISAID,Czechia,2024-W10,SARS-CoV-2,2-week count of sequences,total,9,>15%
 SARS-CoV-2 variant,GISAID,Czechia,2024-W09,SARS-CoV-2,2-week count of sequences,total,13,>15%
 SARS-CoV-2 variant,GISAID,Czechia,2024-W08,SARS-CoV-2,2-week count of sequences,total,9,>15%
@@ -1385,6 +1391,7 @@ SARS-CoV-2 variant,GISAID,Czechia,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Czechia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Czechia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Denmark,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Denmark,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Denmark,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Denmark,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -1616,237 +1623,7 @@ SARS-CoV-2 variant,TESSy,Denmark,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,TESSy,Denmark,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Denmark,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Denmark,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,NA,EU/EEA,2024-W23,SARS-CoV-2,2-week count of sequences,total,721,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W22,SARS-CoV-2,2-week count of sequences,total,1577,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W21,SARS-CoV-2,2-week count of sequences,total,1827,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W20,SARS-CoV-2,2-week count of sequences,total,1516,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W19,SARS-CoV-2,2-week count of sequences,total,1255,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W18,SARS-CoV-2,2-week count of sequences,total,1014,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W17,SARS-CoV-2,2-week count of sequences,total,848,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W16,SARS-CoV-2,2-week count of sequences,total,777,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W15,SARS-CoV-2,2-week count of sequences,total,768,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W14,SARS-CoV-2,2-week count of sequences,total,790,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W13,SARS-CoV-2,2-week count of sequences,total,845,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W12,SARS-CoV-2,2-week count of sequences,total,921,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W11,SARS-CoV-2,2-week count of sequences,total,1015,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W10,SARS-CoV-2,2-week count of sequences,total,1228,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W09,SARS-CoV-2,2-week count of sequences,total,1538,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W08,SARS-CoV-2,2-week count of sequences,total,1985,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W07,SARS-CoV-2,2-week count of sequences,total,2446,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W06,SARS-CoV-2,2-week count of sequences,total,2982,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W05,SARS-CoV-2,2-week count of sequences,total,3650,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W04,SARS-CoV-2,2-week count of sequences,total,5082,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W03,SARS-CoV-2,2-week count of sequences,total,6958,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W02,SARS-CoV-2,2-week count of sequences,total,8616,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2024-W01,SARS-CoV-2,2-week count of sequences,total,9960,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W52,SARS-CoV-2,2-week count of sequences,total,11776,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W51,SARS-CoV-2,2-week count of sequences,total,16057,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W50,SARS-CoV-2,2-week count of sequences,total,18246,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W49,SARS-CoV-2,2-week count of sequences,total,16650,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W48,SARS-CoV-2,2-week count of sequences,total,15144,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W47,SARS-CoV-2,2-week count of sequences,total,14421,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W46,SARS-CoV-2,2-week count of sequences,total,13551,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W45,SARS-CoV-2,2-week count of sequences,total,12636,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W44,SARS-CoV-2,2-week count of sequences,total,12567,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W43,SARS-CoV-2,2-week count of sequences,total,12786,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W42,SARS-CoV-2,2-week count of sequences,total,12846,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W41,SARS-CoV-2,2-week count of sequences,total,12970,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W40,SARS-CoV-2,2-week count of sequences,total,12590,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W39,SARS-CoV-2,2-week count of sequences,total,12507,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W38,SARS-CoV-2,2-week count of sequences,total,12242,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W37,SARS-CoV-2,2-week count of sequences,total,11925,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W36,SARS-CoV-2,2-week count of sequences,total,11306,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W35,SARS-CoV-2,2-week count of sequences,total,9835,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W34,SARS-CoV-2,2-week count of sequences,total,7951,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W33,SARS-CoV-2,2-week count of sequences,total,6305,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W32,SARS-CoV-2,2-week count of sequences,total,5603,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W31,SARS-CoV-2,2-week count of sequences,total,4395,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W30,SARS-CoV-2,2-week count of sequences,total,3465,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W29,SARS-CoV-2,2-week count of sequences,total,3166,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W28,SARS-CoV-2,2-week count of sequences,total,2799,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W27,SARS-CoV-2,2-week count of sequences,total,2598,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W26,SARS-CoV-2,2-week count of sequences,total,3044,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W25,SARS-CoV-2,2-week count of sequences,total,3860,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W24,SARS-CoV-2,2-week count of sequences,total,5178,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W23,SARS-CoV-2,2-week count of sequences,total,6224,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W22,SARS-CoV-2,2-week count of sequences,total,7241,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W21,SARS-CoV-2,2-week count of sequences,total,8118,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W20,SARS-CoV-2,2-week count of sequences,total,8764,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W19,SARS-CoV-2,2-week count of sequences,total,9833,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W18,SARS-CoV-2,2-week count of sequences,total,11686,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W17,SARS-CoV-2,2-week count of sequences,total,13967,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W16,SARS-CoV-2,2-week count of sequences,total,15412,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W15,SARS-CoV-2,2-week count of sequences,total,15858,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W14,SARS-CoV-2,2-week count of sequences,total,17898,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W13,SARS-CoV-2,2-week count of sequences,total,22777,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W12,SARS-CoV-2,2-week count of sequences,total,26987,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W11,SARS-CoV-2,2-week count of sequences,total,29572,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W10,SARS-CoV-2,2-week count of sequences,total,30956,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W09,SARS-CoV-2,2-week count of sequences,total,30714,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W08,SARS-CoV-2,2-week count of sequences,total,30456,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W07,SARS-CoV-2,2-week count of sequences,total,30071,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W06,SARS-CoV-2,2-week count of sequences,total,29473,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W05,SARS-CoV-2,2-week count of sequences,total,28427,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W04,SARS-CoV-2,2-week count of sequences,total,27560,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W03,SARS-CoV-2,2-week count of sequences,total,31491,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W02,SARS-CoV-2,2-week count of sequences,total,37240,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2023-W01,SARS-CoV-2,2-week count of sequences,total,40290,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W52,SARS-CoV-2,2-week count of sequences,total,44543,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W51,SARS-CoV-2,2-week count of sequences,total,52851,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W50,SARS-CoV-2,2-week count of sequences,total,57175,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W49,SARS-CoV-2,2-week count of sequences,total,55275,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W48,SARS-CoV-2,2-week count of sequences,total,52276,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W47,SARS-CoV-2,2-week count of sequences,total,48033,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W46,SARS-CoV-2,2-week count of sequences,total,47615,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W45,SARS-CoV-2,2-week count of sequences,total,46368,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W44,SARS-CoV-2,2-week count of sequences,total,47070,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W43,SARS-CoV-2,2-week count of sequences,total,53650,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W42,SARS-CoV-2,2-week count of sequences,total,58504,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W41,SARS-CoV-2,2-week count of sequences,total,59519,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W40,SARS-CoV-2,2-week count of sequences,total,57079,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W39,SARS-CoV-2,2-week count of sequences,total,56491,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W38,SARS-CoV-2,2-week count of sequences,total,56099,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W37,SARS-CoV-2,2-week count of sequences,total,54517,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W36,SARS-CoV-2,2-week count of sequences,total,52802,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W35,SARS-CoV-2,2-week count of sequences,total,49200,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W34,SARS-CoV-2,2-week count of sequences,total,49817,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W33,SARS-CoV-2,2-week count of sequences,total,53827,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W32,SARS-CoV-2,2-week count of sequences,total,57176,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W31,SARS-CoV-2,2-week count of sequences,total,62748,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W30,SARS-CoV-2,2-week count of sequences,total,69301,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W29,SARS-CoV-2,2-week count of sequences,total,75111,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W28,SARS-CoV-2,2-week count of sequences,total,76528,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W27,SARS-CoV-2,2-week count of sequences,total,84307,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W26,SARS-CoV-2,2-week count of sequences,total,93657,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W25,SARS-CoV-2,2-week count of sequences,total,88651,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W24,SARS-CoV-2,2-week count of sequences,total,75451,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W23,SARS-CoV-2,2-week count of sequences,total,64484,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W22,SARS-CoV-2,2-week count of sequences,total,57166,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W21,SARS-CoV-2,2-week count of sequences,total,57827,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W20,SARS-CoV-2,2-week count of sequences,total,66619,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W19,SARS-CoV-2,2-week count of sequences,total,74329,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W18,SARS-CoV-2,2-week count of sequences,total,82481,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W17,SARS-CoV-2,2-week count of sequences,total,91727,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,2-week count of sequences,total,101175,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W15,SARS-CoV-2,2-week count of sequences,total,109699,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W14,SARS-CoV-2,2-week count of sequences,total,116757,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,2-week count of sequences,total,126413,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W12,SARS-CoV-2,2-week count of sequences,total,137263,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W11,SARS-CoV-2,2-week count of sequences,total,140964,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,2-week count of sequences,total,137702,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W09,SARS-CoV-2,2-week count of sequences,total,139785,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W08,SARS-CoV-2,2-week count of sequences,total,145676,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,2-week count of sequences,total,147796,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W06,SARS-CoV-2,2-week count of sequences,total,150909,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W05,SARS-CoV-2,2-week count of sequences,total,152795,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W04,SARS-CoV-2,2-week count of sequences,total,159470,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,2-week count of sequences,total,161119,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W02,SARS-CoV-2,2-week count of sequences,total,148574,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,2-week count of sequences,total,140810,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W52,SARS-CoV-2,2-week count of sequences,total,123866,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W51,SARS-CoV-2,2-week count of sequences,total,117248,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W50,SARS-CoV-2,2-week count of sequences,total,127091,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W49,SARS-CoV-2,2-week count of sequences,total,131447,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W48,SARS-CoV-2,2-week count of sequences,total,119952,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W47,SARS-CoV-2,2-week count of sequences,total,106374,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W46,SARS-CoV-2,2-week count of sequences,total,103026,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W45,SARS-CoV-2,2-week count of sequences,total,96306,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W44,SARS-CoV-2,2-week count of sequences,total,94613,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W43,SARS-CoV-2,2-week count of sequences,total,88694,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W42,SARS-CoV-2,2-week count of sequences,total,74092,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W41,SARS-CoV-2,2-week count of sequences,total,61642,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W40,SARS-CoV-2,2-week count of sequences,total,58075,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W39,SARS-CoV-2,2-week count of sequences,total,57485,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W38,SARS-CoV-2,2-week count of sequences,total,59235,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W37,SARS-CoV-2,2-week count of sequences,total,65966,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W36,SARS-CoV-2,2-week count of sequences,total,72821,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W35,SARS-CoV-2,2-week count of sequences,total,78513,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W34,SARS-CoV-2,2-week count of sequences,total,80849,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W33,SARS-CoV-2,2-week count of sequences,total,79136,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W32,SARS-CoV-2,2-week count of sequences,total,75046,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W31,SARS-CoV-2,2-week count of sequences,total,75282,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W30,SARS-CoV-2,2-week count of sequences,total,82484,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W29,SARS-CoV-2,2-week count of sequences,total,80717,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W28,SARS-CoV-2,2-week count of sequences,total,62376,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W27,SARS-CoV-2,2-week count of sequences,total,42531,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W26,SARS-CoV-2,2-week count of sequences,total,31050,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W25,SARS-CoV-2,2-week count of sequences,total,27644,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W24,SARS-CoV-2,2-week count of sequences,total,34653,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W23,SARS-CoV-2,2-week count of sequences,total,42032,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W22,SARS-CoV-2,2-week count of sequences,total,47369,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W21,SARS-CoV-2,2-week count of sequences,total,55857,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W20,SARS-CoV-2,2-week count of sequences,total,59518,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W19,SARS-CoV-2,2-week count of sequences,total,63151,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W18,SARS-CoV-2,2-week count of sequences,total,67574,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W17,SARS-CoV-2,2-week count of sequences,total,70132,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W16,SARS-CoV-2,2-week count of sequences,total,74812,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W15,SARS-CoV-2,2-week count of sequences,total,69399,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W14,SARS-CoV-2,2-week count of sequences,total,62966,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W13,SARS-CoV-2,2-week count of sequences,total,67029,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W12,SARS-CoV-2,2-week count of sequences,total,71503,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W11,SARS-CoV-2,2-week count of sequences,total,69014,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W10,SARS-CoV-2,2-week count of sequences,total,62953,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W09,SARS-CoV-2,2-week count of sequences,total,55572,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W08,SARS-CoV-2,2-week count of sequences,total,48264,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W07,SARS-CoV-2,2-week count of sequences,total,43614,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W06,SARS-CoV-2,2-week count of sequences,total,41428,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W05,SARS-CoV-2,2-week count of sequences,total,38577,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W04,SARS-CoV-2,2-week count of sequences,total,29711,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W03,SARS-CoV-2,2-week count of sequences,total,21013,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W02,SARS-CoV-2,2-week count of sequences,total,15623,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2021-W01,SARS-CoV-2,2-week count of sequences,total,11270,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W53,SARS-CoV-2,2-week count of sequences,total,8614,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W52,SARS-CoV-2,2-week count of sequences,total,7709,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W51,SARS-CoV-2,2-week count of sequences,total,7337,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W50,SARS-CoV-2,2-week count of sequences,total,7023,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W49,SARS-CoV-2,2-week count of sequences,total,6110,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W48,SARS-CoV-2,2-week count of sequences,total,5304,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W47,SARS-CoV-2,2-week count of sequences,total,6135,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W46,SARS-CoV-2,2-week count of sequences,total,6402,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W45,SARS-CoV-2,2-week count of sequences,total,6400,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W44,SARS-CoV-2,2-week count of sequences,total,6330,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W43,SARS-CoV-2,2-week count of sequences,total,5671,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W42,SARS-CoV-2,2-week count of sequences,total,5139,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W41,SARS-CoV-2,2-week count of sequences,total,4143,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W40,SARS-CoV-2,2-week count of sequences,total,3261,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W39,SARS-CoV-2,2-week count of sequences,total,3338,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W38,SARS-CoV-2,2-week count of sequences,total,3093,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W37,SARS-CoV-2,2-week count of sequences,total,2446,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W36,SARS-CoV-2,2-week count of sequences,total,1950,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W35,SARS-CoV-2,2-week count of sequences,total,1620,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W34,SARS-CoV-2,2-week count of sequences,total,1907,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W33,SARS-CoV-2,2-week count of sequences,total,1906,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W32,SARS-CoV-2,2-week count of sequences,total,1482,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W31,SARS-CoV-2,2-week count of sequences,total,1091,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W30,SARS-CoV-2,2-week count of sequences,total,780,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W29,SARS-CoV-2,2-week count of sequences,total,806,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W28,SARS-CoV-2,2-week count of sequences,total,820,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W27,SARS-CoV-2,2-week count of sequences,total,1043,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W26,SARS-CoV-2,2-week count of sequences,total,2443,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W25,SARS-CoV-2,2-week count of sequences,total,2045,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W24,SARS-CoV-2,2-week count of sequences,total,602,>1% to 2.5%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W23,SARS-CoV-2,2-week count of sequences,total,709,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W22,SARS-CoV-2,2-week count of sequences,total,944,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W21,SARS-CoV-2,2-week count of sequences,total,1016,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W20,SARS-CoV-2,2-week count of sequences,total,1118,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W19,SARS-CoV-2,2-week count of sequences,total,1462,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W18,SARS-CoV-2,2-week count of sequences,total,1935,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W17,SARS-CoV-2,2-week count of sequences,total,2837,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W16,SARS-CoV-2,2-week count of sequences,total,4443,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W15,SARS-CoV-2,2-week count of sequences,total,6613,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W14,SARS-CoV-2,2-week count of sequences,total,9796,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W13,SARS-CoV-2,2-week count of sequences,total,10871,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W12,SARS-CoV-2,2-week count of sequences,total,7505,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W11,SARS-CoV-2,2-week count of sequences,total,3804,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W10,SARS-CoV-2,2-week count of sequences,total,1432,≤1%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W09,SARS-CoV-2,2-week count of sequences,total,192,>2.5% to 5%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W08,SARS-CoV-2,2-week count of sequences,total,21,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W07,SARS-CoV-2,2-week count of sequences,total,26,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W06,SARS-CoV-2,2-week count of sequences,total,35,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W05,SARS-CoV-2,2-week count of sequences,total,27,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W04,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W03,SARS-CoV-2,2-week count of sequences,total,5,>15%
-SARS-CoV-2 variant,NA,EU/EEA,2020-W02,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,TESSy,Estonia,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Estonia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Estonia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Estonia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -2078,6 +1855,239 @@ SARS-CoV-2 variant,TESSy,Estonia,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,TESSy,Estonia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Estonia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Estonia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,NA,EU/EEA,2024-W24,SARS-CoV-2,2-week count of sequences,total,927,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W23,SARS-CoV-2,2-week count of sequences,total,1612,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W22,SARS-CoV-2,2-week count of sequences,total,2024,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W21,SARS-CoV-2,2-week count of sequences,total,1958,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W20,SARS-CoV-2,2-week count of sequences,total,1624,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W19,SARS-CoV-2,2-week count of sequences,total,1348,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W18,SARS-CoV-2,2-week count of sequences,total,1065,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W17,SARS-CoV-2,2-week count of sequences,total,873,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W16,SARS-CoV-2,2-week count of sequences,total,795,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W15,SARS-CoV-2,2-week count of sequences,total,778,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W14,SARS-CoV-2,2-week count of sequences,total,795,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W13,SARS-CoV-2,2-week count of sequences,total,846,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W12,SARS-CoV-2,2-week count of sequences,total,922,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W11,SARS-CoV-2,2-week count of sequences,total,1016,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W10,SARS-CoV-2,2-week count of sequences,total,1229,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W09,SARS-CoV-2,2-week count of sequences,total,1540,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W08,SARS-CoV-2,2-week count of sequences,total,1986,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W07,SARS-CoV-2,2-week count of sequences,total,2447,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W06,SARS-CoV-2,2-week count of sequences,total,2983,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W05,SARS-CoV-2,2-week count of sequences,total,3650,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W04,SARS-CoV-2,2-week count of sequences,total,5083,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W03,SARS-CoV-2,2-week count of sequences,total,6959,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W02,SARS-CoV-2,2-week count of sequences,total,8617,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2024-W01,SARS-CoV-2,2-week count of sequences,total,9961,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W52,SARS-CoV-2,2-week count of sequences,total,11777,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W51,SARS-CoV-2,2-week count of sequences,total,16059,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W50,SARS-CoV-2,2-week count of sequences,total,18249,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W49,SARS-CoV-2,2-week count of sequences,total,16652,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W48,SARS-CoV-2,2-week count of sequences,total,15144,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W47,SARS-CoV-2,2-week count of sequences,total,14421,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W46,SARS-CoV-2,2-week count of sequences,total,13551,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W45,SARS-CoV-2,2-week count of sequences,total,12636,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W44,SARS-CoV-2,2-week count of sequences,total,12567,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W43,SARS-CoV-2,2-week count of sequences,total,12788,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W42,SARS-CoV-2,2-week count of sequences,total,12849,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W41,SARS-CoV-2,2-week count of sequences,total,12971,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W40,SARS-CoV-2,2-week count of sequences,total,12590,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W39,SARS-CoV-2,2-week count of sequences,total,12507,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W38,SARS-CoV-2,2-week count of sequences,total,12242,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W37,SARS-CoV-2,2-week count of sequences,total,11925,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W36,SARS-CoV-2,2-week count of sequences,total,11306,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W35,SARS-CoV-2,2-week count of sequences,total,9835,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W34,SARS-CoV-2,2-week count of sequences,total,7951,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W33,SARS-CoV-2,2-week count of sequences,total,6305,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W32,SARS-CoV-2,2-week count of sequences,total,5603,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W31,SARS-CoV-2,2-week count of sequences,total,4395,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W30,SARS-CoV-2,2-week count of sequences,total,3465,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W29,SARS-CoV-2,2-week count of sequences,total,3166,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W28,SARS-CoV-2,2-week count of sequences,total,2799,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W27,SARS-CoV-2,2-week count of sequences,total,2598,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W26,SARS-CoV-2,2-week count of sequences,total,3044,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W25,SARS-CoV-2,2-week count of sequences,total,3860,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W24,SARS-CoV-2,2-week count of sequences,total,5178,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W23,SARS-CoV-2,2-week count of sequences,total,6224,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W22,SARS-CoV-2,2-week count of sequences,total,7241,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W21,SARS-CoV-2,2-week count of sequences,total,8118,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W20,SARS-CoV-2,2-week count of sequences,total,8764,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W19,SARS-CoV-2,2-week count of sequences,total,9833,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W18,SARS-CoV-2,2-week count of sequences,total,11686,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W17,SARS-CoV-2,2-week count of sequences,total,13967,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W16,SARS-CoV-2,2-week count of sequences,total,15412,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W15,SARS-CoV-2,2-week count of sequences,total,15858,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W14,SARS-CoV-2,2-week count of sequences,total,17898,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W13,SARS-CoV-2,2-week count of sequences,total,22777,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W12,SARS-CoV-2,2-week count of sequences,total,26987,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W11,SARS-CoV-2,2-week count of sequences,total,29572,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W10,SARS-CoV-2,2-week count of sequences,total,30956,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W09,SARS-CoV-2,2-week count of sequences,total,30714,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W08,SARS-CoV-2,2-week count of sequences,total,30456,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W07,SARS-CoV-2,2-week count of sequences,total,30071,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W06,SARS-CoV-2,2-week count of sequences,total,29473,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W05,SARS-CoV-2,2-week count of sequences,total,28427,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W04,SARS-CoV-2,2-week count of sequences,total,27560,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W03,SARS-CoV-2,2-week count of sequences,total,31491,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W02,SARS-CoV-2,2-week count of sequences,total,37240,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2023-W01,SARS-CoV-2,2-week count of sequences,total,40290,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W52,SARS-CoV-2,2-week count of sequences,total,44543,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W51,SARS-CoV-2,2-week count of sequences,total,52851,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W50,SARS-CoV-2,2-week count of sequences,total,57175,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W49,SARS-CoV-2,2-week count of sequences,total,55275,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W48,SARS-CoV-2,2-week count of sequences,total,52276,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W47,SARS-CoV-2,2-week count of sequences,total,48033,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W46,SARS-CoV-2,2-week count of sequences,total,47615,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W45,SARS-CoV-2,2-week count of sequences,total,46368,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W44,SARS-CoV-2,2-week count of sequences,total,47070,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W43,SARS-CoV-2,2-week count of sequences,total,54751,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W42,SARS-CoV-2,2-week count of sequences,total,59685,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W41,SARS-CoV-2,2-week count of sequences,total,59599,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W40,SARS-CoV-2,2-week count of sequences,total,57079,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W39,SARS-CoV-2,2-week count of sequences,total,56491,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W38,SARS-CoV-2,2-week count of sequences,total,56089,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W37,SARS-CoV-2,2-week count of sequences,total,54502,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W36,SARS-CoV-2,2-week count of sequences,total,52821,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W35,SARS-CoV-2,2-week count of sequences,total,49224,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W34,SARS-CoV-2,2-week count of sequences,total,49493,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W33,SARS-CoV-2,2-week count of sequences,total,53503,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W32,SARS-CoV-2,2-week count of sequences,total,59147,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W31,SARS-CoV-2,2-week count of sequences,total,65246,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W30,SARS-CoV-2,2-week count of sequences,total,69828,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W29,SARS-CoV-2,2-week count of sequences,total,75118,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W28,SARS-CoV-2,2-week count of sequences,total,76535,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W27,SARS-CoV-2,2-week count of sequences,total,85262,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W26,SARS-CoV-2,2-week count of sequences,total,95315,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W25,SARS-CoV-2,2-week count of sequences,total,88749,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W24,SARS-CoV-2,2-week count of sequences,total,73677,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W23,SARS-CoV-2,2-week count of sequences,total,63518,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W22,SARS-CoV-2,2-week count of sequences,total,57369,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W21,SARS-CoV-2,2-week count of sequences,total,57843,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W20,SARS-CoV-2,2-week count of sequences,total,66650,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W19,SARS-CoV-2,2-week count of sequences,total,74344,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W18,SARS-CoV-2,2-week count of sequences,total,82543,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W17,SARS-CoV-2,2-week count of sequences,total,91985,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W16,SARS-CoV-2,2-week count of sequences,total,101250,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W15,SARS-CoV-2,2-week count of sequences,total,111200,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W14,SARS-CoV-2,2-week count of sequences,total,118379,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W13,SARS-CoV-2,2-week count of sequences,total,126413,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W12,SARS-CoV-2,2-week count of sequences,total,137263,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W11,SARS-CoV-2,2-week count of sequences,total,140962,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W10,SARS-CoV-2,2-week count of sequences,total,137700,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W09,SARS-CoV-2,2-week count of sequences,total,138737,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W08,SARS-CoV-2,2-week count of sequences,total,144638,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W07,SARS-CoV-2,2-week count of sequences,total,147789,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W06,SARS-CoV-2,2-week count of sequences,total,151099,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W05,SARS-CoV-2,2-week count of sequences,total,153182,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W04,SARS-CoV-2,2-week count of sequences,total,156432,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W03,SARS-CoV-2,2-week count of sequences,total,157901,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W02,SARS-CoV-2,2-week count of sequences,total,148230,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2022-W01,SARS-CoV-2,2-week count of sequences,total,140465,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W52,SARS-CoV-2,2-week count of sequences,total,123548,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W51,SARS-CoV-2,2-week count of sequences,total,116931,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W50,SARS-CoV-2,2-week count of sequences,total,129591,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W49,SARS-CoV-2,2-week count of sequences,total,133947,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W48,SARS-CoV-2,2-week count of sequences,total,119951,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W47,SARS-CoV-2,2-week count of sequences,total,106373,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W46,SARS-CoV-2,2-week count of sequences,total,103027,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W45,SARS-CoV-2,2-week count of sequences,total,96307,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W44,SARS-CoV-2,2-week count of sequences,total,94613,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W43,SARS-CoV-2,2-week count of sequences,total,88711,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W42,SARS-CoV-2,2-week count of sequences,total,75287,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W41,SARS-CoV-2,2-week count of sequences,total,62804,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W40,SARS-CoV-2,2-week count of sequences,total,58060,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W39,SARS-CoV-2,2-week count of sequences,total,57484,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W38,SARS-CoV-2,2-week count of sequences,total,59233,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W37,SARS-CoV-2,2-week count of sequences,total,65930,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W36,SARS-CoV-2,2-week count of sequences,total,72784,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W35,SARS-CoV-2,2-week count of sequences,total,78513,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W34,SARS-CoV-2,2-week count of sequences,total,81081,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W33,SARS-CoV-2,2-week count of sequences,total,79350,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W32,SARS-CoV-2,2-week count of sequences,total,75021,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W31,SARS-CoV-2,2-week count of sequences,total,75508,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W30,SARS-CoV-2,2-week count of sequences,total,82681,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W29,SARS-CoV-2,2-week count of sequences,total,80680,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W28,SARS-CoV-2,2-week count of sequences,total,62717,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W27,SARS-CoV-2,2-week count of sequences,total,42483,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W26,SARS-CoV-2,2-week count of sequences,total,31265,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W25,SARS-CoV-2,2-week count of sequences,total,28014,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W24,SARS-CoV-2,2-week count of sequences,total,34667,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W23,SARS-CoV-2,2-week count of sequences,total,42280,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W22,SARS-CoV-2,2-week count of sequences,total,47317,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W21,SARS-CoV-2,2-week count of sequences,total,55734,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W20,SARS-CoV-2,2-week count of sequences,total,59447,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W19,SARS-CoV-2,2-week count of sequences,total,63155,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W18,SARS-CoV-2,2-week count of sequences,total,67559,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W17,SARS-CoV-2,2-week count of sequences,total,70076,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W16,SARS-CoV-2,2-week count of sequences,total,74775,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W15,SARS-CoV-2,2-week count of sequences,total,69399,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W14,SARS-CoV-2,2-week count of sequences,total,62966,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W13,SARS-CoV-2,2-week count of sequences,total,67029,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W12,SARS-CoV-2,2-week count of sequences,total,71504,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W11,SARS-CoV-2,2-week count of sequences,total,69935,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W10,SARS-CoV-2,2-week count of sequences,total,63853,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W09,SARS-CoV-2,2-week count of sequences,total,55552,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W08,SARS-CoV-2,2-week count of sequences,total,48262,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W07,SARS-CoV-2,2-week count of sequences,total,43374,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W06,SARS-CoV-2,2-week count of sequences,total,40344,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W05,SARS-CoV-2,2-week count of sequences,total,37729,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W04,SARS-CoV-2,2-week count of sequences,total,29728,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W03,SARS-CoV-2,2-week count of sequences,total,21032,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W02,SARS-CoV-2,2-week count of sequences,total,15617,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2021-W01,SARS-CoV-2,2-week count of sequences,total,11264,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W53,SARS-CoV-2,2-week count of sequences,total,8651,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W52,SARS-CoV-2,2-week count of sequences,total,7746,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W51,SARS-CoV-2,2-week count of sequences,total,7337,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W50,SARS-CoV-2,2-week count of sequences,total,7032,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W49,SARS-CoV-2,2-week count of sequences,total,6126,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W48,SARS-CoV-2,2-week count of sequences,total,5311,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W47,SARS-CoV-2,2-week count of sequences,total,5500,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W46,SARS-CoV-2,2-week count of sequences,total,5767,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W45,SARS-CoV-2,2-week count of sequences,total,6401,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W44,SARS-CoV-2,2-week count of sequences,total,6331,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W43,SARS-CoV-2,2-week count of sequences,total,5663,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W42,SARS-CoV-2,2-week count of sequences,total,5127,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W41,SARS-CoV-2,2-week count of sequences,total,4139,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W40,SARS-CoV-2,2-week count of sequences,total,3261,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W39,SARS-CoV-2,2-week count of sequences,total,3113,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W38,SARS-CoV-2,2-week count of sequences,total,2870,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W37,SARS-CoV-2,2-week count of sequences,total,2448,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W36,SARS-CoV-2,2-week count of sequences,total,1950,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W35,SARS-CoV-2,2-week count of sequences,total,1859,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W34,SARS-CoV-2,2-week count of sequences,total,2146,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W33,SARS-CoV-2,2-week count of sequences,total,1906,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W32,SARS-CoV-2,2-week count of sequences,total,1484,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W31,SARS-CoV-2,2-week count of sequences,total,1096,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W30,SARS-CoV-2,2-week count of sequences,total,778,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W29,SARS-CoV-2,2-week count of sequences,total,801,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W28,SARS-CoV-2,2-week count of sequences,total,819,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W27,SARS-CoV-2,2-week count of sequences,total,1012,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W26,SARS-CoV-2,2-week count of sequences,total,2413,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W25,SARS-CoV-2,2-week count of sequences,total,2045,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W24,SARS-CoV-2,2-week count of sequences,total,600,>1% to 2.5%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W23,SARS-CoV-2,2-week count of sequences,total,707,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W22,SARS-CoV-2,2-week count of sequences,total,944,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W21,SARS-CoV-2,2-week count of sequences,total,1052,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W20,SARS-CoV-2,2-week count of sequences,total,1077,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W19,SARS-CoV-2,2-week count of sequences,total,1386,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W18,SARS-CoV-2,2-week count of sequences,total,1936,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W17,SARS-CoV-2,2-week count of sequences,total,2838,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W16,SARS-CoV-2,2-week count of sequences,total,4847,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W15,SARS-CoV-2,2-week count of sequences,total,7013,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W14,SARS-CoV-2,2-week count of sequences,total,10497,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W13,SARS-CoV-2,2-week count of sequences,total,10860,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W12,SARS-CoV-2,2-week count of sequences,total,6791,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W11,SARS-CoV-2,2-week count of sequences,total,4186,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W10,SARS-CoV-2,2-week count of sequences,total,1833,≤1%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W09,SARS-CoV-2,2-week count of sequences,total,212,>2.5% to 5%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W08,SARS-CoV-2,2-week count of sequences,total,21,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W07,SARS-CoV-2,2-week count of sequences,total,26,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W06,SARS-CoV-2,2-week count of sequences,total,35,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W05,SARS-CoV-2,2-week count of sequences,total,27,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W04,SARS-CoV-2,2-week count of sequences,total,6,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W03,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,NA,EU/EEA,2020-W02,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,GISAID,Finland,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Finland,2024-W23,SARS-CoV-2,2-week count of sequences,total,7,>15%
 SARS-CoV-2 variant,GISAID,Finland,2024-W22,SARS-CoV-2,2-week count of sequences,total,28,>15%
 SARS-CoV-2 variant,GISAID,Finland,2024-W21,SARS-CoV-2,2-week count of sequences,total,48,>10% to 15%
@@ -2309,13 +2319,14 @@ SARS-CoV-2 variant,GISAID,Finland,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Finland,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Finland,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Finland,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,France,2024-W23,SARS-CoV-2,2-week count of sequences,total,58,>5% to 10%
-SARS-CoV-2 variant,GISAID,France,2024-W22,SARS-CoV-2,2-week count of sequences,total,183,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,France,2024-W21,SARS-CoV-2,2-week count of sequences,total,270,>1% to 2.5%
-SARS-CoV-2 variant,GISAID,France,2024-W20,SARS-CoV-2,2-week count of sequences,total,246,>1% to 2.5%
-SARS-CoV-2 variant,GISAID,France,2024-W19,SARS-CoV-2,2-week count of sequences,total,206,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,France,2024-W18,SARS-CoV-2,2-week count of sequences,total,199,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,France,2024-W17,SARS-CoV-2,2-week count of sequences,total,163,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,France,2024-W24,SARS-CoV-2,2-week count of sequences,total,83,>5% to 10%
+SARS-CoV-2 variant,GISAID,France,2024-W23,SARS-CoV-2,2-week count of sequences,total,219,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,France,2024-W22,SARS-CoV-2,2-week count of sequences,total,288,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,France,2024-W21,SARS-CoV-2,2-week count of sequences,total,289,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,France,2024-W20,SARS-CoV-2,2-week count of sequences,total,250,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,France,2024-W19,SARS-CoV-2,2-week count of sequences,total,207,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,France,2024-W18,SARS-CoV-2,2-week count of sequences,total,200,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,France,2024-W17,SARS-CoV-2,2-week count of sequences,total,164,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,France,2024-W16,SARS-CoV-2,2-week count of sequences,total,145,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,France,2024-W15,SARS-CoV-2,2-week count of sequences,total,169,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,France,2024-W14,SARS-CoV-2,2-week count of sequences,total,163,>2.5% to 5%
@@ -2341,8 +2352,8 @@ SARS-CoV-2 variant,GISAID,France,2023-W47,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,France,2023-W46,SARS-CoV-2,2-week count of sequences,total,2107,≤1%
 SARS-CoV-2 variant,GISAID,France,2023-W45,SARS-CoV-2,2-week count of sequences,total,1869,≤1%
 SARS-CoV-2 variant,GISAID,France,2023-W44,SARS-CoV-2,2-week count of sequences,total,2009,≤1%
-SARS-CoV-2 variant,GISAID,France,2023-W43,SARS-CoV-2,2-week count of sequences,total,2110,≤1%
-SARS-CoV-2 variant,GISAID,France,2023-W42,SARS-CoV-2,2-week count of sequences,total,2476,≤1%
+SARS-CoV-2 variant,GISAID,France,2023-W43,SARS-CoV-2,2-week count of sequences,total,2111,≤1%
+SARS-CoV-2 variant,GISAID,France,2023-W42,SARS-CoV-2,2-week count of sequences,total,2477,≤1%
 SARS-CoV-2 variant,GISAID,France,2023-W41,SARS-CoV-2,2-week count of sequences,total,2946,≤1%
 SARS-CoV-2 variant,GISAID,France,2023-W40,SARS-CoV-2,2-week count of sequences,total,3037,≤1%
 SARS-CoV-2 variant,GISAID,France,2023-W39,SARS-CoV-2,2-week count of sequences,total,3156,≤1%
@@ -2540,8 +2551,9 @@ SARS-CoV-2 variant,GISAID,France,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,France,2020-W04,SARS-CoV-2,2-week count of sequences,total,6,>15%
 SARS-CoV-2 variant,GISAID,France,2020-W03,SARS-CoV-2,2-week count of sequences,total,5,>15%
 SARS-CoV-2 variant,GISAID,France,2020-W02,SARS-CoV-2,2-week count of sequences,total,5,>15%
-SARS-CoV-2 variant,GISAID,Germany,2024-W23,SARS-CoV-2,2-week count of sequences,total,28,>15%
-SARS-CoV-2 variant,GISAID,Germany,2024-W22,SARS-CoV-2,2-week count of sequences,total,48,>10% to 15%
+SARS-CoV-2 variant,GISAID,Germany,2024-W24,SARS-CoV-2,2-week count of sequences,total,11,>15%
+SARS-CoV-2 variant,GISAID,Germany,2024-W23,SARS-CoV-2,2-week count of sequences,total,31,>15%
+SARS-CoV-2 variant,GISAID,Germany,2024-W22,SARS-CoV-2,2-week count of sequences,total,49,>10% to 15%
 SARS-CoV-2 variant,GISAID,Germany,2024-W21,SARS-CoV-2,2-week count of sequences,total,56,>10% to 15%
 SARS-CoV-2 variant,GISAID,Germany,2024-W20,SARS-CoV-2,2-week count of sequences,total,65,>5% to 10%
 SARS-CoV-2 variant,GISAID,Germany,2024-W19,SARS-CoV-2,2-week count of sequences,total,105,>5% to 10%
@@ -2771,9 +2783,10 @@ SARS-CoV-2 variant,GISAID,Germany,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Germany,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Germany,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Germany,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Greece,2024-W23,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Greece,2024-W22,SARS-CoV-2,2-week count of sequences,total,28,>15%
-SARS-CoV-2 variant,TESSy,Greece,2024-W21,SARS-CoV-2,2-week count of sequences,total,51,>10% to 15%
+SARS-CoV-2 variant,TESSy,Greece,2024-W24,SARS-CoV-2,2-week count of sequences,total,24,>15%
+SARS-CoV-2 variant,TESSy,Greece,2024-W23,SARS-CoV-2,2-week count of sequences,total,56,>10% to 15%
+SARS-CoV-2 variant,TESSy,Greece,2024-W22,SARS-CoV-2,2-week count of sequences,total,63,>5% to 10%
+SARS-CoV-2 variant,TESSy,Greece,2024-W21,SARS-CoV-2,2-week count of sequences,total,55,>10% to 15%
 SARS-CoV-2 variant,TESSy,Greece,2024-W20,SARS-CoV-2,2-week count of sequences,total,39,>10% to 15%
 SARS-CoV-2 variant,TESSy,Greece,2024-W19,SARS-CoV-2,2-week count of sequences,total,22,>15%
 SARS-CoV-2 variant,TESSy,Greece,2024-W18,SARS-CoV-2,2-week count of sequences,total,18,>15%
@@ -3002,6 +3015,7 @@ SARS-CoV-2 variant,TESSy,Greece,2020-W05,SARS-CoV-2,2-week count of sequences,to
 SARS-CoV-2 variant,TESSy,Greece,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Greece,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Greece,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Hungary,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Hungary,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Hungary,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Hungary,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -3233,10 +3247,11 @@ SARS-CoV-2 variant,GISAID,Hungary,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Hungary,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Hungary,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Hungary,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Iceland,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Iceland,2024-W22,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,GISAID,Iceland,2024-W21,SARS-CoV-2,2-week count of sequences,total,18,>15%
-SARS-CoV-2 variant,GISAID,Iceland,2024-W20,SARS-CoV-2,2-week count of sequences,total,22,>15%
+SARS-CoV-2 variant,GISAID,Iceland,2024-W24,SARS-CoV-2,2-week count of sequences,total,52,>10% to 15%
+SARS-CoV-2 variant,GISAID,Iceland,2024-W23,SARS-CoV-2,2-week count of sequences,total,28,>15%
+SARS-CoV-2 variant,GISAID,Iceland,2024-W22,SARS-CoV-2,2-week count of sequences,total,24,>15%
+SARS-CoV-2 variant,GISAID,Iceland,2024-W21,SARS-CoV-2,2-week count of sequences,total,29,>15%
+SARS-CoV-2 variant,GISAID,Iceland,2024-W20,SARS-CoV-2,2-week count of sequences,total,23,>15%
 SARS-CoV-2 variant,GISAID,Iceland,2024-W19,SARS-CoV-2,2-week count of sequences,total,11,>15%
 SARS-CoV-2 variant,GISAID,Iceland,2024-W18,SARS-CoV-2,2-week count of sequences,total,8,>15%
 SARS-CoV-2 variant,GISAID,Iceland,2024-W17,SARS-CoV-2,2-week count of sequences,total,10,>15%
@@ -3464,12 +3479,13 @@ SARS-CoV-2 variant,GISAID,Iceland,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Iceland,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Iceland,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Iceland,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Ireland,2024-W23,SARS-CoV-2,2-week count of sequences,total,115,>5% to 10%
-SARS-CoV-2 variant,GISAID,Ireland,2024-W22,SARS-CoV-2,2-week count of sequences,total,150,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Ireland,2024-W21,SARS-CoV-2,2-week count of sequences,total,154,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Ireland,2024-W20,SARS-CoV-2,2-week count of sequences,total,145,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Ireland,2024-W19,SARS-CoV-2,2-week count of sequences,total,174,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Ireland,2024-W18,SARS-CoV-2,2-week count of sequences,total,165,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W24,SARS-CoV-2,2-week count of sequences,total,135,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W23,SARS-CoV-2,2-week count of sequences,total,149,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W22,SARS-CoV-2,2-week count of sequences,total,160,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W21,SARS-CoV-2,2-week count of sequences,total,156,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W20,SARS-CoV-2,2-week count of sequences,total,153,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W19,SARS-CoV-2,2-week count of sequences,total,185,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Ireland,2024-W18,SARS-CoV-2,2-week count of sequences,total,170,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Ireland,2024-W17,SARS-CoV-2,2-week count of sequences,total,125,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Ireland,2024-W16,SARS-CoV-2,2-week count of sequences,total,94,>5% to 10%
 SARS-CoV-2 variant,GISAID,Ireland,2024-W15,SARS-CoV-2,2-week count of sequences,total,79,>5% to 10%
@@ -3695,6 +3711,7 @@ SARS-CoV-2 variant,GISAID,Ireland,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Ireland,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Ireland,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Ireland,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2024-W23,SARS-CoV-2,2-week count of sequences,total,24,>15%
 SARS-CoV-2 variant,TESSy,Italy,2024-W22,SARS-CoV-2,2-week count of sequences,total,51,>10% to 15%
 SARS-CoV-2 variant,TESSy,Italy,2024-W21,SARS-CoV-2,2-week count of sequences,total,69,>5% to 10%
@@ -3779,146 +3796,146 @@ SARS-CoV-2 variant,TESSy,Italy,2022-W47,SARS-CoV-2,2-week count of sequences,tot
 SARS-CoV-2 variant,TESSy,Italy,2022-W46,SARS-CoV-2,2-week count of sequences,total,2857,≤1%
 SARS-CoV-2 variant,TESSy,Italy,2022-W45,SARS-CoV-2,2-week count of sequences,total,2927,≤1%
 SARS-CoV-2 variant,TESSy,Italy,2022-W44,SARS-CoV-2,2-week count of sequences,total,1916,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W43,SARS-CoV-2,2-week count of sequences,total,932,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W42,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W41,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2022-W43,SARS-CoV-2,2-week count of sequences,total,2033,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W42,SARS-CoV-2,2-week count of sequences,total,1181,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W41,SARS-CoV-2,2-week count of sequences,total,80,>5% to 10%
 SARS-CoV-2 variant,TESSy,Italy,2022-W40,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2022-W39,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W38,SARS-CoV-2,2-week count of sequences,total,35,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W37,SARS-CoV-2,2-week count of sequences,total,39,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W36,SARS-CoV-2,2-week count of sequences,total,5,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W35,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W34,SARS-CoV-2,2-week count of sequences,total,336,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W33,SARS-CoV-2,2-week count of sequences,total,336,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W32,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W31,SARS-CoV-2,2-week count of sequences,total,32,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W30,SARS-CoV-2,2-week count of sequences,total,32,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W29,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W28,SARS-CoV-2,2-week count of sequences,total,262,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W27,SARS-CoV-2,2-week count of sequences,total,262,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W26,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W25,SARS-CoV-2,2-week count of sequences,total,737,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W24,SARS-CoV-2,2-week count of sequences,total,1910,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W23,SARS-CoV-2,2-week count of sequences,total,1178,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W22,SARS-CoV-2,2-week count of sequences,total,5,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W20,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W19,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2022-W18,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W17,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W16,SARS-CoV-2,2-week count of sequences,total,121,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W15,SARS-CoV-2,2-week count of sequences,total,121,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2022-W14,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2022-W38,SARS-CoV-2,2-week count of sequences,total,25,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W37,SARS-CoV-2,2-week count of sequences,total,24,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W36,SARS-CoV-2,2-week count of sequences,total,24,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W35,SARS-CoV-2,2-week count of sequences,total,24,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W34,SARS-CoV-2,2-week count of sequences,total,12,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W33,SARS-CoV-2,2-week count of sequences,total,12,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W32,SARS-CoV-2,2-week count of sequences,total,1971,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W31,SARS-CoV-2,2-week count of sequences,total,2530,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W30,SARS-CoV-2,2-week count of sequences,total,559,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W29,SARS-CoV-2,2-week count of sequences,total,7,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W28,SARS-CoV-2,2-week count of sequences,total,269,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W27,SARS-CoV-2,2-week count of sequences,total,1217,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W26,SARS-CoV-2,2-week count of sequences,total,1658,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W25,SARS-CoV-2,2-week count of sequences,total,835,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W24,SARS-CoV-2,2-week count of sequences,total,136,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W23,SARS-CoV-2,2-week count of sequences,total,212,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W22,SARS-CoV-2,2-week count of sequences,total,208,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W21,SARS-CoV-2,2-week count of sequences,total,16,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W20,SARS-CoV-2,2-week count of sequences,total,31,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W19,SARS-CoV-2,2-week count of sequences,total,15,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W18,SARS-CoV-2,2-week count of sequences,total,68,>5% to 10%
+SARS-CoV-2 variant,TESSy,Italy,2022-W17,SARS-CoV-2,2-week count of sequences,total,264,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W16,SARS-CoV-2,2-week count of sequences,total,196,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W15,SARS-CoV-2,2-week count of sequences,total,1622,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W14,SARS-CoV-2,2-week count of sequences,total,1622,≤1%
 SARS-CoV-2 variant,TESSy,Italy,2022-W13,SARS-CoV-2,2-week count of sequences,total,6,>15%
 SARS-CoV-2 variant,TESSy,Italy,2022-W12,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W11,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W10,SARS-CoV-2,2-week count of sequences,total,8,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W09,SARS-CoV-2,2-week count of sequences,total,1059,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W08,SARS-CoV-2,2-week count of sequences,total,1053,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W07,SARS-CoV-2,2-week count of sequences,total,42,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W06,SARS-CoV-2,2-week count of sequences,total,68,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2022-W05,SARS-CoV-2,2-week count of sequences,total,26,>15%
-SARS-CoV-2 variant,TESSy,Italy,2022-W04,SARS-CoV-2,2-week count of sequences,total,3218,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W03,SARS-CoV-2,2-week count of sequences,total,5368,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W02,SARS-CoV-2,2-week count of sequences,total,2494,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2022-W01,SARS-CoV-2,2-week count of sequences,total,349,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W52,SARS-CoV-2,2-week count of sequences,total,1885,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W51,SARS-CoV-2,2-week count of sequences,total,1881,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W50,SARS-CoV-2,2-week count of sequences,total,55,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W49,SARS-CoV-2,2-week count of sequences,total,54,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W48,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W47,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W46,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W45,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2022-W11,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2022-W10,SARS-CoV-2,2-week count of sequences,total,6,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W09,SARS-CoV-2,2-week count of sequences,total,11,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W08,SARS-CoV-2,2-week count of sequences,total,15,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W07,SARS-CoV-2,2-week count of sequences,total,35,>15%
+SARS-CoV-2 variant,TESSy,Italy,2022-W06,SARS-CoV-2,2-week count of sequences,total,258,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W05,SARS-CoV-2,2-week count of sequences,total,413,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W04,SARS-CoV-2,2-week count of sequences,total,180,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2022-W03,SARS-CoV-2,2-week count of sequences,total,2150,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W02,SARS-CoV-2,2-week count of sequences,total,2150,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2022-W01,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W52,SARS-CoV-2,2-week count of sequences,total,1567,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W51,SARS-CoV-2,2-week count of sequences,total,1564,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W50,SARS-CoV-2,2-week count of sequences,total,2555,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W49,SARS-CoV-2,2-week count of sequences,total,2554,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W48,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W47,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W46,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W45,SARS-CoV-2,2-week count of sequences,total,1,>15%
 SARS-CoV-2 variant,TESSy,Italy,2021-W44,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W43,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W42,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W41,SARS-CoV-2,2-week count of sequences,total,16,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W40,SARS-CoV-2,2-week count of sequences,total,16,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W39,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W38,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W37,SARS-CoV-2,2-week count of sequences,total,38,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W36,SARS-CoV-2,2-week count of sequences,total,39,>10% to 15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W43,SARS-CoV-2,2-week count of sequences,total,17,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W42,SARS-CoV-2,2-week count of sequences,total,1195,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W41,SARS-CoV-2,2-week count of sequences,total,1178,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W40,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W39,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W38,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W37,SARS-CoV-2,2-week count of sequences,total,2,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W36,SARS-CoV-2,2-week count of sequences,total,2,>15%
 SARS-CoV-2 variant,TESSy,Italy,2021-W35,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W34,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W33,SARS-CoV-2,2-week count of sequences,total,17,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W32,SARS-CoV-2,2-week count of sequences,total,26,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W31,SARS-CoV-2,2-week count of sequences,total,2720,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W30,SARS-CoV-2,2-week count of sequences,total,2748,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W29,SARS-CoV-2,2-week count of sequences,total,37,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W28,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W27,SARS-CoV-2,2-week count of sequences,total,389,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W26,SARS-CoV-2,2-week count of sequences,total,500,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W25,SARS-CoV-2,2-week count of sequences,total,420,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W24,SARS-CoV-2,2-week count of sequences,total,309,>1% to 2.5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W22,SARS-CoV-2,2-week count of sequences,total,52,>10% to 15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W21,SARS-CoV-2,2-week count of sequences,total,123,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W20,SARS-CoV-2,2-week count of sequences,total,71,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2021-W19,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W18,SARS-CoV-2,2-week count of sequences,total,21,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W17,SARS-CoV-2,2-week count of sequences,total,60,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2021-W16,SARS-CoV-2,2-week count of sequences,total,52,>10% to 15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W34,SARS-CoV-2,2-week count of sequences,total,232,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W33,SARS-CoV-2,2-week count of sequences,total,231,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W32,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W31,SARS-CoV-2,2-week count of sequences,total,2946,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W30,SARS-CoV-2,2-week count of sequences,total,2945,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W29,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W28,SARS-CoV-2,2-week count of sequences,total,341,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W27,SARS-CoV-2,2-week count of sequences,total,341,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W26,SARS-CoV-2,2-week count of sequences,total,715,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W25,SARS-CoV-2,2-week count of sequences,total,790,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W24,SARS-CoV-2,2-week count of sequences,total,323,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W23,SARS-CoV-2,2-week count of sequences,total,248,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2021-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W20,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W19,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W18,SARS-CoV-2,2-week count of sequences,total,6,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W17,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W16,SARS-CoV-2,2-week count of sequences,total,15,>15%
 SARS-CoV-2 variant,TESSy,Italy,2021-W15,SARS-CoV-2,2-week count of sequences,total,13,>15%
 SARS-CoV-2 variant,TESSy,Italy,2021-W14,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2021-W13,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W12,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W11,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W10,SARS-CoV-2,2-week count of sequences,total,20,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W09,SARS-CoV-2,2-week count of sequences,total,20,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W08,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W07,SARS-CoV-2,2-week count of sequences,total,240,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2021-W06,SARS-CoV-2,2-week count of sequences,total,1084,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W05,SARS-CoV-2,2-week count of sequences,total,848,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2021-W04,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2021-W02,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,TESSy,Italy,2021-W01,SARS-CoV-2,2-week count of sequences,total,6,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W53,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W52,SARS-CoV-2,2-week count of sequences,total,3,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W12,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W11,SARS-CoV-2,2-week count of sequences,total,921,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W10,SARS-CoV-2,2-week count of sequences,total,920,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2021-W09,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W08,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W07,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W06,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W05,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W04,SARS-CoV-2,2-week count of sequences,total,19,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W03,SARS-CoV-2,2-week count of sequences,total,19,>15%
+SARS-CoV-2 variant,TESSy,Italy,2021-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2021-W01,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W53,SARS-CoV-2,2-week count of sequences,total,40,>10% to 15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W52,SARS-CoV-2,2-week count of sequences,total,40,>10% to 15%
 SARS-CoV-2 variant,TESSy,Italy,2020-W51,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W50,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W49,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W48,SARS-CoV-2,2-week count of sequences,total,711,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2020-W47,SARS-CoV-2,2-week count of sequences,total,1346,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2020-W46,SARS-CoV-2,2-week count of sequences,total,635,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2020-W45,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W44,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W43,SARS-CoV-2,2-week count of sequences,total,8,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W42,SARS-CoV-2,2-week count of sequences,total,12,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W41,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W50,SARS-CoV-2,2-week count of sequences,total,11,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W49,SARS-CoV-2,2-week count of sequences,total,18,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W48,SARS-CoV-2,2-week count of sequences,total,718,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2020-W47,SARS-CoV-2,2-week count of sequences,total,711,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2020-W46,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W45,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W44,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W43,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W42,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W41,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W40,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W39,SARS-CoV-2,2-week count of sequences,total,225,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2020-W38,SARS-CoV-2,2-week count of sequences,total,225,>2.5% to 5%
-SARS-CoV-2 variant,TESSy,Italy,2020-W37,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W39,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W38,SARS-CoV-2,2-week count of sequences,total,2,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W37,SARS-CoV-2,2-week count of sequences,total,2,>15%
 SARS-CoV-2 variant,TESSy,Italy,2020-W36,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W35,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W34,SARS-CoV-2,2-week count of sequences,total,78,>5% to 10%
+SARS-CoV-2 variant,TESSy,Italy,2020-W35,SARS-CoV-2,2-week count of sequences,total,240,>2.5% to 5%
+SARS-CoV-2 variant,TESSy,Italy,2020-W34,SARS-CoV-2,2-week count of sequences,total,317,>1% to 2.5%
 SARS-CoV-2 variant,TESSy,Italy,2020-W33,SARS-CoV-2,2-week count of sequences,total,80,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2020-W32,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W31,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W30,SARS-CoV-2,2-week count of sequences,total,5,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W29,SARS-CoV-2,2-week count of sequences,total,21,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W28,SARS-CoV-2,2-week count of sequences,total,17,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W27,SARS-CoV-2,2-week count of sequences,total,31,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W26,SARS-CoV-2,2-week count of sequences,total,30,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W32,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W31,SARS-CoV-2,2-week count of sequences,total,5,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W30,SARS-CoV-2,2-week count of sequences,total,3,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W29,SARS-CoV-2,2-week count of sequences,total,16,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W28,SARS-CoV-2,2-week count of sequences,total,16,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W27,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W26,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W25,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W24,SARS-CoV-2,2-week count of sequences,total,2,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W23,SARS-CoV-2,2-week count of sequences,total,13,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W23,SARS-CoV-2,2-week count of sequences,total,11,>15%
 SARS-CoV-2 variant,TESSy,Italy,2020-W22,SARS-CoV-2,2-week count of sequences,total,29,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W21,SARS-CoV-2,2-week count of sequences,total,18,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W20,SARS-CoV-2,2-week count of sequences,total,79,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2020-W19,SARS-CoV-2,2-week count of sequences,total,79,>5% to 10%
-SARS-CoV-2 variant,TESSy,Italy,2020-W18,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W17,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W16,SARS-CoV-2,2-week count of sequences,total,26,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W15,SARS-CoV-2,2-week count of sequences,total,29,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W14,SARS-CoV-2,2-week count of sequences,total,3,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W13,SARS-CoV-2,2-week count of sequences,total,716,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2020-W12,SARS-CoV-2,2-week count of sequences,total,717,≤1%
-SARS-CoV-2 variant,TESSy,Italy,2020-W11,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,TESSy,Italy,2020-W10,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,TESSy,Italy,2020-W09,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Italy,2020-W21,SARS-CoV-2,2-week count of sequences,total,54,>10% to 15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W20,SARS-CoV-2,2-week count of sequences,total,38,>10% to 15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W19,SARS-CoV-2,2-week count of sequences,total,3,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W18,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W17,SARS-CoV-2,2-week count of sequences,total,1,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W16,SARS-CoV-2,2-week count of sequences,total,430,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2020-W15,SARS-CoV-2,2-week count of sequences,total,429,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2020-W14,SARS-CoV-2,2-week count of sequences,total,704,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2020-W13,SARS-CoV-2,2-week count of sequences,total,705,≤1%
+SARS-CoV-2 variant,TESSy,Italy,2020-W12,SARS-CoV-2,2-week count of sequences,total,3,>15%
+SARS-CoV-2 variant,TESSy,Italy,2020-W11,SARS-CoV-2,2-week count of sequences,total,383,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2020-W10,SARS-CoV-2,2-week count of sequences,total,401,>1% to 2.5%
+SARS-CoV-2 variant,TESSy,Italy,2020-W09,SARS-CoV-2,2-week count of sequences,total,20,>15%
 SARS-CoV-2 variant,TESSy,Italy,2020-W08,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W07,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W06,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -3926,6 +3943,7 @@ SARS-CoV-2 variant,TESSy,Italy,2020-W05,SARS-CoV-2,2-week count of sequences,tot
 SARS-CoV-2 variant,TESSy,Italy,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Italy,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Latvia,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Latvia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Latvia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Latvia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -4157,6 +4175,7 @@ SARS-CoV-2 variant,TESSy,Latvia,2020-W05,SARS-CoV-2,2-week count of sequences,to
 SARS-CoV-2 variant,TESSy,Latvia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Latvia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Latvia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Liechtenstein,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Liechtenstein,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Liechtenstein,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Liechtenstein,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -4388,6 +4407,7 @@ SARS-CoV-2 variant,GISAID,Liechtenstein,2020-W05,SARS-CoV-2,2-week count of sequ
 SARS-CoV-2 variant,GISAID,Liechtenstein,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Liechtenstein,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Liechtenstein,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Lithuania,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Lithuania,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Lithuania,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Lithuania,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -4619,6 +4639,7 @@ SARS-CoV-2 variant,GISAID,Lithuania,2020-W05,SARS-CoV-2,2-week count of sequence
 SARS-CoV-2 variant,GISAID,Lithuania,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Lithuania,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Lithuania,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Luxembourg,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Luxembourg,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Luxembourg,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Luxembourg,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -4850,6 +4871,7 @@ SARS-CoV-2 variant,GISAID,Luxembourg,2020-W05,SARS-CoV-2,2-week count of sequenc
 SARS-CoV-2 variant,GISAID,Luxembourg,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Luxembourg,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Luxembourg,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,TESSy,Malta,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Malta,2024-W23,SARS-CoV-2,2-week count of sequences,total,2,>15%
 SARS-CoV-2 variant,TESSy,Malta,2024-W22,SARS-CoV-2,2-week count of sequences,total,5,>15%
 SARS-CoV-2 variant,TESSy,Malta,2024-W21,SARS-CoV-2,2-week count of sequences,total,4,>15%
@@ -5081,15 +5103,16 @@ SARS-CoV-2 variant,TESSy,Malta,2020-W05,SARS-CoV-2,2-week count of sequences,tot
 SARS-CoV-2 variant,TESSy,Malta,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Malta,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,TESSy,Malta,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W20,SARS-CoV-2,2-week count of sequences,total,1,>15%
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W19,SARS-CoV-2,2-week count of sequences,total,12,>15%
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W18,SARS-CoV-2,2-week count of sequences,total,18,>15%
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W17,SARS-CoV-2,2-week count of sequences,total,19,>15%
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W16,SARS-CoV-2,2-week count of sequences,total,23,>15%
-SARS-CoV-2 variant,GISAID,Netherlands,2024-W15,SARS-CoV-2,2-week count of sequences,total,41,>10% to 15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W24,SARS-CoV-2,2-week count of sequences,total,16,>15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W23,SARS-CoV-2,2-week count of sequences,total,64,>5% to 10%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W22,SARS-CoV-2,2-week count of sequences,total,75,>5% to 10%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W21,SARS-CoV-2,2-week count of sequences,total,48,>10% to 15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W20,SARS-CoV-2,2-week count of sequences,total,41,>10% to 15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W19,SARS-CoV-2,2-week count of sequences,total,45,>10% to 15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W18,SARS-CoV-2,2-week count of sequences,total,35,>15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W17,SARS-CoV-2,2-week count of sequences,total,27,>15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W16,SARS-CoV-2,2-week count of sequences,total,31,>15%
+SARS-CoV-2 variant,GISAID,Netherlands,2024-W15,SARS-CoV-2,2-week count of sequences,total,44,>10% to 15%
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W14,SARS-CoV-2,2-week count of sequences,total,60,>5% to 10%
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W13,SARS-CoV-2,2-week count of sequences,total,51,>10% to 15%
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W12,SARS-CoV-2,2-week count of sequences,total,53,>10% to 15%
@@ -5104,18 +5127,18 @@ SARS-CoV-2 variant,GISAID,Netherlands,2024-W04,SARS-CoV-2,2-week count of sequen
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W03,SARS-CoV-2,2-week count of sequences,total,325,>1% to 2.5%
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W02,SARS-CoV-2,2-week count of sequences,total,473,>1% to 2.5%
 SARS-CoV-2 variant,GISAID,Netherlands,2024-W01,SARS-CoV-2,2-week count of sequences,total,700,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W52,SARS-CoV-2,2-week count of sequences,total,914,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W51,SARS-CoV-2,2-week count of sequences,total,1208,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W50,SARS-CoV-2,2-week count of sequences,total,1426,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W49,SARS-CoV-2,2-week count of sequences,total,1265,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W52,SARS-CoV-2,2-week count of sequences,total,915,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W51,SARS-CoV-2,2-week count of sequences,total,1210,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W50,SARS-CoV-2,2-week count of sequences,total,1429,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W49,SARS-CoV-2,2-week count of sequences,total,1267,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W48,SARS-CoV-2,2-week count of sequences,total,1109,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W47,SARS-CoV-2,2-week count of sequences,total,1018,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W46,SARS-CoV-2,2-week count of sequences,total,924,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W45,SARS-CoV-2,2-week count of sequences,total,941,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W44,SARS-CoV-2,2-week count of sequences,total,954,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W43,SARS-CoV-2,2-week count of sequences,total,795,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W42,SARS-CoV-2,2-week count of sequences,total,645,≤1%
-SARS-CoV-2 variant,GISAID,Netherlands,2023-W41,SARS-CoV-2,2-week count of sequences,total,644,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W42,SARS-CoV-2,2-week count of sequences,total,646,≤1%
+SARS-CoV-2 variant,GISAID,Netherlands,2023-W41,SARS-CoV-2,2-week count of sequences,total,645,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W40,SARS-CoV-2,2-week count of sequences,total,637,≤1%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W39,SARS-CoV-2,2-week count of sequences,total,561,>1% to 2.5%
 SARS-CoV-2 variant,GISAID,Netherlands,2023-W38,SARS-CoV-2,2-week count of sequences,total,478,>1% to 2.5%
@@ -5312,6 +5335,7 @@ SARS-CoV-2 variant,GISAID,Netherlands,2020-W05,SARS-CoV-2,2-week count of sequen
 SARS-CoV-2 variant,GISAID,Netherlands,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Netherlands,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Netherlands,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Norway,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Norway,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Norway,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Norway,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -5543,6 +5567,7 @@ SARS-CoV-2 variant,GISAID,Norway,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,Norway,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Norway,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Norway,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Poland,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Poland,2024-W23,SARS-CoV-2,2-week count of sequences,total,7,>15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W22,SARS-CoV-2,2-week count of sequences,total,7,>15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -5556,9 +5581,9 @@ SARS-CoV-2 variant,GISAID,Poland,2024-W14,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,Poland,2024-W13,SARS-CoV-2,2-week count of sequences,total,5,>15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W12,SARS-CoV-2,2-week count of sequences,total,9,>15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W11,SARS-CoV-2,2-week count of sequences,total,11,>15%
-SARS-CoV-2 variant,GISAID,Poland,2024-W10,SARS-CoV-2,2-week count of sequences,total,40,>10% to 15%
-SARS-CoV-2 variant,GISAID,Poland,2024-W09,SARS-CoV-2,2-week count of sequences,total,56,>10% to 15%
-SARS-CoV-2 variant,GISAID,Poland,2024-W08,SARS-CoV-2,2-week count of sequences,total,37,>10% to 15%
+SARS-CoV-2 variant,GISAID,Poland,2024-W10,SARS-CoV-2,2-week count of sequences,total,41,>10% to 15%
+SARS-CoV-2 variant,GISAID,Poland,2024-W09,SARS-CoV-2,2-week count of sequences,total,58,>5% to 10%
+SARS-CoV-2 variant,GISAID,Poland,2024-W08,SARS-CoV-2,2-week count of sequences,total,38,>10% to 15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W07,SARS-CoV-2,2-week count of sequences,total,35,>15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W06,SARS-CoV-2,2-week count of sequences,total,48,>10% to 15%
 SARS-CoV-2 variant,GISAID,Poland,2024-W05,SARS-CoV-2,2-week count of sequences,total,79,>5% to 10%
@@ -5774,6 +5799,7 @@ SARS-CoV-2 variant,GISAID,Poland,2020-W05,SARS-CoV-2,2-week count of sequences,t
 SARS-CoV-2 variant,GISAID,Poland,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Poland,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Poland,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Portugal,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Portugal,2024-W23,SARS-CoV-2,2-week count of sequences,total,37,>10% to 15%
 SARS-CoV-2 variant,GISAID,Portugal,2024-W22,SARS-CoV-2,2-week count of sequences,total,151,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Portugal,2024-W21,SARS-CoV-2,2-week count of sequences,total,164,>2.5% to 5%
@@ -6005,6 +6031,7 @@ SARS-CoV-2 variant,GISAID,Portugal,2020-W05,SARS-CoV-2,2-week count of sequences
 SARS-CoV-2 variant,GISAID,Portugal,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Portugal,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Portugal,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Romania,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Romania,2024-W23,SARS-CoV-2,2-week count of sequences,total,2,>15%
 SARS-CoV-2 variant,GISAID,Romania,2024-W22,SARS-CoV-2,2-week count of sequences,total,3,>15%
 SARS-CoV-2 variant,GISAID,Romania,2024-W21,SARS-CoV-2,2-week count of sequences,total,2,>15%
@@ -6021,13 +6048,13 @@ SARS-CoV-2 variant,GISAID,Romania,2024-W11,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Romania,2024-W10,SARS-CoV-2,2-week count of sequences,total,6,>15%
 SARS-CoV-2 variant,GISAID,Romania,2024-W09,SARS-CoV-2,2-week count of sequences,total,8,>15%
 SARS-CoV-2 variant,GISAID,Romania,2024-W08,SARS-CoV-2,2-week count of sequences,total,12,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W07,SARS-CoV-2,2-week count of sequences,total,21,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W06,SARS-CoV-2,2-week count of sequences,total,27,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W07,SARS-CoV-2,2-week count of sequences,total,22,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W06,SARS-CoV-2,2-week count of sequences,total,28,>15%
 SARS-CoV-2 variant,GISAID,Romania,2024-W05,SARS-CoV-2,2-week count of sequences,total,23,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W04,SARS-CoV-2,2-week count of sequences,total,20,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W03,SARS-CoV-2,2-week count of sequences,total,27,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W02,SARS-CoV-2,2-week count of sequences,total,25,>15%
-SARS-CoV-2 variant,GISAID,Romania,2024-W01,SARS-CoV-2,2-week count of sequences,total,9,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W04,SARS-CoV-2,2-week count of sequences,total,21,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W03,SARS-CoV-2,2-week count of sequences,total,28,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W02,SARS-CoV-2,2-week count of sequences,total,26,>15%
+SARS-CoV-2 variant,GISAID,Romania,2024-W01,SARS-CoV-2,2-week count of sequences,total,10,>15%
 SARS-CoV-2 variant,GISAID,Romania,2023-W52,SARS-CoV-2,2-week count of sequences,total,3,>15%
 SARS-CoV-2 variant,GISAID,Romania,2023-W51,SARS-CoV-2,2-week count of sequences,total,6,>15%
 SARS-CoV-2 variant,GISAID,Romania,2023-W50,SARS-CoV-2,2-week count of sequences,total,10,>15%
@@ -6236,6 +6263,7 @@ SARS-CoV-2 variant,GISAID,Romania,2020-W05,SARS-CoV-2,2-week count of sequences,
 SARS-CoV-2 variant,GISAID,Romania,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Romania,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Romania,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Slovakia,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovakia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovakia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovakia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -6467,6 +6495,7 @@ SARS-CoV-2 variant,GISAID,Slovakia,2020-W05,SARS-CoV-2,2-week count of sequences
 SARS-CoV-2 variant,GISAID,Slovakia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovakia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovakia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
+SARS-CoV-2 variant,GISAID,Slovenia,2024-W24,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovenia,2024-W23,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovenia,2024-W22,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovenia,2024-W21,SARS-CoV-2,2-week count of sequences,total,0,No data
@@ -6698,17 +6727,18 @@ SARS-CoV-2 variant,GISAID,Slovenia,2020-W05,SARS-CoV-2,2-week count of sequences
 SARS-CoV-2 variant,GISAID,Slovenia,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovenia,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Slovenia,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Spain,2024-W23,SARS-CoV-2,2-week count of sequences,total,413,>1% to 2.5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W22,SARS-CoV-2,2-week count of sequences,total,852,≤1%
-SARS-CoV-2 variant,GISAID,Spain,2024-W21,SARS-CoV-2,2-week count of sequences,total,918,≤1%
-SARS-CoV-2 variant,GISAID,Spain,2024-W20,SARS-CoV-2,2-week count of sequences,total,734,≤1%
-SARS-CoV-2 variant,GISAID,Spain,2024-W19,SARS-CoV-2,2-week count of sequences,total,509,>1% to 2.5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W18,SARS-CoV-2,2-week count of sequences,total,307,>1% to 2.5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W17,SARS-CoV-2,2-week count of sequences,total,234,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W16,SARS-CoV-2,2-week count of sequences,total,200,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W15,SARS-CoV-2,2-week count of sequences,total,192,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W14,SARS-CoV-2,2-week count of sequences,total,156,>2.5% to 5%
-SARS-CoV-2 variant,GISAID,Spain,2024-W13,SARS-CoV-2,2-week count of sequences,total,157,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W24,SARS-CoV-2,2-week count of sequences,total,597,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W23,SARS-CoV-2,2-week count of sequences,total,931,≤1%
+SARS-CoV-2 variant,GISAID,Spain,2024-W22,SARS-CoV-2,2-week count of sequences,total,1015,≤1%
+SARS-CoV-2 variant,GISAID,Spain,2024-W21,SARS-CoV-2,2-week count of sequences,total,937,≤1%
+SARS-CoV-2 variant,GISAID,Spain,2024-W20,SARS-CoV-2,2-week count of sequences,total,755,≤1%
+SARS-CoV-2 variant,GISAID,Spain,2024-W19,SARS-CoV-2,2-week count of sequences,total,532,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W18,SARS-CoV-2,2-week count of sequences,total,326,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W17,SARS-CoV-2,2-week count of sequences,total,244,>1% to 2.5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W16,SARS-CoV-2,2-week count of sequences,total,206,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W15,SARS-CoV-2,2-week count of sequences,total,198,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W14,SARS-CoV-2,2-week count of sequences,total,161,>2.5% to 5%
+SARS-CoV-2 variant,GISAID,Spain,2024-W13,SARS-CoV-2,2-week count of sequences,total,158,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Spain,2024-W12,SARS-CoV-2,2-week count of sequences,total,219,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Spain,2024-W11,SARS-CoV-2,2-week count of sequences,total,239,>2.5% to 5%
 SARS-CoV-2 variant,GISAID,Spain,2024-W10,SARS-CoV-2,2-week count of sequences,total,236,>2.5% to 5%
@@ -6929,15 +6959,16 @@ SARS-CoV-2 variant,GISAID,Spain,2020-W05,SARS-CoV-2,2-week count of sequences,to
 SARS-CoV-2 variant,GISAID,Spain,2020-W04,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Spain,2020-W03,SARS-CoV-2,2-week count of sequences,total,0,No data
 SARS-CoV-2 variant,GISAID,Spain,2020-W02,SARS-CoV-2,2-week count of sequences,total,0,No data
-SARS-CoV-2 variant,GISAID,Sweden,2024-W23,SARS-CoV-2,2-week count of sequences,total,27,>15%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W22,SARS-CoV-2,2-week count of sequences,total,68,>5% to 10%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W21,SARS-CoV-2,2-week count of sequences,total,73,>5% to 10%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W20,SARS-CoV-2,2-week count of sequences,total,61,>5% to 10%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W19,SARS-CoV-2,2-week count of sequences,total,86,>5% to 10%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W18,SARS-CoV-2,2-week count of sequences,total,81,>5% to 10%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W17,SARS-CoV-2,2-week count of sequences,total,45,>10% to 15%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W16,SARS-CoV-2,2-week count of sequences,total,34,>15%
-SARS-CoV-2 variant,GISAID,Sweden,2024-W15,SARS-CoV-2,2-week count of sequences,total,31,>15%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W24,SARS-CoV-2,2-week count of sequences,total,4,>15%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W23,SARS-CoV-2,2-week count of sequences,total,50,>10% to 15%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W22,SARS-CoV-2,2-week count of sequences,total,101,>5% to 10%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W21,SARS-CoV-2,2-week count of sequences,total,101,>5% to 10%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W20,SARS-CoV-2,2-week count of sequences,total,95,>5% to 10%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W19,SARS-CoV-2,2-week count of sequences,total,111,>5% to 10%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W18,SARS-CoV-2,2-week count of sequences,total,90,>5% to 10%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W17,SARS-CoV-2,2-week count of sequences,total,51,>10% to 15%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W16,SARS-CoV-2,2-week count of sequences,total,38,>10% to 15%
+SARS-CoV-2 variant,GISAID,Sweden,2024-W15,SARS-CoV-2,2-week count of sequences,total,32,>15%
 SARS-CoV-2 variant,GISAID,Sweden,2024-W14,SARS-CoV-2,2-week count of sequences,total,46,>10% to 15%
 SARS-CoV-2 variant,GISAID,Sweden,2024-W13,SARS-CoV-2,2-week count of sequences,total,55,>10% to 15%
 SARS-CoV-2 variant,GISAID,Sweden,2024-W12,SARS-CoV-2,2-week count of sequences,total,53,>10% to 15%
