@@ -1,7 +1,7 @@
 # Respiratory viruses weekly data
 
 ## Important notice 
-The European Surveillance System (TESSy) is being decommissioned and replaced by EpiPulse Cases. ERVISS data cannot be updated during this transition, but publication will resume on 22 June 2026. Thank you for your patience and understanding.
+The European Surveillance System (TESSy) is being decommissioned and replaced by EpiPulse Cases. ERVISS data cannot be updated during this transition, but publication will resume on 26 June 2026. Thank you for your patience and understanding.
 
 ## General data considerations
 Please visit https://erviss.org/ for a detailed description of the underlying data (see 'Methods' in the footer). 
