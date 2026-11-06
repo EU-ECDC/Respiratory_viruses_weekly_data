@@ -2937,64 +2937,76 @@ non-sentinel,Austria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Austria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Austria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,876743
 non-sentinel,Austria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,876743
-non-sentinel,Belgium,2026-W43,Influenza,Influenza,total,detections,total,30
-non-sentinel,Belgium,2026-W43,Influenza,Influenza A,A (unknown),detections,total,19
-non-sentinel,Belgium,2026-W43,Influenza,Influenza B,B (unknown),detections,total,6
-non-sentinel,Belgium,2026-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,5
-non-sentinel,Belgium,2026-W43,RSV,RSV,RSV,detections,total,22
-non-sentinel,Belgium,2026-W43,RSV,RSV untyped,NA,detections,total,22
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,11
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,26
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,85
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,124
-non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
-non-sentinel,Belgium,2026-W42,Influenza,Influenza,total,detections,total,60
-non-sentinel,Belgium,2026-W42,Influenza,Influenza A,A (unknown),detections,total,45
+non-sentinel,Belgium,2026-W44,Influenza,Influenza,total,detections,total,43
+non-sentinel,Belgium,2026-W44,Influenza,Influenza A,A (unknown),detections,total,27
+non-sentinel,Belgium,2026-W44,Influenza,Influenza B,B (unknown),detections,total,6
+non-sentinel,Belgium,2026-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,10
+non-sentinel,Belgium,2026-W44,RSV,RSV,RSV,detections,total,28
+non-sentinel,Belgium,2026-W44,RSV,RSV untyped,NA,detections,total,28
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,43
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,90
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,142
+non-sentinel,Belgium,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Belgium,2026-W43,Influenza,Influenza,total,detections,total,89
+non-sentinel,Belgium,2026-W43,Influenza,Influenza A,A (unknown),detections,total,60
+non-sentinel,Belgium,2026-W43,Influenza,Influenza B,B (unknown),detections,total,7
+non-sentinel,Belgium,2026-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,22
+non-sentinel,Belgium,2026-W43,RSV,RSV,RSV,detections,total,49
+non-sentinel,Belgium,2026-W43,RSV,RSV untyped,NA,detections,total,49
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,51
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,176
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,255
+non-sentinel,Belgium,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,3
+non-sentinel,Belgium,2026-W42,Influenza,Influenza,total,detections,total,68
+non-sentinel,Belgium,2026-W42,Influenza,Influenza A,A (unknown),detections,total,52
 non-sentinel,Belgium,2026-W42,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Belgium,2026-W42,Influenza,Influenza untyped,Influenza untyped,detections,total,13
-non-sentinel,Belgium,2026-W42,RSV,RSV,RSV,detections,total,31
-non-sentinel,Belgium,2026-W42,RSV,RSV untyped,NA,detections,total,31
-non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,25
-non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,62
+non-sentinel,Belgium,2026-W42,Influenza,Influenza untyped,Influenza untyped,detections,total,14
+non-sentinel,Belgium,2026-W42,RSV,RSV,RSV,detections,total,39
+non-sentinel,Belgium,2026-W42,RSV,RSV untyped,NA,detections,total,39
+non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,28
+non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,66
 non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,115
-non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,204
-non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,2
-non-sentinel,Belgium,2026-W41,Influenza,Influenza,total,detections,total,44
-non-sentinel,Belgium,2026-W41,Influenza,Influenza A,A (unknown),detections,total,34
+non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,124
+non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,223
+non-sentinel,Belgium,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,5
+non-sentinel,Belgium,2026-W41,Influenza,Influenza,total,detections,total,46
+non-sentinel,Belgium,2026-W41,Influenza,Influenza A,A (unknown),detections,total,36
 non-sentinel,Belgium,2026-W41,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W41,Influenza,Influenza untyped,Influenza untyped,detections,total,9
 non-sentinel,Belgium,2026-W41,RSV,RSV,RSV,detections,total,25
 non-sentinel,Belgium,2026-W41,RSV,RSV untyped,NA,detections,total,25
-non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,18
-non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,48
+non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
+non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,49
 non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,122
-non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,192
-non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,3
-non-sentinel,Belgium,2026-W40,Influenza,Influenza,total,detections,total,48
-non-sentinel,Belgium,2026-W40,Influenza,Influenza A,A (unknown),detections,total,27
+non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,128
+non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,203
+non-sentinel,Belgium,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,6
+non-sentinel,Belgium,2026-W40,Influenza,Influenza,total,detections,total,49
+non-sentinel,Belgium,2026-W40,Influenza,Influenza A,A (unknown),detections,total,28
 non-sentinel,Belgium,2026-W40,Influenza,Influenza untyped,Influenza untyped,detections,total,21
 non-sentinel,Belgium,2026-W40,RSV,RSV,RSV,detections,total,15
 non-sentinel,Belgium,2026-W40,RSV,RSV untyped,NA,detections,total,15
 non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
-non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,50
+non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,51
 non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,118
-non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,194
-non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,2
+non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,120
+non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,198
+non-sentinel,Belgium,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,3
 non-sentinel,Belgium,2026-W39,Influenza,Influenza,total,detections,total,37
 non-sentinel,Belgium,2026-W39,Influenza,Influenza A,A (unknown),detections,total,29
 non-sentinel,Belgium,2026-W39,Influenza,Influenza untyped,Influenza untyped,detections,total,8
 non-sentinel,Belgium,2026-W39,RSV,RSV,RSV,detections,total,17
 non-sentinel,Belgium,2026-W39,RSV,RSV untyped,NA,detections,total,17
 non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,32
-non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,34
+non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,35
 non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,75
-non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,142
-non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,76
+non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,146
+non-sentinel,Belgium,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,2
 non-sentinel,Belgium,2026-W38,Influenza,Influenza,total,detections,total,38
 non-sentinel,Belgium,2026-W38,Influenza,Influenza A,A (unknown),detections,total,34
 non-sentinel,Belgium,2026-W38,Influenza,Influenza B,B (unknown),detections,total,1
@@ -3016,8 +3028,8 @@ non-sentinel,Belgium,2026-W37,RSV,RSV untyped,NA,detections,total,12
 non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,16
 non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,26
 non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,39
-non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,82
+non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,40
+non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,83
 non-sentinel,Belgium,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Belgium,2026-W36,Influenza,Influenza,total,detections,total,22
 non-sentinel,Belgium,2026-W36,Influenza,Influenza A,A (unknown),detections,total,13
@@ -3041,8 +3053,8 @@ non-sentinel,Belgium,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,21
 non-sentinel,Belgium,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,52
 non-sentinel,Belgium,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W34,Influenza,Influenza,total,detections,total,24
-non-sentinel,Belgium,2026-W34,Influenza,Influenza A,A (unknown),detections,total,19
+non-sentinel,Belgium,2026-W34,Influenza,Influenza,total,detections,total,25
+non-sentinel,Belgium,2026-W34,Influenza,Influenza A,A (unknown),detections,total,20
 non-sentinel,Belgium,2026-W34,Influenza,Influenza untyped,Influenza untyped,detections,total,5
 non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
 non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,5
@@ -3050,8 +3062,8 @@ non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,20
 non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,31
 non-sentinel,Belgium,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
-non-sentinel,Belgium,2026-W33,Influenza,Influenza,total,detections,total,17
-non-sentinel,Belgium,2026-W33,Influenza,Influenza A,A (unknown),detections,total,13
+non-sentinel,Belgium,2026-W33,Influenza,Influenza,total,detections,total,18
+non-sentinel,Belgium,2026-W33,Influenza,Influenza A,A (unknown),detections,total,14
 non-sentinel,Belgium,2026-W33,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W33,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 non-sentinel,Belgium,2026-W33,RSV,RSV,RSV,detections,total,1
@@ -3062,8 +3074,8 @@ non-sentinel,Belgium,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Belgium,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,16
 non-sentinel,Belgium,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,30
 non-sentinel,Belgium,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
-non-sentinel,Belgium,2026-W32,Influenza,Influenza,total,detections,total,19
-non-sentinel,Belgium,2026-W32,Influenza,Influenza A,A (unknown),detections,total,15
+non-sentinel,Belgium,2026-W32,Influenza,Influenza,total,detections,total,28
+non-sentinel,Belgium,2026-W32,Influenza,Influenza A,A (unknown),detections,total,24
 non-sentinel,Belgium,2026-W32,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W32,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 non-sentinel,Belgium,2026-W32,RSV,RSV,RSV,detections,total,7
@@ -3074,8 +3086,8 @@ non-sentinel,Belgium,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
 non-sentinel,Belgium,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,21
 non-sentinel,Belgium,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,2
-non-sentinel,Belgium,2026-W31,Influenza,Influenza,total,detections,total,20
-non-sentinel,Belgium,2026-W31,Influenza,Influenza A,A (unknown),detections,total,16
+non-sentinel,Belgium,2026-W31,Influenza,Influenza,total,detections,total,21
+non-sentinel,Belgium,2026-W31,Influenza,Influenza A,A (unknown),detections,total,17
 non-sentinel,Belgium,2026-W31,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W31,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 non-sentinel,Belgium,2026-W31,RSV,RSV,RSV,detections,total,7
@@ -3083,8 +3095,8 @@ non-sentinel,Belgium,2026-W31,RSV,RSV untyped,NA,detections,total,7
 non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,7
 non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,10
-non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,18
+non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,11
+non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,19
 non-sentinel,Belgium,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Belgium,2026-W30,Influenza,Influenza,total,detections,total,7
 non-sentinel,Belgium,2026-W30,Influenza,Influenza A,A (unknown),detections,total,6
@@ -3097,8 +3109,8 @@ non-sentinel,Belgium,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Belgium,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Belgium,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,6
 non-sentinel,Belgium,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W29,Influenza,Influenza,total,detections,total,12
-non-sentinel,Belgium,2026-W29,Influenza,Influenza A,A (unknown),detections,total,8
+non-sentinel,Belgium,2026-W29,Influenza,Influenza,total,detections,total,13
+non-sentinel,Belgium,2026-W29,Influenza,Influenza A,A (unknown),detections,total,9
 non-sentinel,Belgium,2026-W29,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W29,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 non-sentinel,Belgium,2026-W29,RSV,RSV,RSV,detections,total,7
@@ -3120,8 +3132,8 @@ non-sentinel,Belgium,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Belgium,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
 non-sentinel,Belgium,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,11
 non-sentinel,Belgium,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W27,Influenza,Influenza,total,detections,total,5
-non-sentinel,Belgium,2026-W27,Influenza,Influenza A,A (unknown),detections,total,3
+non-sentinel,Belgium,2026-W27,Influenza,Influenza,total,detections,total,8
+non-sentinel,Belgium,2026-W27,Influenza,Influenza A,A (unknown),detections,total,6
 non-sentinel,Belgium,2026-W27,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Belgium,2026-W27,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 non-sentinel,Belgium,2026-W27,RSV,RSV,RSV,detections,total,8
@@ -3143,8 +3155,8 @@ non-sentinel,Belgium,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,3
 non-sentinel,Belgium,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,10
 non-sentinel,Belgium,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W25,Influenza,Influenza,total,detections,total,14
-non-sentinel,Belgium,2026-W25,Influenza,Influenza A,A (unknown),detections,total,4
+non-sentinel,Belgium,2026-W25,Influenza,Influenza,total,detections,total,16
+non-sentinel,Belgium,2026-W25,Influenza,Influenza A,A (unknown),detections,total,6
 non-sentinel,Belgium,2026-W25,Influenza,Influenza B,B (unknown),detections,total,2
 non-sentinel,Belgium,2026-W25,Influenza,Influenza untyped,Influenza untyped,detections,total,8
 non-sentinel,Belgium,2026-W25,RSV,RSV,RSV,detections,total,9
@@ -3155,9 +3167,9 @@ non-sentinel,Belgium,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,12
 non-sentinel,Belgium,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
 non-sentinel,Belgium,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,6
-non-sentinel,Belgium,2026-W24,Influenza,Influenza,total,detections,total,41
-non-sentinel,Belgium,2026-W24,Influenza,Influenza A,A (unknown),detections,total,21
-non-sentinel,Belgium,2026-W24,Influenza,Influenza B,B (unknown),detections,total,10
+non-sentinel,Belgium,2026-W24,Influenza,Influenza,total,detections,total,53
+non-sentinel,Belgium,2026-W24,Influenza,Influenza A,A (unknown),detections,total,35
+non-sentinel,Belgium,2026-W24,Influenza,Influenza B,B (unknown),detections,total,8
 non-sentinel,Belgium,2026-W24,Influenza,Influenza untyped,Influenza untyped,detections,total,10
 non-sentinel,Belgium,2026-W24,RSV,RSV,RSV,detections,total,21
 non-sentinel,Belgium,2026-W24,RSV,RSV untyped,NA,detections,total,21
@@ -3167,8 +3179,8 @@ non-sentinel,Belgium,2026-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,4
 non-sentinel,Belgium,2026-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,28
 non-sentinel,Belgium,2026-W24,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,15
-non-sentinel,Belgium,2026-W23,Influenza,Influenza,total,detections,total,27
-non-sentinel,Belgium,2026-W23,Influenza,Influenza A,A (unknown),detections,total,12
+non-sentinel,Belgium,2026-W23,Influenza,Influenza,total,detections,total,28
+non-sentinel,Belgium,2026-W23,Influenza,Influenza A,A (unknown),detections,total,13
 non-sentinel,Belgium,2026-W23,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Belgium,2026-W23,Influenza,Influenza untyped,Influenza untyped,detections,total,11
 non-sentinel,Belgium,2026-W23,RSV,RSV,RSV,detections,total,23
@@ -3179,8 +3191,8 @@ non-sentinel,Belgium,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Belgium,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
 non-sentinel,Belgium,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
 non-sentinel,Belgium,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W22,Influenza,Influenza,total,detections,total,12
-non-sentinel,Belgium,2026-W22,Influenza,Influenza A,A (unknown),detections,total,4
+non-sentinel,Belgium,2026-W22,Influenza,Influenza,total,detections,total,13
+non-sentinel,Belgium,2026-W22,Influenza,Influenza A,A (unknown),detections,total,5
 non-sentinel,Belgium,2026-W22,Influenza,Influenza B,B (unknown),detections,total,5
 non-sentinel,Belgium,2026-W22,Influenza,Influenza untyped,Influenza untyped,detections,total,3
 non-sentinel,Belgium,2026-W22,RSV,RSV,RSV,detections,total,15
@@ -3189,10 +3201,10 @@ non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,8
 non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,6
 non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
 non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
-non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,22
-non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Belgium,2026-W21,Influenza,Influenza,total,detections,total,9
-non-sentinel,Belgium,2026-W21,Influenza,Influenza A,A (unknown),detections,total,7
+non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,23
+non-sentinel,Belgium,2026-W22,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
+non-sentinel,Belgium,2026-W21,Influenza,Influenza,total,detections,total,12
+non-sentinel,Belgium,2026-W21,Influenza,Influenza A,A (unknown),detections,total,10
 non-sentinel,Belgium,2026-W21,Influenza,Influenza untyped,Influenza untyped,detections,total,2
 non-sentinel,Belgium,2026-W21,RSV,RSV,RSV,detections,total,12
 non-sentinel,Belgium,2026-W21,RSV,RSV untyped,NA,detections,total,12
@@ -6231,6 +6243,11 @@ non-sentinel,Belgium,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,6041
 non-sentinel,Belgium,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,24384
 non-sentinel,Belgium,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,100290
 non-sentinel,Belgium,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,1830
+non-sentinel,Bulgaria,2026-W44,Influenza,Influenza,total,detections,total,1
+non-sentinel,Bulgaria,2026-W44,Influenza,Influenza,total,tests,total,38
+non-sentinel,Bulgaria,2026-W44,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Bulgaria,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Bulgaria,2026-W44,RSV,RSV,RSV,tests,total,38
 non-sentinel,Bulgaria,2026-W43,Influenza,Influenza,total,detections,total,3
 non-sentinel,Bulgaria,2026-W43,Influenza,Influenza,total,tests,total,32
 non-sentinel,Bulgaria,2026-W43,Influenza,Influenza A,A (unknown),detections,total,1
@@ -8400,6 +8417,59 @@ non-sentinel,Bulgaria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Bulgaria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Bulgaria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,21150
 non-sentinel,Bulgaria,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,21150
+non-sentinel,Croatia,2026-W44,Influenza,Influenza,total,detections,total,1
+non-sentinel,Croatia,2026-W44,Influenza,Influenza,total,tests,total,143
+non-sentinel,Croatia,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Croatia,2026-W44,RSV,RSV,RSV,detections,total,1
+non-sentinel,Croatia,2026-W44,RSV,RSV,RSV,tests,total,143
+non-sentinel,Croatia,2026-W44,RSV,RSV-A,NA,detections,total,1
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,86
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,28
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,24
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,5
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,143
+non-sentinel,Croatia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Croatia,2026-W43,Influenza,Influenza,total,detections,total,1
+non-sentinel,Croatia,2026-W43,Influenza,Influenza,total,tests,total,107
+non-sentinel,Croatia,2026-W43,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Croatia,2026-W43,RSV,RSV,RSV,detections,total,0
+non-sentinel,Croatia,2026-W43,RSV,RSV,RSV,tests,total,107
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,59
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,19
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,21
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,8
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,107
+non-sentinel,Croatia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Croatia,2026-W42,Influenza,Influenza,total,detections,total,1
+non-sentinel,Croatia,2026-W42,Influenza,Influenza,total,tests,total,126
+non-sentinel,Croatia,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Croatia,2026-W42,RSV,RSV,RSV,detections,total,1
+non-sentinel,Croatia,2026-W42,RSV,RSV,RSV,tests,total,126
+non-sentinel,Croatia,2026-W42,RSV,RSV untyped,NA,detections,total,1
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,81
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,23
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,18
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,4
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,126
+non-sentinel,Croatia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Croatia,2026-W41,Influenza,Influenza,total,detections,total,2
 non-sentinel,Croatia,2026-W41,Influenza,Influenza,total,tests,total,120
 non-sentinel,Croatia,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,2
@@ -12517,6 +12587,38 @@ non-sentinel,Croatia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,1344
 non-sentinel,Croatia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,5775
 non-sentinel,Croatia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,24637
 non-sentinel,Croatia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,102
+non-sentinel,Cyprus,2026-W44,Influenza,Influenza,total,detections,total,0
+non-sentinel,Cyprus,2026-W44,Influenza,Influenza,total,tests,total,0
+non-sentinel,Cyprus,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Cyprus,2026-W44,RSV,RSV,RSV,tests,total,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,16
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,16
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,199
+non-sentinel,Cyprus,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,199
+non-sentinel,Cyprus,2026-W43,Influenza,Influenza,total,detections,total,0
+non-sentinel,Cyprus,2026-W43,Influenza,Influenza,total,tests,total,0
+non-sentinel,Cyprus,2026-W43,RSV,RSV,RSV,detections,total,0
+non-sentinel,Cyprus,2026-W43,RSV,RSV,RSV,tests,total,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,21
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,21
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,250
+non-sentinel,Cyprus,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,250
 non-sentinel,Cyprus,2026-W42,Influenza,Influenza,total,detections,total,0
 non-sentinel,Cyprus,2026-W42,Influenza,Influenza,total,tests,total,0
 non-sentinel,Cyprus,2026-W42,RSV,RSV,RSV,detections,total,0
@@ -15785,17 +15887,28 @@ non-sentinel,Cyprus,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Cyprus,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Cyprus,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,80886
 non-sentinel,Cyprus,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,80886
+non-sentinel,Czechia,2026-W44,Influenza,Influenza,total,detections,total,11
+non-sentinel,Czechia,2026-W44,Influenza,Influenza,total,tests,total,509
+non-sentinel,Czechia,2026-W44,Influenza,Influenza A,A (unknown),detections,total,10
+non-sentinel,Czechia,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Czechia,2026-W44,RSV,RSV,RSV,detections,total,2
+non-sentinel,Czechia,2026-W44,RSV,RSV,RSV,tests,total,509
+non-sentinel,Czechia,2026-W44,RSV,RSV untyped,NA,detections,total,2
+non-sentinel,Czechia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,15
+non-sentinel,Czechia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,15
+non-sentinel,Czechia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,509
+non-sentinel,Czechia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,509
 non-sentinel,Czechia,2026-W43,Influenza,Influenza,total,detections,total,3
-non-sentinel,Czechia,2026-W43,Influenza,Influenza,total,tests,total,588
+non-sentinel,Czechia,2026-W43,Influenza,Influenza,total,tests,total,681
 non-sentinel,Czechia,2026-W43,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Czechia,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Czechia,2026-W43,RSV,RSV,RSV,detections,total,2
-non-sentinel,Czechia,2026-W43,RSV,RSV,RSV,tests,total,588
+non-sentinel,Czechia,2026-W43,RSV,RSV,RSV,tests,total,681
 non-sentinel,Czechia,2026-W43,RSV,RSV untyped,NA,detections,total,2
-non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,6
-non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,6
-non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,588
-non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,588
+non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,7
+non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,7
+non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,681
+non-sentinel,Czechia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,681
 non-sentinel,Czechia,2026-W42,Influenza,Influenza,total,detections,total,5
 non-sentinel,Czechia,2026-W42,Influenza,Influenza,total,tests,total,924
 non-sentinel,Czechia,2026-W42,Influenza,Influenza A,A (unknown),detections,total,2
@@ -19867,33 +19980,55 @@ non-sentinel,Czechia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,1144
 non-sentinel,Czechia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,4558
 non-sentinel,Czechia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,27217
 non-sentinel,Czechia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,4
-non-sentinel,Denmark,2026-W43,Influenza,Influenza,total,detections,total,93
-non-sentinel,Denmark,2026-W43,Influenza,Influenza,total,tests,total,2052
+non-sentinel,Denmark,2026-W44,Influenza,Influenza,total,detections,total,102
+non-sentinel,Denmark,2026-W44,Influenza,Influenza,total,tests,total,2030
+non-sentinel,Denmark,2026-W44,Influenza,Influenza A,A (unknown),detections,total,88
+non-sentinel,Denmark,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Denmark,2026-W44,Influenza,Influenza B,B (unknown),detections,total,8
+non-sentinel,Denmark,2026-W44,RSV,RSV,RSV,detections,total,1
+non-sentinel,Denmark,2026-W44,RSV,RSV,RSV,tests,total,1878
+non-sentinel,Denmark,2026-W44,RSV,RSV-B,NA,detections,total,1
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,97
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,97
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2032
+non-sentinel,Denmark,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,2032
+non-sentinel,Denmark,2026-W43,Influenza,Influenza,total,detections,total,132
+non-sentinel,Denmark,2026-W43,Influenza,Influenza,total,tests,total,2058
 non-sentinel,Denmark,2026-W43,Influenza,Influenza A,A (unknown),detections,total,82
-non-sentinel,Denmark,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Denmark,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,45
+non-sentinel,Denmark,2026-W43,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Denmark,2026-W43,Influenza,Influenza B,B (unknown),detections,total,3
 non-sentinel,Denmark,2026-W43,RSV,RSV,RSV,detections,total,0
-non-sentinel,Denmark,2026-W43,RSV,RSV,RSV,tests,total,1922
+non-sentinel,Denmark,2026-W43,RSV,RSV,RSV,tests,total,1928
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
-non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,71
-non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,71
+non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,72
+non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,72
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
-non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2028
-non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,2028
-non-sentinel,Denmark,2026-W42,Influenza,Influenza,total,detections,total,111
+non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2056
+non-sentinel,Denmark,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,2056
+non-sentinel,Denmark,2026-W42,Influenza,Influenza,total,detections,total,117
 non-sentinel,Denmark,2026-W42,Influenza,Influenza,total,tests,total,1906
 non-sentinel,Denmark,2026-W42,Influenza,Influenza A,A (unknown),detections,total,77
-non-sentinel,Denmark,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,30
+non-sentinel,Denmark,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,36
 non-sentinel,Denmark,2026-W42,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,Denmark,2026-W42,Influenza,Influenza B,B (unknown),detections,total,1
-non-sentinel,Denmark,2026-W42,RSV,RSV,RSV,detections,total,0
+non-sentinel,Denmark,2026-W42,RSV,RSV,RSV,detections,total,1
 non-sentinel,Denmark,2026-W42,RSV,RSV,RSV,tests,total,1739
+non-sentinel,Denmark,2026-W42,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Denmark,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Denmark,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
 non-sentinel,Denmark,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
@@ -24593,42 +24728,52 @@ non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,3188
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,14111
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,52343
 non-sentinel,Denmark,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A (unknown),detections,total,688
-non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,106
-non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A(H3),detections,total,12
-non-sentinel,EU/EEA,2026-W43,Influenza,Influenza B,B (unknown),detections,total,45
-non-sentinel,EU/EEA,2026-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,7
-non-sentinel,EU/EEA,2026-W43,RSV,RSV untyped,NA,detections,total,98
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza A,A (unknown),detections,total,800
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,133
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza A,A(H3),detections,total,9
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza B,B (unknown),detections,total,68
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,EU/EEA,2026-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,11
+non-sentinel,EU/EEA,2026-W44,RSV,RSV untyped,NA,detections,total,85
+non-sentinel,EU/EEA,2026-W44,RSV,RSV-A,NA,detections,total,1
+non-sentinel,EU/EEA,2026-W44,RSV,RSV-B,NA,detections,total,1
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A (unknown),detections,total,775
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,218
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza A,A(H3),detections,total,26
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza B,B (unknown),detections,total,53
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza B,B/Vic,detections,total,10
+non-sentinel,EU/EEA,2026-W43,Influenza,Influenza untyped,Influenza untyped,detections,total,24
+non-sentinel,EU/EEA,2026-W43,RSV,RSV untyped,NA,detections,total,133
 non-sentinel,EU/EEA,2026-W43,RSV,RSV-A,NA,detections,total,4
-non-sentinel,EU/EEA,2026-W43,RSV,RSV-B,NA,detections,total,1
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A (unknown),detections,total,680
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,165
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A(H3),detections,total,28
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza B,B (unknown),detections,total,49
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza B,B/Vic,detections,total,1
-non-sentinel,EU/EEA,2026-W42,Influenza,Influenza untyped,Influenza untyped,detections,total,14
-non-sentinel,EU/EEA,2026-W42,RSV,RSV untyped,NA,detections,total,100
-non-sentinel,EU/EEA,2026-W42,RSV,RSV-A,NA,detections,total,3
+non-sentinel,EU/EEA,2026-W43,RSV,RSV-B,NA,detections,total,2
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A (unknown),detections,total,612
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,247
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza A,A(H3),detections,total,37
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza B,B (unknown),detections,total,43
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza B,B/Vic,detections,total,4
+non-sentinel,EU/EEA,2026-W42,Influenza,Influenza untyped,Influenza untyped,detections,total,15
+non-sentinel,EU/EEA,2026-W42,RSV,RSV untyped,NA,detections,total,111
+non-sentinel,EU/EEA,2026-W42,RSV,RSV-A,NA,detections,total,7
 non-sentinel,EU/EEA,2026-W42,RSV,RSV-B,NA,detections,total,2
-non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A (unknown),detections,total,629
-non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,118
-non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A(H3),detections,total,57
+non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A (unknown),detections,total,525
+non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,173
+non-sentinel,EU/EEA,2026-W41,Influenza,Influenza A,A(H3),detections,total,68
 non-sentinel,EU/EEA,2026-W41,Influenza,Influenza B,B (unknown),detections,total,39
 non-sentinel,EU/EEA,2026-W41,Influenza,Influenza untyped,Influenza untyped,detections,total,12
 non-sentinel,EU/EEA,2026-W41,RSV,RSV untyped,NA,detections,total,80
 non-sentinel,EU/EEA,2026-W41,RSV,RSV-A,NA,detections,total,4
-non-sentinel,EU/EEA,2026-W41,RSV,RSV-B,NA,detections,total,3
-non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A (unknown),detections,total,590
-non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,152
-non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A(H3),detections,total,97
-non-sentinel,EU/EEA,2026-W40,Influenza,Influenza B,B (unknown),detections,total,18
-non-sentinel,EU/EEA,2026-W40,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,EU/EEA,2026-W41,RSV,RSV-B,NA,detections,total,5
+non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A (unknown),detections,total,533
+non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,166
+non-sentinel,EU/EEA,2026-W40,Influenza,Influenza A,A(H3),detections,total,100
+non-sentinel,EU/EEA,2026-W40,Influenza,Influenza B,B (unknown),detections,total,16
+non-sentinel,EU/EEA,2026-W40,Influenza,Influenza B,B/Vic,detections,total,3
 non-sentinel,EU/EEA,2026-W40,Influenza,Influenza untyped,Influenza untyped,detections,total,24
 non-sentinel,EU/EEA,2026-W40,RSV,RSV untyped,NA,detections,total,63
 non-sentinel,EU/EEA,2026-W40,RSV,RSV-A,NA,detections,total,4
 non-sentinel,EU/EEA,2026-W40,RSV,RSV-B,NA,detections,total,9
-non-sentinel,EU/EEA,2026-W39,Influenza,Influenza A,A (unknown),detections,total,414
-non-sentinel,EU/EEA,2026-W39,Influenza,Influenza A,A(H1)pdm09,detections,total,113
+non-sentinel,EU/EEA,2026-W39,Influenza,Influenza A,A (unknown),detections,total,378
+non-sentinel,EU/EEA,2026-W39,Influenza,Influenza A,A(H1)pdm09,detections,total,114
 non-sentinel,EU/EEA,2026-W39,Influenza,Influenza A,A(H3),detections,total,98
 non-sentinel,EU/EEA,2026-W39,Influenza,Influenza B,B (unknown),detections,total,17
 non-sentinel,EU/EEA,2026-W39,Influenza,Influenza B,B/Vic,detections,total,4
@@ -24636,7 +24781,7 @@ non-sentinel,EU/EEA,2026-W39,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W39,RSV,RSV untyped,NA,detections,total,46
 non-sentinel,EU/EEA,2026-W39,RSV,RSV-A,NA,detections,total,1
 non-sentinel,EU/EEA,2026-W39,RSV,RSV-B,NA,detections,total,5
-non-sentinel,EU/EEA,2026-W38,Influenza,Influenza A,A (unknown),detections,total,469
+non-sentinel,EU/EEA,2026-W38,Influenza,Influenza A,A (unknown),detections,total,425
 non-sentinel,EU/EEA,2026-W38,Influenza,Influenza A,A(H1)pdm09,detections,total,113
 non-sentinel,EU/EEA,2026-W38,Influenza,Influenza A,A(H3),detections,total,145
 non-sentinel,EU/EEA,2026-W38,Influenza,Influenza B,B (unknown),detections,total,25
@@ -24645,7 +24790,7 @@ non-sentinel,EU/EEA,2026-W38,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W38,RSV,RSV untyped,NA,detections,total,34
 non-sentinel,EU/EEA,2026-W38,RSV,RSV-A,NA,detections,total,2
 non-sentinel,EU/EEA,2026-W38,RSV,RSV-B,NA,detections,total,5
-non-sentinel,EU/EEA,2026-W37,Influenza,Influenza A,A (unknown),detections,total,372
+non-sentinel,EU/EEA,2026-W37,Influenza,Influenza A,A (unknown),detections,total,344
 non-sentinel,EU/EEA,2026-W37,Influenza,Influenza A,A(H1)pdm09,detections,total,72
 non-sentinel,EU/EEA,2026-W37,Influenza,Influenza A,A(H3),detections,total,161
 non-sentinel,EU/EEA,2026-W37,Influenza,Influenza B,B (unknown),detections,total,27
@@ -24654,7 +24799,7 @@ non-sentinel,EU/EEA,2026-W37,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W37,RSV,RSV untyped,NA,detections,total,39
 non-sentinel,EU/EEA,2026-W37,RSV,RSV-A,NA,detections,total,2
 non-sentinel,EU/EEA,2026-W37,RSV,RSV-B,NA,detections,total,3
-non-sentinel,EU/EEA,2026-W36,Influenza,Influenza A,A (unknown),detections,total,388
+non-sentinel,EU/EEA,2026-W36,Influenza,Influenza A,A (unknown),detections,total,357
 non-sentinel,EU/EEA,2026-W36,Influenza,Influenza A,A(H1)pdm09,detections,total,66
 non-sentinel,EU/EEA,2026-W36,Influenza,Influenza A,A(H3),detections,total,217
 non-sentinel,EU/EEA,2026-W36,Influenza,Influenza B,B (unknown),detections,total,19
@@ -24663,7 +24808,7 @@ non-sentinel,EU/EEA,2026-W36,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W36,RSV,RSV untyped,NA,detections,total,32
 non-sentinel,EU/EEA,2026-W36,RSV,RSV-A,NA,detections,total,5
 non-sentinel,EU/EEA,2026-W36,RSV,RSV-B,NA,detections,total,3
-non-sentinel,EU/EEA,2026-W35,Influenza,Influenza A,A (unknown),detections,total,323
+non-sentinel,EU/EEA,2026-W35,Influenza,Influenza A,A (unknown),detections,total,296
 non-sentinel,EU/EEA,2026-W35,Influenza,Influenza A,A(H1)pdm09,detections,total,44
 non-sentinel,EU/EEA,2026-W35,Influenza,Influenza A,A(H3),detections,total,167
 non-sentinel,EU/EEA,2026-W35,Influenza,Influenza B,B (unknown),detections,total,16
@@ -24672,7 +24817,7 @@ non-sentinel,EU/EEA,2026-W35,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W35,RSV,RSV untyped,NA,detections,total,22
 non-sentinel,EU/EEA,2026-W35,RSV,RSV-A,NA,detections,total,2
 non-sentinel,EU/EEA,2026-W35,RSV,RSV-B,NA,detections,total,7
-non-sentinel,EU/EEA,2026-W34,Influenza,Influenza A,A (unknown),detections,total,283
+non-sentinel,EU/EEA,2026-W34,Influenza,Influenza A,A (unknown),detections,total,284
 non-sentinel,EU/EEA,2026-W34,Influenza,Influenza A,A(H1)pdm09,detections,total,39
 non-sentinel,EU/EEA,2026-W34,Influenza,Influenza A,A(H3),detections,total,188
 non-sentinel,EU/EEA,2026-W34,Influenza,Influenza B,B (unknown),detections,total,15
@@ -24680,7 +24825,7 @@ non-sentinel,EU/EEA,2026-W34,Influenza,Influenza B,B/Vic,detections,total,3
 non-sentinel,EU/EEA,2026-W34,Influenza,Influenza untyped,Influenza untyped,detections,total,5
 non-sentinel,EU/EEA,2026-W34,RSV,RSV untyped,NA,detections,total,17
 non-sentinel,EU/EEA,2026-W34,RSV,RSV-B,NA,detections,total,2
-non-sentinel,EU/EEA,2026-W33,Influenza,Influenza A,A (unknown),detections,total,216
+non-sentinel,EU/EEA,2026-W33,Influenza,Influenza A,A (unknown),detections,total,217
 non-sentinel,EU/EEA,2026-W33,Influenza,Influenza A,A(H1)pdm09,detections,total,22
 non-sentinel,EU/EEA,2026-W33,Influenza,Influenza A,A(H3),detections,total,192
 non-sentinel,EU/EEA,2026-W33,Influenza,Influenza B,B (unknown),detections,total,15
@@ -24689,7 +24834,7 @@ non-sentinel,EU/EEA,2026-W33,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W33,RSV,RSV untyped,NA,detections,total,13
 non-sentinel,EU/EEA,2026-W33,RSV,RSV-A,NA,detections,total,2
 non-sentinel,EU/EEA,2026-W33,RSV,RSV-B,NA,detections,total,4
-non-sentinel,EU/EEA,2026-W32,Influenza,Influenza A,A (unknown),detections,total,155
+non-sentinel,EU/EEA,2026-W32,Influenza,Influenza A,A (unknown),detections,total,164
 non-sentinel,EU/EEA,2026-W32,Influenza,Influenza A,A(H1)pdm09,detections,total,26
 non-sentinel,EU/EEA,2026-W32,Influenza,Influenza A,A(H3),detections,total,169
 non-sentinel,EU/EEA,2026-W32,Influenza,Influenza B,B (unknown),detections,total,25
@@ -24698,7 +24843,7 @@ non-sentinel,EU/EEA,2026-W32,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W32,RSV,RSV untyped,NA,detections,total,18
 non-sentinel,EU/EEA,2026-W32,RSV,RSV-A,NA,detections,total,5
 non-sentinel,EU/EEA,2026-W32,RSV,RSV-B,NA,detections,total,3
-non-sentinel,EU/EEA,2026-W31,Influenza,Influenza A,A (unknown),detections,total,115
+non-sentinel,EU/EEA,2026-W31,Influenza,Influenza A,A (unknown),detections,total,116
 non-sentinel,EU/EEA,2026-W31,Influenza,Influenza A,A(H1)pdm09,detections,total,25
 non-sentinel,EU/EEA,2026-W31,Influenza,Influenza A,A(H3),detections,total,73
 non-sentinel,EU/EEA,2026-W31,Influenza,Influenza B,B (unknown),detections,total,20
@@ -24712,10 +24857,10 @@ non-sentinel,EU/EEA,2026-W30,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,EU/EEA,2026-W30,Influenza,Influenza A,A(H3),detections,total,53
 non-sentinel,EU/EEA,2026-W30,Influenza,Influenza B,B (unknown),detections,total,14
 non-sentinel,EU/EEA,2026-W30,Influenza,Influenza B,B/Vic,detections,total,2
-non-sentinel,EU/EEA,2026-W30,RSV,RSV untyped,NA,detections,total,34
+non-sentinel,EU/EEA,2026-W30,RSV,RSV untyped,NA,detections,total,35
 non-sentinel,EU/EEA,2026-W30,RSV,RSV-A,NA,detections,total,1
 non-sentinel,EU/EEA,2026-W30,RSV,RSV-B,NA,detections,total,5
-non-sentinel,EU/EEA,2026-W29,Influenza,Influenza A,A (unknown),detections,total,42
+non-sentinel,EU/EEA,2026-W29,Influenza,Influenza A,A (unknown),detections,total,43
 non-sentinel,EU/EEA,2026-W29,Influenza,Influenza A,A(H1)pdm09,detections,total,11
 non-sentinel,EU/EEA,2026-W29,Influenza,Influenza A,A(H3),detections,total,19
 non-sentinel,EU/EEA,2026-W29,Influenza,Influenza B,B (unknown),detections,total,24
@@ -24732,7 +24877,7 @@ non-sentinel,EU/EEA,2026-W28,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W28,RSV,RSV untyped,NA,detections,total,57
 non-sentinel,EU/EEA,2026-W28,RSV,RSV-A,NA,detections,total,5
 non-sentinel,EU/EEA,2026-W28,RSV,RSV-B,NA,detections,total,5
-non-sentinel,EU/EEA,2026-W27,Influenza,Influenza A,A (unknown),detections,total,24
+non-sentinel,EU/EEA,2026-W27,Influenza,Influenza A,A (unknown),detections,total,27
 non-sentinel,EU/EEA,2026-W27,Influenza,Influenza A,A(H1)pdm09,detections,total,9
 non-sentinel,EU/EEA,2026-W27,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,EU/EEA,2026-W27,Influenza,Influenza B,B (unknown),detections,total,16
@@ -24747,7 +24892,7 @@ non-sentinel,EU/EEA,2026-W26,Influenza,Influenza B,B (unknown),detections,total,
 non-sentinel,EU/EEA,2026-W26,RSV,RSV untyped,NA,detections,total,84
 non-sentinel,EU/EEA,2026-W26,RSV,RSV-A,NA,detections,total,9
 non-sentinel,EU/EEA,2026-W26,RSV,RSV-B,NA,detections,total,9
-non-sentinel,EU/EEA,2026-W25,Influenza,Influenza A,A (unknown),detections,total,43
+non-sentinel,EU/EEA,2026-W25,Influenza,Influenza A,A (unknown),detections,total,45
 non-sentinel,EU/EEA,2026-W25,Influenza,Influenza A,A(H1)pdm09,detections,total,9
 non-sentinel,EU/EEA,2026-W25,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,EU/EEA,2026-W25,Influenza,Influenza B,B (unknown),detections,total,46
@@ -24756,16 +24901,16 @@ non-sentinel,EU/EEA,2026-W25,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W25,RSV,RSV untyped,NA,detections,total,80
 non-sentinel,EU/EEA,2026-W25,RSV,RSV-A,NA,detections,total,9
 non-sentinel,EU/EEA,2026-W25,RSV,RSV-B,NA,detections,total,13
-non-sentinel,EU/EEA,2026-W24,Influenza,Influenza A,A (unknown),detections,total,68
+non-sentinel,EU/EEA,2026-W24,Influenza,Influenza A,A (unknown),detections,total,82
 non-sentinel,EU/EEA,2026-W24,Influenza,Influenza A,A(H1)pdm09,detections,total,17
 non-sentinel,EU/EEA,2026-W24,Influenza,Influenza A,A(H3),detections,total,7
-non-sentinel,EU/EEA,2026-W24,Influenza,Influenza B,B (unknown),detections,total,38
+non-sentinel,EU/EEA,2026-W24,Influenza,Influenza B,B (unknown),detections,total,36
 non-sentinel,EU/EEA,2026-W24,Influenza,Influenza B,B/Vic,detections,total,7
 non-sentinel,EU/EEA,2026-W24,Influenza,Influenza untyped,Influenza untyped,detections,total,10
 non-sentinel,EU/EEA,2026-W24,RSV,RSV untyped,NA,detections,total,147
 non-sentinel,EU/EEA,2026-W24,RSV,RSV-A,NA,detections,total,8
 non-sentinel,EU/EEA,2026-W24,RSV,RSV-B,NA,detections,total,11
-non-sentinel,EU/EEA,2026-W23,Influenza,Influenza A,A (unknown),detections,total,84
+non-sentinel,EU/EEA,2026-W23,Influenza,Influenza A,A (unknown),detections,total,85
 non-sentinel,EU/EEA,2026-W23,Influenza,Influenza A,A(H1)pdm09,detections,total,12
 non-sentinel,EU/EEA,2026-W23,Influenza,Influenza A,A(H3),detections,total,6
 non-sentinel,EU/EEA,2026-W23,Influenza,Influenza B,B (unknown),detections,total,51
@@ -24774,7 +24919,7 @@ non-sentinel,EU/EEA,2026-W23,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W23,RSV,RSV untyped,NA,detections,total,183
 non-sentinel,EU/EEA,2026-W23,RSV,RSV-A,NA,detections,total,10
 non-sentinel,EU/EEA,2026-W23,RSV,RSV-B,NA,detections,total,22
-non-sentinel,EU/EEA,2026-W22,Influenza,Influenza A,A (unknown),detections,total,68
+non-sentinel,EU/EEA,2026-W22,Influenza,Influenza A,A (unknown),detections,total,69
 non-sentinel,EU/EEA,2026-W22,Influenza,Influenza A,A(H1)pdm09,detections,total,14
 non-sentinel,EU/EEA,2026-W22,Influenza,Influenza A,A(H3),detections,total,5
 non-sentinel,EU/EEA,2026-W22,Influenza,Influenza B,B (unknown),detections,total,53
@@ -24783,7 +24928,7 @@ non-sentinel,EU/EEA,2026-W22,Influenza,Influenza untyped,Influenza untyped,detec
 non-sentinel,EU/EEA,2026-W22,RSV,RSV untyped,NA,detections,total,255
 non-sentinel,EU/EEA,2026-W22,RSV,RSV-A,NA,detections,total,3
 non-sentinel,EU/EEA,2026-W22,RSV,RSV-B,NA,detections,total,15
-non-sentinel,EU/EEA,2026-W21,Influenza,Influenza A,A (unknown),detections,total,81
+non-sentinel,EU/EEA,2026-W21,Influenza,Influenza A,A (unknown),detections,total,84
 non-sentinel,EU/EEA,2026-W21,Influenza,Influenza A,A(H1)pdm09,detections,total,21
 non-sentinel,EU/EEA,2026-W21,Influenza,Influenza A,A(H3),detections,total,3
 non-sentinel,EU/EEA,2026-W21,Influenza,Influenza B,B (unknown),detections,total,83
@@ -26419,12 +26564,31 @@ non-sentinel,EU/EEA,2022-W25,Influenza,Influenza B,B (unknown),detections,total,
 non-sentinel,EU/EEA,2022-W25,Influenza,Influenza B,B/Vic,detections,total,2
 non-sentinel,EU/EEA,2022-W25,Influenza,Influenza untyped,Influenza untyped,detections,total,44
 non-sentinel,EU/EEA,2022-W25,RSV,RSV untyped,NA,detections,total,474
+non-sentinel,Estonia,2026-W44,Influenza,Influenza,total,detections,total,17
+non-sentinel,Estonia,2026-W44,Influenza,Influenza,total,tests,total,1888
+non-sentinel,Estonia,2026-W44,Influenza,Influenza A,A (unknown),detections,total,15
+non-sentinel,Estonia,2026-W44,Influenza,Influenza B,B (unknown),detections,total,2
+non-sentinel,Estonia,2026-W44,RSV,RSV,RSV,detections,total,1
+non-sentinel,Estonia,2026-W44,RSV,RSV,RSV,tests,total,820
+non-sentinel,Estonia,2026-W44,RSV,RSV untyped,NA,detections,total,1
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,6
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,10
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,20
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,132
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,306
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,66
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,394
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,901
+non-sentinel,Estonia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,3
 non-sentinel,Estonia,2026-W43,Influenza,Influenza,total,detections,total,9
-non-sentinel,Estonia,2026-W43,Influenza,Influenza,total,tests,total,1838
+non-sentinel,Estonia,2026-W43,Influenza,Influenza,total,tests,total,1836
 non-sentinel,Estonia,2026-W43,Influenza,Influenza A,A (unknown),detections,total,8
 non-sentinel,Estonia,2026-W43,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Estonia,2026-W43,RSV,RSV,RSV,detections,total,1
-non-sentinel,Estonia,2026-W43,RSV,RSV,RSV,tests,total,784
+non-sentinel,Estonia,2026-W43,RSV,RSV,RSV,tests,total,783
 non-sentinel,Estonia,2026-W43,RSV,RSV untyped,NA,detections,total,1
 non-sentinel,Estonia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
 non-sentinel,Estonia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,6
@@ -30376,10 +30540,24 @@ non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
 non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,164
 non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,798
 non-sentinel,Estonia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,18
-non-sentinel,Finland,2026-W42,Influenza,Influenza,total,detections,total,41
-non-sentinel,Finland,2026-W42,Influenza,Influenza A,A (unknown),detections,total,41
-non-sentinel,Finland,2026-W42,RSV,RSV,RSV,detections,total,1
-non-sentinel,Finland,2026-W42,RSV,RSV untyped,NA,detections,total,1
+non-sentinel,Finland,2026-W44,Influenza,Influenza,total,detections,total,87
+non-sentinel,Finland,2026-W44,Influenza,Influenza A,A (unknown),detections,total,83
+non-sentinel,Finland,2026-W44,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Finland,2026-W44,RSV,RSV,RSV,detections,total,4
+non-sentinel,Finland,2026-W44,RSV,RSV untyped,NA,detections,total,4
+non-sentinel,Finland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,53
+non-sentinel,Finland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,53
+non-sentinel,Finland,2026-W43,Influenza,Influenza,total,detections,total,88
+non-sentinel,Finland,2026-W43,Influenza,Influenza A,A (unknown),detections,total,82
+non-sentinel,Finland,2026-W43,Influenza,Influenza B,B (unknown),detections,total,6
+non-sentinel,Finland,2026-W43,RSV,RSV,RSV,detections,total,5
+non-sentinel,Finland,2026-W43,RSV,RSV untyped,NA,detections,total,5
+non-sentinel,Finland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,51
+non-sentinel,Finland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,51
+non-sentinel,Finland,2026-W42,Influenza,Influenza,total,detections,total,48
+non-sentinel,Finland,2026-W42,Influenza,Influenza A,A (unknown),detections,total,48
+non-sentinel,Finland,2026-W42,RSV,RSV,RSV,detections,total,3
+non-sentinel,Finland,2026-W42,RSV,RSV untyped,NA,detections,total,3
 non-sentinel,Finland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,22
 non-sentinel,Finland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,22
 non-sentinel,Finland,2026-W41,Influenza,Influenza,total,detections,total,41
@@ -38335,12 +38513,36 @@ non-sentinel,Germany,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Germany,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Germany,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,889100
 non-sentinel,Germany,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,889100
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1691
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1691
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,15443
+non-sentinel,Greece,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,15443
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1789
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1789
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,17848
+non-sentinel,Greece,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,17848
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
-non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1424
-non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1424
+non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1434
+non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1434
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
 non-sentinel,Greece,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
@@ -38363,8 +38565,8 @@ non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
-non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,940
-non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,940
+non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,941
+non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,941
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
 non-sentinel,Greece,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
@@ -38399,8 +38601,8 @@ non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
-non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,427
-non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,427
+non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,428
+non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,428
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,0
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,0
 non-sentinel,Greece,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
@@ -41508,6 +41710,14 @@ non-sentinel,Greece,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Greece,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Greece,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,798643
 non-sentinel,Greece,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,798643
+non-sentinel,Hungary,2026-W44,Influenza,Influenza,total,detections,total,0
+non-sentinel,Hungary,2026-W44,Influenza,Influenza,total,tests,total,35
+non-sentinel,Hungary,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Hungary,2026-W44,RSV,RSV,RSV,tests,total,35
+non-sentinel,Hungary,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,35
+non-sentinel,Hungary,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,35
+non-sentinel,Hungary,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,439
+non-sentinel,Hungary,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,439
 non-sentinel,Hungary,2026-W43,Influenza,Influenza,total,detections,total,1
 non-sentinel,Hungary,2026-W43,Influenza,Influenza,total,tests,total,30
 non-sentinel,Hungary,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,1
@@ -44280,6 +44490,25 @@ non-sentinel,Hungary,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Hungary,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Hungary,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,14334
 non-sentinel,Hungary,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,14334
+non-sentinel,Iceland,2026-W44,Influenza,Influenza,total,detections,total,14
+non-sentinel,Iceland,2026-W44,Influenza,Influenza,total,tests,total,204
+non-sentinel,Iceland,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,12
+non-sentinel,Iceland,2026-W44,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Iceland,2026-W44,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Iceland,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Iceland,2026-W44,RSV,RSV,RSV,tests,total,204
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,2
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,9
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,12
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,34
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,63
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,9
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,98
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,204
+non-sentinel,Iceland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Iceland,2026-W43,Influenza,Influenza,total,detections,total,8
 non-sentinel,Iceland,2026-W43,Influenza,Influenza,total,tests,total,220
 non-sentinel,Iceland,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,8
@@ -48398,46 +48627,89 @@ non-sentinel,Iceland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,104
 non-sentinel,Iceland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,640
 non-sentinel,Iceland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3494
 non-sentinel,Iceland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,992
-non-sentinel,Ireland,2026-W42,Influenza,Influenza,total,detections,total,1
-non-sentinel,Ireland,2026-W42,Influenza,Influenza,total,tests,total,162
-non-sentinel,Ireland,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Ireland,2026-W42,RSV,RSV,RSV,detections,total,0
-non-sentinel,Ireland,2026-W42,RSV,RSV,RSV,tests,total,162
+non-sentinel,Ireland,2026-W44,Influenza,Influenza,total,detections,total,9
+non-sentinel,Ireland,2026-W44,Influenza,Influenza,total,tests,total,143
+non-sentinel,Ireland,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,8
+non-sentinel,Ireland,2026-W44,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Ireland,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Ireland,2026-W44,RSV,RSV,RSV,tests,total,143
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,2
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,14
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,17
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,9
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,63
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,5
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,66
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,143
+non-sentinel,Ireland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Ireland,2026-W43,Influenza,Influenza,total,detections,total,7
+non-sentinel,Ireland,2026-W43,Influenza,Influenza,total,tests,total,220
+non-sentinel,Ireland,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,5
+non-sentinel,Ireland,2026-W43,Influenza,Influenza B,B (unknown),detections,total,2
+non-sentinel,Ireland,2026-W43,RSV,RSV,RSV,detections,total,1
+non-sentinel,Ireland,2026-W43,RSV,RSV,RSV,tests,total,220
+non-sentinel,Ireland,2026-W43,RSV,RSV-B,NA,detections,total,1
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,2
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,23
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,25
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,18
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,89
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,105
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,220
+non-sentinel,Ireland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Ireland,2026-W42,Influenza,Influenza,total,detections,total,9
+non-sentinel,Ireland,2026-W42,Influenza,Influenza,total,tests,total,237
+non-sentinel,Ireland,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Ireland,2026-W42,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Ireland,2026-W42,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Ireland,2026-W42,RSV,RSV,RSV,detections,total,3
+non-sentinel,Ireland,2026-W42,RSV,RSV,RSV,tests,total,237
+non-sentinel,Ireland,2026-W42,RSV,RSV-A,NA,detections,total,3
 non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,3
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,4
 non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,16
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,19
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,19
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,23
 non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,3
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,57
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,4
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,98
-non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,162
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,8
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,94
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,127
+non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,237
 non-sentinel,Ireland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Ireland,2026-W41,Influenza,Influenza,total,detections,total,3
-non-sentinel,Ireland,2026-W41,Influenza,Influenza,total,tests,total,235
-non-sentinel,Ireland,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,3
-non-sentinel,Ireland,2026-W41,RSV,RSV,RSV,detections,total,0
-non-sentinel,Ireland,2026-W41,RSV,RSV,RSV,tests,total,235
+non-sentinel,Ireland,2026-W41,Influenza,Influenza,total,detections,total,10
+non-sentinel,Ireland,2026-W41,Influenza,Influenza,total,tests,total,245
+non-sentinel,Ireland,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,7
+non-sentinel,Ireland,2026-W41,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Ireland,2026-W41,RSV,RSV,RSV,detections,total,2
+non-sentinel,Ireland,2026-W41,RSV,RSV,RSV,tests,total,245
+non-sentinel,Ireland,2026-W41,RSV,RSV-B,NA,detections,total,2
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,2
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,25
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,16
-non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,93
+non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,19
+non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,95
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,4
-non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,122
-non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,235
+non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,127
+non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,245
 non-sentinel,Ireland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Ireland,2026-W40,Influenza,Influenza,total,detections,total,16
-non-sentinel,Ireland,2026-W40,Influenza,Influenza,total,tests,total,318
+non-sentinel,Ireland,2026-W40,Influenza,Influenza,total,detections,total,17
+non-sentinel,Ireland,2026-W40,Influenza,Influenza,total,tests,total,322
+non-sentinel,Ireland,2026-W40,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Ireland,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,15
 non-sentinel,Ireland,2026-W40,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Ireland,2026-W40,RSV,RSV,RSV,detections,total,2
-non-sentinel,Ireland,2026-W40,RSV,RSV,RSV,tests,total,318
+non-sentinel,Ireland,2026-W40,RSV,RSV,RSV,tests,total,322
 non-sentinel,Ireland,2026-W40,RSV,RSV-A,NA,detections,total,2
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,12
@@ -48445,11 +48717,11 @@ non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,22
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,35
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,30
+non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,33
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,107
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8
-non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,173
-non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,318
+non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,174
+non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,322
 non-sentinel,Ireland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Ireland,2026-W39,Influenza,Influenza,total,detections,total,8
 non-sentinel,Ireland,2026-W39,Influenza,Influenza,total,tests,total,262
@@ -55507,6 +55779,18 @@ non-sentinel,Italy,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Italy,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Italy,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1554587
 non-sentinel,Italy,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,1554587
+non-sentinel,Latvia,2026-W44,Influenza,Influenza,total,detections,total,0
+non-sentinel,Latvia,2026-W44,Influenza,Influenza,total,tests,total,15
+non-sentinel,Latvia,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Latvia,2026-W44,RSV,RSV,RSV,tests,total,15
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,0
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,8
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,4
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,15
+non-sentinel,Latvia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Latvia,2026-W43,Influenza,Influenza,total,detections,total,0
 non-sentinel,Latvia,2026-W43,Influenza,Influenza,total,tests,total,16
 non-sentinel,Latvia,2026-W43,RSV,RSV,RSV,detections,total,0
@@ -58208,6 +58492,13 @@ non-sentinel,Latvia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,63
 non-sentinel,Latvia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,223
 non-sentinel,Latvia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1523
 non-sentinel,Latvia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Liechtenstein,2026-W44,Influenza,Influenza,total,detections,total,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,0
+non-sentinel,Liechtenstein,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Liechtenstein,2026-W43,Influenza,Influenza,total,detections,total,0
 non-sentinel,Liechtenstein,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Liechtenstein,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,0
@@ -63876,6 +64167,25 @@ non-sentinel,Lithuania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-6
 non-sentinel,Lithuania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,49
 non-sentinel,Lithuania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,256
 non-sentinel,Lithuania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1396
+non-sentinel,Luxembourg,2026-W44,Influenza,Influenza,total,detections,total,63
+non-sentinel,Luxembourg,2026-W44,Influenza,Influenza A,A (unknown),detections,total,57
+non-sentinel,Luxembourg,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Luxembourg,2026-W44,Influenza,Influenza B,B (unknown),detections,total,2
+non-sentinel,Luxembourg,2026-W44,Influenza,Influenza untyped,Influenza untyped,detections,total,1
+non-sentinel,Luxembourg,2026-W44,RSV,RSV,RSV,detections,total,5
+non-sentinel,Luxembourg,2026-W44,RSV,RSV untyped,NA,detections,total,5
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,47
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,28
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,81
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,114
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,579
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,60
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,202
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,955
+non-sentinel,Luxembourg,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W43,Influenza,Influenza,total,detections,total,36
 non-sentinel,Luxembourg,2026-W43,Influenza,Influenza A,A (unknown),detections,total,33
 non-sentinel,Luxembourg,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,1
@@ -63888,11 +64198,11 @@ non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,34
 non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,91
 non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,97
-non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,612
+non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,92
+non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,609
 non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,61
-non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,229
-non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,999
+non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,220
+non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,982
 non-sentinel,Luxembourg,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W42,Influenza,Influenza,total,detections,total,34
 non-sentinel,Luxembourg,2026-W42,Influenza,Influenza A,A (unknown),detections,total,25
@@ -63901,17 +64211,17 @@ non-sentinel,Luxembourg,2026-W42,Influenza,Influenza B,B (unknown),detections,to
 non-sentinel,Luxembourg,2026-W42,Influenza,Influenza untyped,Influenza untyped,detections,total,1
 non-sentinel,Luxembourg,2026-W42,RSV,RSV,RSV,detections,total,5
 non-sentinel,Luxembourg,2026-W42,RSV,RSV untyped,NA,detections,total,5
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,64
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,61
 non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,52
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,122
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,49
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,117
 non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,102
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,694
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,77
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,206
-non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1079
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,100
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,672
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,72
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,215
+non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1059
 non-sentinel,Luxembourg,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W41,Influenza,Influenza,total,detections,total,29
 non-sentinel,Luxembourg,2026-W41,Influenza,Influenza A,A (unknown),detections,total,26
@@ -63922,16 +64232,16 @@ non-sentinel,Luxembourg,2026-W41,RSV,RSV,RSV,detections,total,2
 non-sentinel,Luxembourg,2026-W41,RSV,RSV untyped,NA,detections,total,1
 non-sentinel,Luxembourg,2026-W41,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,80
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,78
 non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,40
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,127
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,35
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,120
 non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,103
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,775
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,70
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,225
-non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1173
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,104
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,687
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,67
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,203
+non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1061
 non-sentinel,Luxembourg,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W40,Influenza,Influenza,total,detections,total,51
 non-sentinel,Luxembourg,2026-W40,Influenza,Influenza A,A (unknown),detections,total,47
@@ -63941,16 +64251,16 @@ non-sentinel,Luxembourg,2026-W40,Influenza,Influenza untyped,Influenza untyped,d
 non-sentinel,Luxembourg,2026-W40,RSV,RSV,RSV,detections,total,2
 non-sentinel,Luxembourg,2026-W40,RSV,RSV untyped,NA,detections,total,2
 non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,88
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,87
 non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
 non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,41
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,139
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,138
 non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,94
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,614
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,62
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,156
-non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,926
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,101
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,715
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,66
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,172
+non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1054
 non-sentinel,Luxembourg,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W39,Influenza,Influenza,total,detections,total,28
 non-sentinel,Luxembourg,2026-W39,Influenza,Influenza A,A (unknown),detections,total,25
@@ -63960,16 +64270,16 @@ non-sentinel,Luxembourg,2026-W39,Influenza,Influenza untyped,Influenza untyped,d
 non-sentinel,Luxembourg,2026-W39,RSV,RSV,RSV,detections,total,3
 non-sentinel,Luxembourg,2026-W39,RSV,RSV untyped,NA,detections,total,3
 non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,53
 non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,41
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,105
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,38
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,100
 non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,76
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,493
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,68
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,135
-non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,772
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,81
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,502
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,72
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,143
+non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,798
 non-sentinel,Luxembourg,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W38,Influenza,Influenza,total,detections,total,27
 non-sentinel,Luxembourg,2026-W38,Influenza,Influenza A,A (unknown),detections,total,23
@@ -63984,11 +64294,11 @@ non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,13
 non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,78
 non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,58
-non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,355
-non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,23
-non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,92
-non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,528
+non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,56
+non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,378
+non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,27
+non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,97
+non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,558
 non-sentinel,Luxembourg,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W37,Influenza,Influenza,total,detections,total,19
 non-sentinel,Luxembourg,2026-W37,Influenza,Influenza A,A (unknown),detections,total,15
@@ -63998,16 +64308,16 @@ non-sentinel,Luxembourg,2026-W37,Influenza,Influenza untyped,Influenza untyped,d
 non-sentinel,Luxembourg,2026-W37,RSV,RSV,RSV,detections,total,1
 non-sentinel,Luxembourg,2026-W37,RSV,RSV untyped,NA,detections,total,1
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
-non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,19
+non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,18
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,11
-non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,36
+non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,35
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,48
+non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,51
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,286
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,16
-non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,62
-non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,412
+non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,66
+non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,419
 non-sentinel,Luxembourg,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W36,Influenza,Influenza,total,detections,total,24
 non-sentinel,Luxembourg,2026-W36,Influenza,Influenza A,A (unknown),detections,total,23
@@ -64021,11 +64331,11 @@ non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,4
 non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,23
 non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,37
-non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,183
-non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,12
-non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,55
-non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,287
+non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,40
+non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,195
+non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,13
+non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,56
+non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,304
 non-sentinel,Luxembourg,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W35,Influenza,Influenza,total,detections,total,10
 non-sentinel,Luxembourg,2026-W35,Influenza,Influenza A,A (unknown),detections,total,9
@@ -64037,11 +64347,11 @@ non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,10
 non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,23
-non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,163
+non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,26
+non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,172
 non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8
-non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,60
-non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,254
+non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,58
+non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,264
 non-sentinel,Luxembourg,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W34,Influenza,Influenza,total,detections,total,15
 non-sentinel,Luxembourg,2026-W34,Influenza,Influenza A,A (unknown),detections,total,13
@@ -64050,14 +64360,14 @@ non-sentinel,Luxembourg,2026-W34,RSV,RSV,RSV,detections,total,0
 non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
 non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,13
 non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,2
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,17
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,3
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,18
 non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,24
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,153
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,15
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,68
-non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,260
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,25
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,158
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,13
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,74
+non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,270
 non-sentinel,Luxembourg,2026-W34,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W33,Influenza,Influenza,total,detections,total,11
 non-sentinel,Luxembourg,2026-W33,Influenza,Influenza A,A (unknown),detections,total,11
@@ -64068,11 +64378,11 @@ non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,5
 non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,25
-non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,122
-non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,11
-non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,64
-non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,222
+non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,27
+non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,123
+non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,12
+non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,73
+non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,235
 non-sentinel,Luxembourg,2026-W33,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W32,Influenza,Influenza,total,detections,total,12
 non-sentinel,Luxembourg,2026-W32,Influenza,Influenza A,A (unknown),detections,total,10
@@ -64082,14 +64392,14 @@ non-sentinel,Luxembourg,2026-W32,RSV,RSV,RSV,detections,total,0
 non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
 non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,4
 non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,2
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,8
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,3
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,9
 non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,39
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,130
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,7
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,46
-non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,222
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,41
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,143
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,9
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,47
+non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,240
 non-sentinel,Luxembourg,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W31,Influenza,Influenza,total,detections,total,8
 non-sentinel,Luxembourg,2026-W31,Influenza,Influenza A,A (unknown),detections,total,4
@@ -64101,11 +64411,11 @@ non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
 non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,4
 non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,26
-non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,142
-non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,9
-non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,40
-non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,217
+non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,33
+non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,151
+non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8
+non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,43
+non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,235
 non-sentinel,Luxembourg,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W30,Influenza,Influenza,total,detections,total,0
 non-sentinel,Luxembourg,2026-W30,RSV,RSV,RSV,detections,total,0
@@ -64115,27 +64425,27 @@ non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
 non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,6
 non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,21
-non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,123
+non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,22
+non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,115
 non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,12
-non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,30
-non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,186
+non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,36
+non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,185
 non-sentinel,Luxembourg,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W29,Influenza,Influenza,total,detections,total,8
 non-sentinel,Luxembourg,2026-W29,Influenza,Influenza A,A (unknown),detections,total,8
 non-sentinel,Luxembourg,2026-W29,RSV,RSV,RSV,detections,total,1
 non-sentinel,Luxembourg,2026-W29,RSV,RSV untyped,NA,detections,total,1
 non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,4
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,5
 non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,5
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,6
 non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,34
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,165
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,16
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,48
-non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,263
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,38
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,183
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,15
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,51
+non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,287
 non-sentinel,Luxembourg,2026-W29,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W28,Influenza,Influenza,total,detections,total,1
 non-sentinel,Luxembourg,2026-W28,Influenza,Influenza A,A (unknown),detections,total,1
@@ -64147,11 +64457,11 @@ non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,3
 non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,37
-non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,139
-non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,14
-non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,46
-non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,236
+non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,39
+non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,138
+non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,19
+non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,54
+non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,250
 non-sentinel,Luxembourg,2026-W28,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W27,Influenza,Influenza,total,detections,total,1
 non-sentinel,Luxembourg,2026-W27,Influenza,Influenza A,A (unknown),detections,total,1
@@ -64163,11 +64473,11 @@ non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2
 non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,34
-non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,124
-non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,15
-non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,38
-non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,211
+non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,43
+non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,139
+non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,11
+non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,49
+non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,242
 non-sentinel,Luxembourg,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W26,Influenza,Influenza,total,detections,total,2
 non-sentinel,Luxembourg,2026-W26,Influenza,Influenza B,B (unknown),detections,total,2
@@ -64178,11 +64488,11 @@ non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
 non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1
 non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,31
-non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,110
-non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,10
-non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,54
-non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,205
+non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,34
+non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,114
+non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,14
+non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,67
+non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,229
 non-sentinel,Luxembourg,2026-W26,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W25,Influenza,Influenza,total,detections,total,5
 non-sentinel,Luxembourg,2026-W25,Influenza,Influenza A,A (unknown),detections,total,1
@@ -64195,11 +64505,11 @@ non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-1
 non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
 non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,2
 non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,41
-non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,192
-non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,18
-non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,51
-non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,302
+non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,50
+non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,207
+non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,27
+non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,71
+non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,355
 non-sentinel,Luxembourg,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Luxembourg,2026-W24,Influenza,Influenza,total,detections,total,2
 non-sentinel,Luxembourg,2026-W24,Influenza,Influenza A,A (unknown),detections,total,1
@@ -72176,31 +72486,42 @@ non-sentinel,Malta,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,509
 non-sentinel,Malta,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2520
 non-sentinel,Malta,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,11766
 non-sentinel,Malta,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,20
-non-sentinel,Netherlands,2026-W43,Influenza,Influenza,total,detections,total,42
-non-sentinel,Netherlands,2026-W43,Influenza,Influenza A,A (unknown),detections,total,42
-non-sentinel,Netherlands,2026-W43,RSV,RSV,RSV,detections,total,6
-non-sentinel,Netherlands,2026-W43,RSV,RSV untyped,NA,detections,total,6
-non-sentinel,Netherlands,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,116
-non-sentinel,Netherlands,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,116
+non-sentinel,Netherlands,2026-W44,Influenza,Influenza,total,detections,total,53
+non-sentinel,Netherlands,2026-W44,Influenza,Influenza A,A (unknown),detections,total,50
+non-sentinel,Netherlands,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,3
+non-sentinel,Netherlands,2026-W44,RSV,RSV,RSV,detections,total,8
+non-sentinel,Netherlands,2026-W44,RSV,RSV untyped,NA,detections,total,8
+non-sentinel,Netherlands,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,146
+non-sentinel,Netherlands,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,146
+non-sentinel,Netherlands,2026-W43,Influenza,Influenza,total,detections,total,69
+non-sentinel,Netherlands,2026-W43,Influenza,Influenza A,A (unknown),detections,total,67
+non-sentinel,Netherlands,2026-W43,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Netherlands,2026-W43,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Netherlands,2026-W43,RSV,RSV,RSV,detections,total,7
+non-sentinel,Netherlands,2026-W43,RSV,RSV untyped,NA,detections,total,7
+non-sentinel,Netherlands,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,138
+non-sentinel,Netherlands,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,138
 non-sentinel,Netherlands,2026-W42,Influenza,Influenza,total,detections,total,49
-non-sentinel,Netherlands,2026-W42,Influenza,Influenza A,A (unknown),detections,total,43
-non-sentinel,Netherlands,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,1
-non-sentinel,Netherlands,2026-W42,Influenza,Influenza B,B (unknown),detections,total,5
+non-sentinel,Netherlands,2026-W42,Influenza,Influenza A,A (unknown),detections,total,42
+non-sentinel,Netherlands,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,6
+non-sentinel,Netherlands,2026-W42,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Netherlands,2026-W42,RSV,RSV,RSV,detections,total,5
 non-sentinel,Netherlands,2026-W42,RSV,RSV untyped,NA,detections,total,5
-non-sentinel,Netherlands,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,111
-non-sentinel,Netherlands,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,111
+non-sentinel,Netherlands,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,117
+non-sentinel,Netherlands,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,117
 non-sentinel,Netherlands,2026-W41,Influenza,Influenza,total,detections,total,35
-non-sentinel,Netherlands,2026-W41,Influenza,Influenza A,A (unknown),detections,total,32
-non-sentinel,Netherlands,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Netherlands,2026-W41,Influenza,Influenza A,A (unknown),detections,total,23
+non-sentinel,Netherlands,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,10
+non-sentinel,Netherlands,2026-W41,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Netherlands,2026-W41,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Netherlands,2026-W41,RSV,RSV,RSV,detections,total,5
 non-sentinel,Netherlands,2026-W41,RSV,RSV untyped,NA,detections,total,5
-non-sentinel,Netherlands,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,85
-non-sentinel,Netherlands,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,85
+non-sentinel,Netherlands,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,91
+non-sentinel,Netherlands,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,91
 non-sentinel,Netherlands,2026-W40,Influenza,Influenza,total,detections,total,39
-non-sentinel,Netherlands,2026-W40,Influenza,Influenza A,A (unknown),detections,total,36
-non-sentinel,Netherlands,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Netherlands,2026-W40,Influenza,Influenza A,A (unknown),detections,total,31
+non-sentinel,Netherlands,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,5
+non-sentinel,Netherlands,2026-W40,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Netherlands,2026-W40,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Netherlands,2026-W40,RSV,RSV,RSV,detections,total,3
 non-sentinel,Netherlands,2026-W40,RSV,RSV untyped,NA,detections,total,3
@@ -74869,12 +75190,36 @@ non-sentinel,Netherlands,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Netherlands,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Netherlands,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,60360
 non-sentinel,Netherlands,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,60360
-non-sentinel,Norway,2026-W43,Influenza,Influenza,total,detections,total,243
-non-sentinel,Norway,2026-W43,Influenza,Influenza,total,tests,total,5990
-non-sentinel,Norway,2026-W43,Influenza,Influenza A,A (unknown),detections,total,230
-non-sentinel,Norway,2026-W43,Influenza,Influenza B,B (unknown),detections,total,13
+non-sentinel,Norway,2026-W44,Influenza,Influenza,total,detections,total,347
+non-sentinel,Norway,2026-W44,Influenza,Influenza,total,tests,total,6187
+non-sentinel,Norway,2026-W44,Influenza,Influenza A,A (unknown),detections,total,319
+non-sentinel,Norway,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,7
+non-sentinel,Norway,2026-W44,Influenza,Influenza B,B (unknown),detections,total,20
+non-sentinel,Norway,2026-W44,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Norway,2026-W44,RSV,RSV,RSV,detections,total,13
+non-sentinel,Norway,2026-W44,RSV,RSV,RSV,tests,total,5946
+non-sentinel,Norway,2026-W44,RSV,RSV untyped,NA,detections,total,13
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,8
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,148
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,104
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,260
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,461
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3287
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,212
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2212
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6172
+non-sentinel,Norway,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Norway,2026-W43,Influenza,Influenza,total,detections,total,249
+non-sentinel,Norway,2026-W43,Influenza,Influenza,total,tests,total,6030
+non-sentinel,Norway,2026-W43,Influenza,Influenza A,A (unknown),detections,total,176
+non-sentinel,Norway,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,56
+non-sentinel,Norway,2026-W43,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Norway,2026-W43,Influenza,Influenza B,B (unknown),detections,total,5
+non-sentinel,Norway,2026-W43,Influenza,Influenza B,B/Vic,detections,total,8
 non-sentinel,Norway,2026-W43,RSV,RSV,RSV,detections,total,6
-non-sentinel,Norway,2026-W43,RSV,RSV,RSV,tests,total,5778
+non-sentinel,Norway,2026-W43,RSV,RSV,RSV,tests,total,5820
 non-sentinel,Norway,2026-W43,RSV,RSV untyped,NA,detections,total,6
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,129
@@ -74882,86 +75227,88 @@ non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,92
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,232
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,445
-non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3155
-non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,228
-non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2142
-non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5970
+non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,447
+non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3183
+non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,229
+non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2153
+non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,6012
 non-sentinel,Norway,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W42,Influenza,Influenza,total,detections,total,188
-non-sentinel,Norway,2026-W42,Influenza,Influenza,total,tests,total,5862
-non-sentinel,Norway,2026-W42,Influenza,Influenza A,A (unknown),detections,total,182
-non-sentinel,Norway,2026-W42,Influenza,Influenza B,B (unknown),detections,total,6
+non-sentinel,Norway,2026-W42,Influenza,Influenza,total,detections,total,174
+non-sentinel,Norway,2026-W42,Influenza,Influenza,total,tests,total,5860
+non-sentinel,Norway,2026-W42,Influenza,Influenza A,A (unknown),detections,total,104
+non-sentinel,Norway,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,59
+non-sentinel,Norway,2026-W42,Influenza,Influenza A,A(H3),detections,total,5
+non-sentinel,Norway,2026-W42,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Norway,2026-W42,Influenza,Influenza B,B/Vic,detections,total,2
 non-sentinel,Norway,2026-W42,RSV,RSV,RSV,detections,total,4
-non-sentinel,Norway,2026-W42,RSV,RSV,RSV,tests,total,5685
+non-sentinel,Norway,2026-W42,RSV,RSV,RSV,tests,total,5683
 non-sentinel,Norway,2026-W42,RSV,RSV untyped,NA,detections,total,4
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
-non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,96
+non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,97
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,2
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,63
-non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,167
+non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,168
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,445
-non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3214
+non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3217
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,181
-non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2001
+non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1998
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5841
 non-sentinel,Norway,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W41,Influenza,Influenza,total,detections,total,209
-non-sentinel,Norway,2026-W41,Influenza,Influenza,total,tests,total,5687
-non-sentinel,Norway,2026-W41,Influenza,Influenza A,A (unknown),detections,total,183
-non-sentinel,Norway,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,18
-non-sentinel,Norway,2026-W41,Influenza,Influenza A,A(H3),detections,total,3
+non-sentinel,Norway,2026-W41,Influenza,Influenza,total,detections,total,162
+non-sentinel,Norway,2026-W41,Influenza,Influenza,total,tests,total,5683
+non-sentinel,Norway,2026-W41,Influenza,Influenza A,A (unknown),detections,total,87
+non-sentinel,Norway,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,60
+non-sentinel,Norway,2026-W41,Influenza,Influenza A,A(H3),detections,total,10
 non-sentinel,Norway,2026-W41,Influenza,Influenza B,B (unknown),detections,total,5
 non-sentinel,Norway,2026-W41,RSV,RSV,RSV,detections,total,6
-non-sentinel,Norway,2026-W41,RSV,RSV,RSV,tests,total,5500
+non-sentinel,Norway,2026-W41,RSV,RSV,RSV,tests,total,5495
 non-sentinel,Norway,2026-W41,RSV,RSV untyped,NA,detections,total,4
 non-sentinel,Norway,2026-W41,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Norway,2026-W41,RSV,RSV-B,NA,detections,total,1
-non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
+non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,7
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,81
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,64
-non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,152
+non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,153
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,468
-non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3051
+non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3048
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,155
-non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2009
-non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5683
+non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2008
+non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5679
 non-sentinel,Norway,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W40,Influenza,Influenza,total,detections,total,183
-non-sentinel,Norway,2026-W40,Influenza,Influenza,total,tests,total,5600
-non-sentinel,Norway,2026-W40,Influenza,Influenza A,A (unknown),detections,total,136
-non-sentinel,Norway,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,35
-non-sentinel,Norway,2026-W40,Influenza,Influenza A,A(H3),detections,total,9
-non-sentinel,Norway,2026-W40,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Norway,2026-W40,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Norway,2026-W40,Influenza,Influenza,total,detections,total,140
+non-sentinel,Norway,2026-W40,Influenza,Influenza,total,tests,total,5598
+non-sentinel,Norway,2026-W40,Influenza,Influenza A,A (unknown),detections,total,82
+non-sentinel,Norway,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,45
+non-sentinel,Norway,2026-W40,Influenza,Influenza A,A(H3),detections,total,10
+non-sentinel,Norway,2026-W40,Influenza,Influenza B,B/Vic,detections,total,3
 non-sentinel,Norway,2026-W40,RSV,RSV,RSV,detections,total,7
-non-sentinel,Norway,2026-W40,RSV,RSV,RSV,tests,total,5475
+non-sentinel,Norway,2026-W40,RSV,RSV,RSV,tests,total,5472
 non-sentinel,Norway,2026-W40,RSV,RSV untyped,NA,detections,total,1
 non-sentinel,Norway,2026-W40,RSV,RSV-A,NA,detections,total,2
 non-sentinel,Norway,2026-W40,RSV,RSV-B,NA,detections,total,4
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
-non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,55
+non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,54
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
-non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,68
+non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,69
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,127
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,435
-non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3054
+non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3052
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,183
-non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1918
-non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5590
+non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1917
+non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5587
 non-sentinel,Norway,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W39,Influenza,Influenza,total,detections,total,151
-non-sentinel,Norway,2026-W39,Influenza,Influenza,total,tests,total,5644
-non-sentinel,Norway,2026-W39,Influenza,Influenza A,A (unknown),detections,total,98
-non-sentinel,Norway,2026-W39,Influenza,Influenza A,A(H1)pdm09,detections,total,34
+non-sentinel,Norway,2026-W39,Influenza,Influenza,total,detections,total,116
+non-sentinel,Norway,2026-W39,Influenza,Influenza,total,tests,total,5642
+non-sentinel,Norway,2026-W39,Influenza,Influenza A,A (unknown),detections,total,62
+non-sentinel,Norway,2026-W39,Influenza,Influenza A,A(H1)pdm09,detections,total,35
 non-sentinel,Norway,2026-W39,Influenza,Influenza A,A(H3),detections,total,15
 non-sentinel,Norway,2026-W39,Influenza,Influenza B,B/Vic,detections,total,4
 non-sentinel,Norway,2026-W39,RSV,RSV,RSV,detections,total,3
-non-sentinel,Norway,2026-W39,RSV,RSV,RSV,tests,total,5528
+non-sentinel,Norway,2026-W39,RSV,RSV,RSV,tests,total,5529
 non-sentinel,Norway,2026-W39,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Norway,2026-W39,RSV,RSV-B,NA,detections,total,2
 non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,6
@@ -74973,18 +75320,18 @@ non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,408
 non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3139
 non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,189
-non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1908
-non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5644
+non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1909
+non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5645
 non-sentinel,Norway,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W38,Influenza,Influenza,total,detections,total,167
-non-sentinel,Norway,2026-W38,Influenza,Influenza,total,tests,total,5453
-non-sentinel,Norway,2026-W38,Influenza,Influenza A,A (unknown),detections,total,112
+non-sentinel,Norway,2026-W38,Influenza,Influenza,total,detections,total,123
+non-sentinel,Norway,2026-W38,Influenza,Influenza,total,tests,total,5450
+non-sentinel,Norway,2026-W38,Influenza,Influenza A,A (unknown),detections,total,68
 non-sentinel,Norway,2026-W38,Influenza,Influenza A,A(H1)pdm09,detections,total,40
 non-sentinel,Norway,2026-W38,Influenza,Influenza A,A(H3),detections,total,11
 non-sentinel,Norway,2026-W38,Influenza,Influenza B,B (unknown),detections,total,3
 non-sentinel,Norway,2026-W38,Influenza,Influenza B,B/Vic,detections,total,1
 non-sentinel,Norway,2026-W38,RSV,RSV,RSV,detections,total,6
-non-sentinel,Norway,2026-W38,RSV,RSV,RSV,tests,total,5325
+non-sentinel,Norway,2026-W38,RSV,RSV,RSV,tests,total,5321
 non-sentinel,Norway,2026-W38,RSV,RSV untyped,NA,detections,total,2
 non-sentinel,Norway,2026-W38,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Norway,2026-W38,RSV,RSV-B,NA,detections,total,3
@@ -74995,43 +75342,43 @@ non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,37
 non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,88
 non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,371
-non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3012
+non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3010
 non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,240
-non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1829
-non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5452
+non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1828
+non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5449
 non-sentinel,Norway,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W37,Influenza,Influenza,total,detections,total,118
-non-sentinel,Norway,2026-W37,Influenza,Influenza,total,tests,total,5204
-non-sentinel,Norway,2026-W37,Influenza,Influenza A,A (unknown),detections,total,75
+non-sentinel,Norway,2026-W37,Influenza,Influenza,total,detections,total,90
+non-sentinel,Norway,2026-W37,Influenza,Influenza,total,tests,total,5203
+non-sentinel,Norway,2026-W37,Influenza,Influenza A,A (unknown),detections,total,47
 non-sentinel,Norway,2026-W37,Influenza,Influenza A,A(H1)pdm09,detections,total,18
 non-sentinel,Norway,2026-W37,Influenza,Influenza A,A(H3),detections,total,19
 non-sentinel,Norway,2026-W37,Influenza,Influenza B,B (unknown),detections,total,5
 non-sentinel,Norway,2026-W37,Influenza,Influenza B,B/Vic,detections,total,1
 non-sentinel,Norway,2026-W37,RSV,RSV,RSV,detections,total,8
-non-sentinel,Norway,2026-W37,RSV,RSV,RSV,tests,total,5083
+non-sentinel,Norway,2026-W37,RSV,RSV,RSV,tests,total,5082
 non-sentinel,Norway,2026-W37,RSV,RSV untyped,NA,detections,total,5
 non-sentinel,Norway,2026-W37,RSV,RSV-A,NA,detections,total,2
 non-sentinel,Norway,2026-W37,RSV,RSV-B,NA,detections,total,1
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,1
-non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,68
+non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,67
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,32
-non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,101
+non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,100
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,332
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2962
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,209
-non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1704
-non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5207
+non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1703
+non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,5206
 non-sentinel,Norway,2026-W37,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W36,Influenza,Influenza,total,detections,total,124
-non-sentinel,Norway,2026-W36,Influenza,Influenza,total,tests,total,4957
-non-sentinel,Norway,2026-W36,Influenza,Influenza A,A (unknown),detections,total,83
+non-sentinel,Norway,2026-W36,Influenza,Influenza,total,detections,total,93
+non-sentinel,Norway,2026-W36,Influenza,Influenza,total,tests,total,4956
+non-sentinel,Norway,2026-W36,Influenza,Influenza A,A (unknown),detections,total,52
 non-sentinel,Norway,2026-W36,Influenza,Influenza A,A(H1)pdm09,detections,total,19
 non-sentinel,Norway,2026-W36,Influenza,Influenza A,A(H3),detections,total,18
 non-sentinel,Norway,2026-W36,Influenza,Influenza B,B/Vic,detections,total,4
 non-sentinel,Norway,2026-W36,RSV,RSV,RSV,detections,total,4
-non-sentinel,Norway,2026-W36,RSV,RSV,RSV,tests,total,4853
+non-sentinel,Norway,2026-W36,RSV,RSV,RSV,tests,total,4852
 non-sentinel,Norway,2026-W36,RSV,RSV untyped,NA,detections,total,3
 non-sentinel,Norway,2026-W36,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,8
@@ -75043,17 +75390,17 @@ non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,293
 non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,2808
 non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,205
-non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1649
-non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4955
+non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1648
+non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,4954
 non-sentinel,Norway,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
-non-sentinel,Norway,2026-W35,Influenza,Influenza,total,detections,total,155
-non-sentinel,Norway,2026-W35,Influenza,Influenza,total,tests,total,4821
-non-sentinel,Norway,2026-W35,Influenza,Influenza A,A (unknown),detections,total,115
+non-sentinel,Norway,2026-W35,Influenza,Influenza,total,detections,total,128
+non-sentinel,Norway,2026-W35,Influenza,Influenza,total,tests,total,4820
+non-sentinel,Norway,2026-W35,Influenza,Influenza A,A (unknown),detections,total,88
 non-sentinel,Norway,2026-W35,Influenza,Influenza A,A(H1)pdm09,detections,total,16
 non-sentinel,Norway,2026-W35,Influenza,Influenza A,A(H3),detections,total,23
 non-sentinel,Norway,2026-W35,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Norway,2026-W35,RSV,RSV,RSV,detections,total,4
-non-sentinel,Norway,2026-W35,RSV,RSV,RSV,tests,total,4704
+non-sentinel,Norway,2026-W35,RSV,RSV,RSV,tests,total,4703
 non-sentinel,Norway,2026-W35,RSV,RSV untyped,NA,detections,total,3
 non-sentinel,Norway,2026-W35,RSV,RSV-A,NA,detections,total,1
 non-sentinel,Norway,2026-W35,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,8
@@ -79598,39 +79945,58 @@ non-sentinel,Norway,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,2025
 non-sentinel,Norway,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,4255
 non-sentinel,Norway,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,17560
 non-sentinel,Norway,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,1
+non-sentinel,Poland,2026-W44,Influenza,Influenza,total,detections,total,4
+non-sentinel,Poland,2026-W44,Influenza,Influenza,total,tests,total,143
+non-sentinel,Poland,2026-W44,Influenza,Influenza A,A (unknown),detections,total,1
+non-sentinel,Poland,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,2
+non-sentinel,Poland,2026-W44,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Poland,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Poland,2026-W44,RSV,RSV,RSV,tests,total,0
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,26
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,178
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,9
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,72
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,285
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,412
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1462
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,317
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,560
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2751
+non-sentinel,Poland,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W43,Influenza,Influenza,total,detections,total,1
 non-sentinel,Poland,2026-W43,Influenza,Influenza,total,tests,total,104
 non-sentinel,Poland,2026-W43,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Poland,2026-W43,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W43,RSV,RSV,RSV,tests,total,0
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,18
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,154
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,19
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,160
 non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,14
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,45
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,231
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,53
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,246
 non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,375
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1626
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,307
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,487
-non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2795
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,413
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1717
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,336
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,544
+non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3010
 non-sentinel,Poland,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W42,Influenza,Influenza,total,detections,total,1
 non-sentinel,Poland,2026-W42,Influenza,Influenza,total,tests,total,95
 non-sentinel,Poland,2026-W42,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Poland,2026-W42,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W42,RSV,RSV,RSV,tests,total,0
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,22
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,109
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,23
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,110
 non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,8
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,61
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,200
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,62
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,203
 non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,456
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1690
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,277
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,540
-non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2963
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,461
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1696
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,278
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,542
+non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2977
 non-sentinel,Poland,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W41,Influenza,Influenza,total,detections,total,1
 non-sentinel,Poland,2026-W41,Influenza,Influenza,total,tests,total,96
@@ -79643,11 +80009,11 @@ non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
 non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,42
 non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,193
 non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,413
-non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1843
+non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,414
+non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1849
 non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,305
-non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,560
-non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3121
+non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,561
+non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3129
 non-sentinel,Poland,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W40,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W40,Influenza,Influenza,total,tests,total,100
@@ -79660,26 +80026,26 @@ non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,61
 non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,213
 non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,439
-non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1830
-non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,336
+non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1836
+non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,337
 non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,548
-non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3153
+non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3160
 non-sentinel,Poland,2026-W40,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W39,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W39,Influenza,Influenza,total,tests,total,82
 non-sentinel,Poland,2026-W39,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W39,RSV,RSV,RSV,tests,total,2
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,15
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,134
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,135
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,6
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,29
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,184
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,185
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,419
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1910
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,421
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1918
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,322
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,464
-non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3115
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,466
+non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3127
 non-sentinel,Poland,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W38,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W38,Influenza,Influenza,total,tests,total,84
@@ -79691,11 +80057,11 @@ non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,12
 non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,15
 non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,123
 non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,397
-non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1447
-non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,387
-non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,341
-non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2572
+non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,401
+non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1452
+non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,392
+non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,342
+non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2587
 non-sentinel,Poland,2026-W38,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W37,Influenza,Influenza,total,detections,total,1
 non-sentinel,Poland,2026-W37,Influenza,Influenza,total,tests,total,154
@@ -79725,11 +80091,11 @@ non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,13
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,71
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,171
+non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,172
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,626
-non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,89
+non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,90
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,197
-non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1083
+non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1085
 non-sentinel,Poland,2026-W36,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W35,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W35,Influenza,Influenza,total,tests,total,0
@@ -79784,8 +80150,8 @@ non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,99
 non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,349
 non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,62
-non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,165
-non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,675
+non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,166
+non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,676
 non-sentinel,Poland,2026-W32,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
 non-sentinel,Poland,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,11
@@ -79847,17 +80213,17 @@ non-sentinel,Poland,2026-W27,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W27,Influenza,Influenza,total,tests,total,89
 non-sentinel,Poland,2026-W27,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W27,RSV,RSV,RSV,tests,total,1
-non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
+non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,3
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,6
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,0
-non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,9
+non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,10
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,183
+non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,184
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,361
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,89
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,236
-non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,869
+non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,870
 non-sentinel,Poland,2026-W27,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W26,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W26,Influenza,Influenza,total,tests,total,175
@@ -79886,10 +80252,10 @@ non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,4
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,246
-non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,565
+non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,566
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,106
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,287
-non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1204
+non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1205
 non-sentinel,Poland,2026-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W24,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W24,Influenza,Influenza,total,tests,total,0
@@ -79912,16 +80278,16 @@ non-sentinel,Poland,2026-W23,Influenza,Influenza,total,tests,total,0
 non-sentinel,Poland,2026-W23,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W23,RSV,RSV,RSV,tests,total,0
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,4
-non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,10
+non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,11
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,1
-non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,16
+non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,17
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,287
-non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,540
+non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,288
+non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,542
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,132
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,312
-non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1271
+non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1274
 non-sentinel,Poland,2026-W23,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W22,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W22,Influenza,Influenza,total,tests,total,93
@@ -79950,10 +80316,10 @@ non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,7
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,27
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,464
-non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,875
+non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,876
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,180
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,407
-non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1926
+non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,1927
 non-sentinel,Poland,2026-W21,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W20,Influenza,Influenza,total,detections,total,1
 non-sentinel,Poland,2026-W20,Influenza,Influenza,total,tests,total,104
@@ -79982,11 +80348,11 @@ non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,7
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,49
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,641
-non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1174
+non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,643
+non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1176
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,359
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,538
-non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2712
+non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2716
 non-sentinel,Poland,2026-W19,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W18,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W18,Influenza,Influenza,total,tests,total,0
@@ -80008,17 +80374,17 @@ non-sentinel,Poland,2026-W17,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W17,Influenza,Influenza,total,tests,total,207
 non-sentinel,Poland,2026-W17,RSV,RSV,RSV,detections,total,0
 non-sentinel,Poland,2026-W17,RSV,RSV,RSV,tests,total,0
-non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,37
+non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,38
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,24
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,3
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,16
-non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,80
+non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,81
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,949
-non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1509
+non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,951
+non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1510
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,487
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,693
-non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3638
+non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3641
 non-sentinel,Poland,2026-W17,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2026-W16,Influenza,Influenza,total,detections,total,0
 non-sentinel,Poland,2026-W16,Influenza,Influenza,total,tests,total,0
@@ -80217,9 +80583,9 @@ non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1
 non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
 non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,3135
 non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,9447
-non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,3690
+non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,3691
 non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2664
-non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,18939
+non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,18940
 non-sentinel,Poland,2026-W06,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,3
 non-sentinel,Poland,2026-W05,Influenza,Influenza,total,detections,total,54
 non-sentinel,Poland,2026-W05,Influenza,Influenza,total,tests,total,200
@@ -80384,10 +80750,10 @@ non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,384
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,1515
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,951
-non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3754
+non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,3755
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,1069
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1390
-non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7164
+non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,7165
 non-sentinel,Poland,2025-W49,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Poland,2025-W48,Influenza,Influenza,total,detections,total,6
 non-sentinel,Poland,2025-W48,Influenza,Influenza,total,tests,total,89
@@ -83059,26 +83425,47 @@ non-sentinel,Poland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Poland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Poland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,24798
 non-sentinel,Poland,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,24798
+non-sentinel,Portugal,2026-W44,Influenza,Influenza,total,detections,total,48
+non-sentinel,Portugal,2026-W44,Influenza,Influenza,total,tests,total,2306
+non-sentinel,Portugal,2026-W44,Influenza,Influenza A,A (unknown),detections,total,24
+non-sentinel,Portugal,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,21
+non-sentinel,Portugal,2026-W44,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Portugal,2026-W44,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Portugal,2026-W44,RSV,RSV,RSV,detections,total,5
+non-sentinel,Portugal,2026-W44,RSV,RSV,RSV,tests,total,2298
+non-sentinel,Portugal,2026-W44,RSV,RSV untyped,NA,detections,total,5
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,17
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,26
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,64
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,108
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,178
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,586
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,38
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1087
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2133
+non-sentinel,Portugal,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,244
 non-sentinel,Portugal,2026-W43,Influenza,Influenza,total,detections,total,55
-non-sentinel,Portugal,2026-W43,Influenza,Influenza,total,tests,total,2646
+non-sentinel,Portugal,2026-W43,Influenza,Influenza,total,tests,total,2650
 non-sentinel,Portugal,2026-W43,Influenza,Influenza A,A (unknown),detections,total,40
 non-sentinel,Portugal,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,14
 non-sentinel,Portugal,2026-W43,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Portugal,2026-W43,RSV,RSV,RSV,detections,total,8
-non-sentinel,Portugal,2026-W43,RSV,RSV,RSV,tests,total,2634
+non-sentinel,Portugal,2026-W43,RSV,RSV,RSV,tests,total,2638
 non-sentinel,Portugal,2026-W43,RSV,RSV untyped,NA,detections,total,7
 non-sentinel,Portugal,2026-W43,RSV,RSV-B,NA,detections,total,1
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,15
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,33
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
-non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,80
-non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,152
+non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,81
+non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,153
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,24
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,143
-non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,657
+non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,658
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,52
-non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1079
-non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2314
+non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1082
+non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,2318
 non-sentinel,Portugal,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,383
 non-sentinel,Portugal,2026-W42,Influenza,Influenza,total,detections,total,47
 non-sentinel,Portugal,2026-W42,Influenza,Influenza,total,tests,total,2981
@@ -87090,6 +87477,25 @@ non-sentinel,Portugal,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,8619
 non-sentinel,Portugal,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,48474
 non-sentinel,Portugal,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,165989
 non-sentinel,Portugal,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,674
+non-sentinel,Romania,2026-W44,Influenza,Influenza,total,detections,total,3
+non-sentinel,Romania,2026-W44,Influenza,Influenza,total,tests,total,58
+non-sentinel,Romania,2026-W44,Influenza,Influenza A,A (unknown),detections,total,2
+non-sentinel,Romania,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,1
+non-sentinel,Romania,2026-W44,RSV,RSV,RSV,detections,total,1
+non-sentinel,Romania,2026-W44,RSV,RSV,RSV,tests,total,58
+non-sentinel,Romania,2026-W44,RSV,RSV untyped,NA,detections,total,1
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,34
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,86
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,78
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,202
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,647
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1359
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,169
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,830
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3012
+non-sentinel,Romania,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,7
 non-sentinel,Romania,2026-W43,Influenza,Influenza,total,detections,total,6
 non-sentinel,Romania,2026-W43,Influenza,Influenza,total,tests,total,61
 non-sentinel,Romania,2026-W43,Influenza,Influenza A,A (unknown),detections,total,2
@@ -90342,43 +90748,62 @@ non-sentinel,Romania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,3378
 non-sentinel,Romania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,19108
 non-sentinel,Romania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,70989
 non-sentinel,Romania,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,402
-non-sentinel,Slovakia,2026-W43,Influenza,Influenza,total,detections,total,10
-non-sentinel,Slovakia,2026-W43,Influenza,Influenza,total,tests,total,18
-non-sentinel,Slovakia,2026-W43,Influenza,Influenza A,A (unknown),detections,total,6
-non-sentinel,Slovakia,2026-W43,Influenza,Influenza B,B (unknown),detections,total,4
-non-sentinel,Slovakia,2026-W43,RSV,RSV,RSV,detections,total,15
-non-sentinel,Slovakia,2026-W43,RSV,RSV,RSV,tests,total,21
-non-sentinel,Slovakia,2026-W43,RSV,RSV untyped,NA,detections,total,15
+non-sentinel,Slovakia,2026-W44,Influenza,Influenza,total,detections,total,20
+non-sentinel,Slovakia,2026-W44,Influenza,Influenza,total,tests,total,32
+non-sentinel,Slovakia,2026-W44,Influenza,Influenza A,A (unknown),detections,total,16
+non-sentinel,Slovakia,2026-W44,Influenza,Influenza B,B (unknown),detections,total,4
+non-sentinel,Slovakia,2026-W44,RSV,RSV,RSV,detections,total,5
+non-sentinel,Slovakia,2026-W44,RSV,RSV,RSV,tests,total,15
+non-sentinel,Slovakia,2026-W44,RSV,RSV untyped,NA,detections,total,5
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,13
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,25
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,21
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,64
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,39
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,90
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,16
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,107
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,252
+non-sentinel,Slovakia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
+non-sentinel,Slovakia,2026-W43,Influenza,Influenza,total,detections,total,13
+non-sentinel,Slovakia,2026-W43,Influenza,Influenza,total,tests,total,38
+non-sentinel,Slovakia,2026-W43,Influenza,Influenza A,A (unknown),detections,total,7
+non-sentinel,Slovakia,2026-W43,Influenza,Influenza B,B (unknown),detections,total,6
+non-sentinel,Slovakia,2026-W43,RSV,RSV,RSV,detections,total,16
+non-sentinel,Slovakia,2026-W43,RSV,RSV,RSV,tests,total,34
+non-sentinel,Slovakia,2026-W43,RSV,RSV untyped,NA,detections,total,16
 non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,13
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,14
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,5
 non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,25
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,52
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,54
 non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,31
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,36
 non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,89
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,18
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,115
-non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,253
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,21
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,118
+non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,264
 non-sentinel,Slovakia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Slovakia,2026-W42,Influenza,Influenza,total,detections,total,9
-non-sentinel,Slovakia,2026-W42,Influenza,Influenza,total,tests,total,24
+non-sentinel,Slovakia,2026-W42,Influenza,Influenza,total,tests,total,26
 non-sentinel,Slovakia,2026-W42,Influenza,Influenza A,A (unknown),detections,total,8
 non-sentinel,Slovakia,2026-W42,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Slovakia,2026-W42,RSV,RSV,RSV,detections,total,12
 non-sentinel,Slovakia,2026-W42,RSV,RSV,RSV,tests,total,19
 non-sentinel,Slovakia,2026-W42,RSV,RSV untyped,NA,detections,total,12
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,10
 non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,25
 non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,6
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,20
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,60
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,21
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,62
 non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,27
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,144
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,28
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,145
 non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,20
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,91
-non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,282
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,92
+non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,285
 non-sentinel,Slovakia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Slovakia,2026-W41,RSV,RSV,RSV,detections,total,1
 non-sentinel,Slovakia,2026-W41,RSV,RSV,RSV,tests,total,1
@@ -90421,16 +90846,16 @@ non-sentinel,Slovakia,2026-W39,RSV,RSV,RSV,detections,total,10
 non-sentinel,Slovakia,2026-W39,RSV,RSV,RSV,tests,total,20
 non-sentinel,Slovakia,2026-W39,RSV,RSV untyped,NA,detections,total,10
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
-non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,19
+non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,18
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,4
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,6
-non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,34
+non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,33
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,17
-non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,64
+non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,63
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,20
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,63
-non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,164
+non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,163
 non-sentinel,Slovakia,2026-W39,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Slovakia,2026-W38,Influenza,Influenza,total,detections,total,4
 non-sentinel,Slovakia,2026-W38,Influenza,Influenza,total,tests,total,9
@@ -90577,9 +91002,9 @@ non-sentinel,Slovakia,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,135
 non-sentinel,Slovakia,2026-W31,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,0
 non-sentinel,Slovakia,2026-W30,Influenza,Influenza,total,detections,total,0
 non-sentinel,Slovakia,2026-W30,Influenza,Influenza,total,tests,total,8
-non-sentinel,Slovakia,2026-W30,RSV,RSV,RSV,detections,total,4
-non-sentinel,Slovakia,2026-W30,RSV,RSV,RSV,tests,total,8
-non-sentinel,Slovakia,2026-W30,RSV,RSV untyped,NA,detections,total,4
+non-sentinel,Slovakia,2026-W30,RSV,RSV,RSV,detections,total,5
+non-sentinel,Slovakia,2026-W30,RSV,RSV,RSV,tests,total,9
+non-sentinel,Slovakia,2026-W30,RSV,RSV untyped,NA,detections,total,5
 non-sentinel,Slovakia,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Slovakia,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1
 non-sentinel,Slovakia,2026-W30,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
@@ -94331,51 +94756,69 @@ non-sentinel,Slovakia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,251
 non-sentinel,Slovakia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,1926
 non-sentinel,Slovakia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,17448
 non-sentinel,Slovakia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,10396
+non-sentinel,Slovenia,2026-W44,Influenza,Influenza,total,detections,total,15
+non-sentinel,Slovenia,2026-W44,Influenza,Influenza,total,tests,total,782
+non-sentinel,Slovenia,2026-W44,Influenza,Influenza A,A (unknown),detections,total,4
+non-sentinel,Slovenia,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,11
+non-sentinel,Slovenia,2026-W44,RSV,RSV,RSV,detections,total,0
+non-sentinel,Slovenia,2026-W44,RSV,RSV,RSV,tests,total,782
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,2
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,1
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,10
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,13
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,80
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,195
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,23
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,469
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,834
+non-sentinel,Slovenia,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,67
 non-sentinel,Slovenia,2026-W43,Influenza,Influenza,total,detections,total,11
-non-sentinel,Slovenia,2026-W43,Influenza,Influenza,total,tests,total,809
+non-sentinel,Slovenia,2026-W43,Influenza,Influenza,total,tests,total,810
 non-sentinel,Slovenia,2026-W43,Influenza,Influenza A,A (unknown),detections,total,2
 non-sentinel,Slovenia,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,9
 non-sentinel,Slovenia,2026-W43,RSV,RSV,RSV,detections,total,0
-non-sentinel,Slovenia,2026-W43,RSV,RSV,RSV,tests,total,809
+non-sentinel,Slovenia,2026-W43,RSV,RSV,RSV,tests,total,810
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,7
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,5
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,13
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
-non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,95
+non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,96
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,225
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,31
 non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,438
-non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,897
-non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,108
+non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,900
+non-sentinel,Slovenia,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,110
 non-sentinel,Slovenia,2026-W42,Influenza,Influenza,total,detections,total,5
-non-sentinel,Slovenia,2026-W42,Influenza,Influenza,total,tests,total,855
+non-sentinel,Slovenia,2026-W42,Influenza,Influenza,total,tests,total,856
 non-sentinel,Slovenia,2026-W42,Influenza,Influenza A,A (unknown),detections,total,1
 non-sentinel,Slovenia,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,3
 non-sentinel,Slovenia,2026-W42,Influenza,Influenza A,A(H3),detections,total,1
 non-sentinel,Slovenia,2026-W42,RSV,RSV,RSV,detections,total,0
-non-sentinel,Slovenia,2026-W42,RSV,RSV,RSV,tests,total,855
+non-sentinel,Slovenia,2026-W42,RSV,RSV,RSV,tests,total,856
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
-non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,7
+non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,8
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,15
-non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,25
+non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,26
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,3
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,101
-non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,235
+non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,236
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,32
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,465
-non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,942
+non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,943
 non-sentinel,Slovenia,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,109
 non-sentinel,Slovenia,2026-W41,Influenza,Influenza,total,detections,total,7
-non-sentinel,Slovenia,2026-W41,Influenza,Influenza,total,tests,total,867
+non-sentinel,Slovenia,2026-W41,Influenza,Influenza,total,tests,total,868
 non-sentinel,Slovenia,2026-W41,Influenza,Influenza A,A (unknown),detections,total,3
 non-sentinel,Slovenia,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,1
 non-sentinel,Slovenia,2026-W41,Influenza,Influenza A,A(H3),detections,total,2
 non-sentinel,Slovenia,2026-W41,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Slovenia,2026-W41,RSV,RSV,RSV,detections,total,0
-non-sentinel,Slovenia,2026-W41,RSV,RSV,RSV,tests,total,867
+non-sentinel,Slovenia,2026-W41,RSV,RSV,RSV,tests,total,868
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,0
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,4
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
@@ -94383,11 +94826,11 @@ non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,7
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,12
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,1
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,80
-non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,261
+non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,262
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,38
 non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,439
-non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,922
-non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,104
+non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,925
+non-sentinel,Slovenia,2026-W41,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,106
 non-sentinel,Slovenia,2026-W40,Influenza,Influenza,total,detections,total,4
 non-sentinel,Slovenia,2026-W40,Influenza,Influenza,total,tests,total,734
 non-sentinel,Slovenia,2026-W40,Influenza,Influenza A,A (unknown),detections,total,1
@@ -98699,20 +99142,29 @@ non-sentinel,Slovenia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,0
 non-sentinel,Slovenia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,0
 non-sentinel,Slovenia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,25508
 non-sentinel,Slovenia,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,25508
-non-sentinel,Spain,2026-W43,Influenza,Influenza,total,detections,total,60
-non-sentinel,Spain,2026-W43,Influenza,Influenza,total,tests,total,3180
-non-sentinel,Spain,2026-W43,Influenza,Influenza A,A (unknown),detections,total,20
-non-sentinel,Spain,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,22
-non-sentinel,Spain,2026-W43,Influenza,Influenza A,A(H3),detections,total,6
-non-sentinel,Spain,2026-W43,Influenza,Influenza B,B (unknown),detections,total,12
-non-sentinel,Spain,2026-W43,RSV,RSV,RSV,detections,total,4
-non-sentinel,Spain,2026-W43,RSV,RSV,RSV,tests,total,3031
-non-sentinel,Spain,2026-W43,RSV,RSV untyped,NA,detections,total,4
-non-sentinel,Spain,2026-W42,Influenza,Influenza,total,detections,total,91
+non-sentinel,Spain,2026-W44,Influenza,Influenza,total,detections,total,72
+non-sentinel,Spain,2026-W44,Influenza,Influenza,total,tests,total,2874
+non-sentinel,Spain,2026-W44,Influenza,Influenza A,A (unknown),detections,total,30
+non-sentinel,Spain,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,23
+non-sentinel,Spain,2026-W44,Influenza,Influenza A,A(H3),detections,total,4
+non-sentinel,Spain,2026-W44,Influenza,Influenza B,B (unknown),detections,total,15
+non-sentinel,Spain,2026-W44,RSV,RSV,RSV,detections,total,10
+non-sentinel,Spain,2026-W44,RSV,RSV,RSV,tests,total,2719
+non-sentinel,Spain,2026-W44,RSV,RSV untyped,NA,detections,total,10
+non-sentinel,Spain,2026-W43,Influenza,Influenza,total,detections,total,78
+non-sentinel,Spain,2026-W43,Influenza,Influenza,total,tests,total,3495
+non-sentinel,Spain,2026-W43,Influenza,Influenza A,A (unknown),detections,total,23
+non-sentinel,Spain,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,27
+non-sentinel,Spain,2026-W43,Influenza,Influenza A,A(H3),detections,total,12
+non-sentinel,Spain,2026-W43,Influenza,Influenza B,B (unknown),detections,total,16
+non-sentinel,Spain,2026-W43,RSV,RSV,RSV,detections,total,5
+non-sentinel,Spain,2026-W43,RSV,RSV,RSV,tests,total,3342
+non-sentinel,Spain,2026-W43,RSV,RSV untyped,NA,detections,total,5
+non-sentinel,Spain,2026-W42,Influenza,Influenza,total,detections,total,96
 non-sentinel,Spain,2026-W42,Influenza,Influenza,total,tests,total,4485
-non-sentinel,Spain,2026-W42,Influenza,Influenza A,A (unknown),detections,total,36
-non-sentinel,Spain,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,27
-non-sentinel,Spain,2026-W42,Influenza,Influenza A,A(H3),detections,total,13
+non-sentinel,Spain,2026-W42,Influenza,Influenza A,A (unknown),detections,total,37
+non-sentinel,Spain,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,29
+non-sentinel,Spain,2026-W42,Influenza,Influenza A,A(H3),detections,total,15
 non-sentinel,Spain,2026-W42,Influenza,Influenza B,B (unknown),detections,total,15
 non-sentinel,Spain,2026-W42,RSV,RSV,RSV,detections,total,4
 non-sentinel,Spain,2026-W42,RSV,RSV,RSV,tests,total,4319
@@ -98726,10 +99178,10 @@ non-sentinel,Spain,2026-W41,Influenza,Influenza B,B (unknown),detections,total,1
 non-sentinel,Spain,2026-W41,RSV,RSV,RSV,detections,total,5
 non-sentinel,Spain,2026-W41,RSV,RSV,RSV,tests,total,4703
 non-sentinel,Spain,2026-W41,RSV,RSV untyped,NA,detections,total,5
-non-sentinel,Spain,2026-W40,Influenza,Influenza,total,detections,total,107
-non-sentinel,Spain,2026-W40,Influenza,Influenza,total,tests,total,4768
+non-sentinel,Spain,2026-W40,Influenza,Influenza,total,detections,total,108
+non-sentinel,Spain,2026-W40,Influenza,Influenza,total,tests,total,4782
 non-sentinel,Spain,2026-W40,Influenza,Influenza A,A (unknown),detections,total,39
-non-sentinel,Spain,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,10
+non-sentinel,Spain,2026-W40,Influenza,Influenza A,A(H1)pdm09,detections,total,11
 non-sentinel,Spain,2026-W40,Influenza,Influenza A,A(H3),detections,total,54
 non-sentinel,Spain,2026-W40,Influenza,Influenza B,B (unknown),detections,total,4
 non-sentinel,Spain,2026-W40,RSV,RSV,RSV,detections,total,3
@@ -101179,12 +101631,35 @@ non-sentinel,Spain,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,12554
 non-sentinel,Spain,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,151004
 non-sentinel,Spain,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,387447
 non-sentinel,Spain,2022-W25,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,5259
+non-sentinel,Sweden,2026-W44,Influenza,Influenza,total,detections,total,112
+non-sentinel,Sweden,2026-W44,Influenza,Influenza,total,tests,total,3528
+non-sentinel,Sweden,2026-W44,Influenza,Influenza A,A (unknown),detections,total,74
+non-sentinel,Sweden,2026-W44,Influenza,Influenza A,A(H1)pdm09,detections,total,34
+non-sentinel,Sweden,2026-W44,Influenza,Influenza A,A(H3),detections,total,1
+non-sentinel,Sweden,2026-W44,Influenza,Influenza B,B (unknown),detections,total,3
+non-sentinel,Sweden,2026-W44,RSV,RSV,RSV,detections,total,3
+non-sentinel,Sweden,2026-W44,RSV,RSV,RSV,tests,total,3528
+non-sentinel,Sweden,2026-W44,RSV,RSV untyped,NA,detections,total,3
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,5
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,21
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,0
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,107
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,133
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,207
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,1003
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,77
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2176
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3528
+non-sentinel,Sweden,2026-W44,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,65
 non-sentinel,Sweden,2026-W43,Influenza,Influenza,total,detections,total,103
-non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A (unknown),detections,total,68
-non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,31
-non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A(H3),detections,total,2
+non-sentinel,Sweden,2026-W43,Influenza,Influenza,total,tests,total,3319
+non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A (unknown),detections,total,57
+non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A(H1)pdm09,detections,total,40
+non-sentinel,Sweden,2026-W43,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,Sweden,2026-W43,Influenza,Influenza B,B (unknown),detections,total,2
 non-sentinel,Sweden,2026-W43,RSV,RSV,RSV,detections,total,4
+non-sentinel,Sweden,2026-W43,RSV,RSV,RSV,tests,total,3319
 non-sentinel,Sweden,2026-W43,RSV,RSV untyped,NA,detections,total,4
 non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,0-4,9
 non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,15-64,28
@@ -101192,13 +101667,19 @@ non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,5-14,1
 non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,65+,83
 non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,total,121
 non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,detections,unk,0
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,0-4,185
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,15-64,925
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,5-14,88
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,65+,2074
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3319
+non-sentinel,Sweden,2026-W43,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,47
 non-sentinel,Sweden,2026-W42,Influenza,Influenza,total,detections,total,81
 non-sentinel,Sweden,2026-W42,Influenza,Influenza,total,tests,total,3372
-non-sentinel,Sweden,2026-W42,Influenza,Influenza A,A (unknown),detections,total,34
-non-sentinel,Sweden,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,40
+non-sentinel,Sweden,2026-W42,Influenza,Influenza A,A (unknown),detections,total,30
+non-sentinel,Sweden,2026-W42,Influenza,Influenza A,A(H1)pdm09,detections,total,44
 non-sentinel,Sweden,2026-W42,Influenza,Influenza A,A(H3),detections,total,4
-non-sentinel,Sweden,2026-W42,Influenza,Influenza B,B (unknown),detections,total,2
-non-sentinel,Sweden,2026-W42,Influenza,Influenza B,B/Vic,detections,total,1
+non-sentinel,Sweden,2026-W42,Influenza,Influenza B,B (unknown),detections,total,1
+non-sentinel,Sweden,2026-W42,Influenza,Influenza B,B/Vic,detections,total,2
 non-sentinel,Sweden,2026-W42,RSV,RSV,RSV,detections,total,1
 non-sentinel,Sweden,2026-W42,RSV,RSV,RSV,tests,total,3372
 non-sentinel,Sweden,2026-W42,RSV,RSV untyped,NA,detections,total,1
@@ -101216,8 +101697,8 @@ non-sentinel,Sweden,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,total,3372
 non-sentinel,Sweden,2026-W42,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,tests,unk,63
 non-sentinel,Sweden,2026-W41,Influenza,Influenza,total,detections,total,50
 non-sentinel,Sweden,2026-W41,Influenza,Influenza,total,tests,total,3288
-non-sentinel,Sweden,2026-W41,Influenza,Influenza A,A (unknown),detections,total,25
-non-sentinel,Sweden,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,18
+non-sentinel,Sweden,2026-W41,Influenza,Influenza A,A (unknown),detections,total,24
+non-sentinel,Sweden,2026-W41,Influenza,Influenza A,A(H1)pdm09,detections,total,19
 non-sentinel,Sweden,2026-W41,Influenza,Influenza A,A(H3),detections,total,4
 non-sentinel,Sweden,2026-W41,Influenza,Influenza B,B (unknown),detections,total,3
 non-sentinel,Sweden,2026-W41,RSV,RSV,RSV,detections,total,3
